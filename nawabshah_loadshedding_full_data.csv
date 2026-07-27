@@ -1,0 +1,1081 @@
+Customer_Name,Address,Bill_ID,Billing_Month,Area,Feeder_Type,Loadshedding_Hours_Per_Day,Units_Billed_kWh,Units_Consumed_kWh,Bill_Amount_PKR,Bill_Payment_Status,Electricity_Theft_Suspected
+Yasmin Marri,"House #144, Block #15, Manwabad Nawabshah",KE-MWN-202507-0153,2025-07,Manwabad Nawabshah,Semi-Urban Feeder,7.0,49.9,49.6,1620,Unpaid,No
+Rabia Soomro,"House #394, Mohalla #11, Society Colony Nawabshah",KE-SCN-202503-0132,2025-03,Society Colony Nawabshah,Urban Residential Feeder,3.3,101.2,102.9,2940,Paid,No
+Amna Sheikh,"House #230, Block #36, Manwabad Nawabshah",KE-MWN-202410-0106,2024-10,Manwabad Nawabshah,Semi-Urban Feeder,6.9,80.5,82.2,2800,Partially Paid,No
+Zainab Rajput,"House #107, Lane #24, Farsi Bagh Nawabshah",KE-FBN-202402-0070,2024-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.8,124.8,128.8,3760,Paid,No
+Bushra Bhurgri,"House #59, Chowk #43, Manwabad Nawabshah",KE-MWN-202407-0091,2024-07,Manwabad Nawabshah,Semi-Urban Feeder,9.4,62.7,64.5,2060,Paid,No
+Saleem Shah,"House #422, Gali #1, Farsi Bagh Nawabshah",KE-FBN-202301-0003,2023-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.4,88.0,85.6,2790,Paid,No
+Maryam Bhurgri,"House #344, Chowk #5, Society Colony Nawabshah",KE-SCN-202502-0130,2025-02,Society Colony Nawabshah,Urban Residential Feeder,2.3,139.7,142.6,4140,Unpaid,No
+Bushra Mahar,"House #157, Road #43, Society Colony Nawabshah",KE-SCN-202409-0101,2024-09,Society Colony Nawabshah,Urban Residential Feeder,5.9,135.7,137.6,4150,Paid,No
+Farhan Memon,"House #363, Mohalla #34, University Colony Nawabshah",KE-UCN-202302-0010,2023-02,University Colony Nawabshah,Urban Residential Feeder,4.8,120.4,123.6,3780,Paid,No
+Noman Chandio,"House #320, Mohalla #46, Farsi Bagh Nawabshah",KE-FBN-202405-0081,2024-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.9,132.5,133.2,4000,Paid,No
+Shahzad Pathan,"House #411, Block #27, University Colony Nawabshah",KE-UCN-202407-0091,2024-07,University Colony Nawabshah,Urban Residential Feeder,7.9,111.2,116.5,3390,Paid,No
+Robina Junejo,"House #13, Mohalla #35, Farsi Bagh Nawabshah",KE-FBN-202404-0079,2024-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.2,166.4,164.2,5370,Paid,No
+Bilal Jatoi,"House #170, Mohalla #13, Society Colony Nawabshah",KE-SCN-202406-0090,2024-06,Society Colony Nawabshah,Urban Residential Feeder,4.0,89.8,87.8,2700,Paid,No
+Amna Rajput,"House #228, Block #34, Farsi Bagh Nawabshah",KE-FBN-202406-0089,2024-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.9,75.7,73.6,2280,Paid,No
+Shazia Abbasi,"House #150, Road #27, Farsi Bagh Nawabshah",KE-FBN-202506-0150,2025-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,5.5,94.5,94.2,3130,Paid,No
+Junaid Jamali,"House #59, Mohalla #10, Manwabad Nawabshah",KE-MWN-202508-0157,2025-08,Manwabad Nawabshah,Semi-Urban Feeder,6.6,72.0,71.2,2100,Partially Paid,No
+Samina Solangi,"House #282, Lane #27, Manwabad Nawabshah",KE-MWN-202408-0099,2024-08,Manwabad Nawabshah,Semi-Urban Feeder,6.0,59.3,60.9,1830,Paid,No
+Bilal Malik,"House #103, Street #39, Isharpura Nawabshah",KE-ISN-202412-0116,2024-12,Isharpura Nawabshah,Rural Feeder,5.6,46.2,67.1,1450,Unpaid,Yes
+Asma Panhwar,"House #166, Gali #31, Manwabad Nawabshah",KE-MWN-202402-0069,2024-02,Manwabad Nawabshah,Semi-Urban Feeder,4.1,54.3,55.7,1690,Paid,No
+Nadia Junejo,"House #438, Mohalla #19, University Colony Nawabshah",KE-UCN-202507-0154,2025-07,University Colony Nawabshah,Urban Residential Feeder,5.6,60.7,61.9,1930,Paid,No
+Kiran Sheikh,"House #378, Chowk #30, University Colony Nawabshah",KE-UCN-202506-0150,2025-06,University Colony Nawabshah,Urban Residential Feeder,4.4,80.6,83.4,2670,Paid,No
+Yasir Malik,"House #356, Gali #32, University Colony Nawabshah",KE-UCN-202310-0050,2023-10,University Colony Nawabshah,Urban Residential Feeder,3.0,111.7,112.8,3290,Paid,No
+Farhan Baloch,"House #167, Chowk #8, Isharpura Nawabshah",KE-ISN-202311-0053,2023-11,Isharpura Nawabshah,Rural Feeder,6.8,29.1,39.9,900,Unpaid,Yes
+Abdul Soomro,"House #4, Road #4, Farsi Bagh Nawabshah",KE-FBN-202408-0100,2024-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.2,66.2,66.2,2310,Paid,No
+Sana Sheikh,"House #227, Chowk #21, Gareebabad Nawabshah",KE-GBN-202510-0169,2025-10,Gareebabad Nawabshah,Low-Income Residential Feeder,6.6,40.9,40.8,1310,Unpaid,No
+Owais Pathan,"House #175, Street #24, Society Colony Nawabshah",KE-SCN-202503-0135,2025-03,Society Colony Nawabshah,Urban Residential Feeder,3.8,112.7,113.1,3480,Paid,No
+Salman Memon,"House #140, Lane #36, Farsi Bagh Nawabshah",KE-FBN-202508-0159,2025-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.1,144.8,144.1,4190,Paid,No
+Sara Jamali,"House #214, Mohalla #47, Society Colony Nawabshah",KE-SCN-202304-0019,2023-04,Society Colony Nawabshah,Urban Residential Feeder,3.6,142.0,146.3,4060,Paid,No
+Asad Qureshi,"House #340, Road #11, Manwabad Nawabshah",KE-MWN-202305-0024,2023-05,Manwabad Nawabshah,Semi-Urban Feeder,7.8,90.9,92.4,2790,Paid,No
+Salman Junejo,"House #240, Road #1, Gareebabad Nawabshah",KE-GBN-202405-0085,2024-05,Gareebabad Nawabshah,Low-Income Residential Feeder,9.6,50.7,51.0,1470,Paid,No
+Maryam Khaskheli,"House #26, Block #4, University Colony Nawabshah",KE-UCN-202408-0100,2024-08,University Colony Nawabshah,Urban Residential Feeder,7.3,72.9,112.5,2490,Paid,Yes
+Shabana Rajput,"House #323, Road #28, University Colony Nawabshah",KE-UCN-202402-0066,2024-02,University Colony Nawabshah,Urban Residential Feeder,2.3,76.5,78.1,2560,Partially Paid,No
+Sohail Larik,"House #353, Block #17, Isharpura Nawabshah",KE-ISN-202305-0021,2023-05,Isharpura Nawabshah,Rural Feeder,9.9,44.3,45.1,1450,Paid,No
+Saleem Rind,"House #33, Block #17, University Colony Nawabshah",KE-UCN-202408-0096,2024-08,University Colony Nawabshah,Urban Residential Feeder,6.0,140.0,146.2,4410,Paid,No
+Umer Ansari,"House #194, Lane #13, Farsi Bagh Nawabshah",KE-FBN-202304-0016,2023-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.3,132.0,133.8,4140,Paid,No
+Rabia Khaskheli,"House #318, Lane #26, Manwabad Nawabshah",KE-MWN-202310-0049,2023-10,Manwabad Nawabshah,Semi-Urban Feeder,7.8,52.8,54.8,1550,Unpaid,No
+Ayesha Memon,"House #103, Block #25, Society Colony Nawabshah",KE-SCN-202505-0144,2025-05,Society Colony Nawabshah,Urban Residential Feeder,4.9,97.7,102.4,3380,Paid,No
+Danish Marri,"House #187, Road #38, Farsi Bagh Nawabshah",KE-FBN-202403-0075,2024-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.8,205.5,212.2,5950,Paid,No
+Sara Jamali,"House #386, Road #45, Isharpura Nawabshah",KE-ISN-202507-0151,2025-07,Isharpura Nawabshah,Rural Feeder,14,57.2,58.5,1950,Paid,No
+Sobia Junejo,"House #384, Road #34, Farsi Bagh Nawabshah",KE-FBN-202302-0008,2023-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.4,157.7,156.1,4810,Paid,No
+Zainab Sheikh,"House #349, Road #44, Isharpura Nawabshah",KE-ISN-202409-0102,2024-09,Isharpura Nawabshah,Rural Feeder,8.0,34.6,74.0,1030,Partially Paid,Yes
+Saba Soomro,"House #309, Street #35, University Colony Nawabshah",KE-UCN-202506-0146,2025-06,University Colony Nawabshah,Urban Residential Feeder,5.3,84.4,87.9,2490,Paid,No
+Sadia Ali,"House #411, Chowk #19, Manwabad Nawabshah",KE-MWN-202512-0177,2025-12,Manwabad Nawabshah,Semi-Urban Feeder,5.2,85.3,125.8,2980,Unpaid,Yes
+Sobia Sheikh,"House #282, Block #8, Farsi Bagh Nawabshah",KE-FBN-202306-0027,2023-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,5.5,81.0,79.3,2590,Partially Paid,No
+Ghulam Panhwar,"House #197, Street #29, Society Colony Nawabshah",KE-SCN-202502-0126,2025-02,Society Colony Nawabshah,Urban Residential Feeder,3.5,119.9,122.1,3610,Partially Paid,No
+Umer Shah,"House #122, Mohalla #42, Farsi Bagh Nawabshah",KE-FBN-202502-0130,2025-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.3,124.3,123.2,3970,Paid,No
+Zeeshan Bhurgri,"House #402, Block #22, University Colony Nawabshah",KE-UCN-202412-0120,2024-12,University Colony Nawabshah,Urban Residential Feeder,3.4,125.0,129.8,4240,Unpaid,No
+Iqra Pathan,"House #153, Mohalla #30, Isharpura Nawabshah",KE-ISN-202510-0167,2025-10,Isharpura Nawabshah,Rural Feeder,8.9,46.9,48.6,1460,Paid,No
+Hamza Baloch,"House #414, Mohalla #48, Gareebabad Nawabshah",KE-GBN-202302-0007,2023-02,Gareebabad Nawabshah,Low-Income Residential Feeder,5.8,39.0,39.0,1240,Unpaid,No
+Asma Abbasi,"House #116, Street #21, Farsi Bagh Nawabshah",KE-FBN-202511-0173,2025-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.0,168.8,173.2,5450,Paid,No
+Arslan Memon,"House #127, Street #48, Farsi Bagh Nawabshah",KE-FBN-202511-0175,2025-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.3,134.7,137.2,4360,Paid,No
+Asma Panhwar,"House #39, Lane #31, University Colony Nawabshah",KE-UCN-202312-0056,2023-12,University Colony Nawabshah,Urban Residential Feeder,3.4,87.1,85.3,2830,Partially Paid,No
+Ayesha Bijarani,"House #187, Street #47, Farsi Bagh Nawabshah",KE-FBN-202409-0103,2024-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.9,188.9,193.0,5610,Paid,No
+Bilal Memon,"House #310, Mohalla #13, Society Colony Nawabshah",KE-SCN-202504-0137,2025-04,Society Colony Nawabshah,Urban Residential Feeder,3.0,106.3,105.1,3270,Paid,No
+Hina Panhwar,"House #35, Gali #37, Gareebabad Nawabshah",KE-GBN-202503-0134,2025-03,Gareebabad Nawabshah,Low-Income Residential Feeder,7.7,58.2,93.1,1920,Unpaid,Yes
+Maryam Sethar,"House #130, Mohalla #10, Gareebabad Nawabshah",KE-GBN-202511-0172,2025-11,Gareebabad Nawabshah,Low-Income Residential Feeder,6.5,54.4,54.5,1590,Paid,No
+Sikandar Bijarani,"House #363, Street #7, University Colony Nawabshah",KE-UCN-202405-0083,2024-05,University Colony Nawabshah,Urban Residential Feeder,4.0,87.4,86.3,3040,Paid,No
+Rashid Shah,"House #160, Chowk #9, University Colony Nawabshah",KE-UCN-202312-0058,2023-12,University Colony Nawabshah,Urban Residential Feeder,2.8,123.7,120.0,3980,Paid,No
+Naveed Rajput,"House #288, Block #28, Farsi Bagh Nawabshah",KE-FBN-202407-0093,2024-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.9,115.4,118.2,3960,Paid,No
+Ayesha Pathan,"House #8, Street #34, Society Colony Nawabshah",KE-SCN-202301-0003,2023-01,Society Colony Nawabshah,Urban Residential Feeder,1.3,98.1,101.8,3050,Paid,No
+Adnan Siddiqui,"House #374, Block #47, Gareebabad Nawabshah",KE-GBN-202405-0082,2024-05,Gareebabad Nawabshah,Low-Income Residential Feeder,7.9,58.1,56.7,1720,Unpaid,No
+Abdul Memon,"House #174, Mohalla #5, University Colony Nawabshah",KE-UCN-202302-0008,2023-02,University Colony Nawabshah,Urban Residential Feeder,2.4,121.0,264.4,3960,Paid,Yes
+Noman Panhwar,"House #152, Street #25, Society Colony Nawabshah",KE-SCN-202302-0010,2023-02,Society Colony Nawabshah,Urban Residential Feeder,1.5,86.5,84.8,2800,Paid,No
+Abdul Baloch,"House #102, Mohalla #12, Society Colony Nawabshah",KE-SCN-202404-0076,2024-04,Society Colony Nawabshah,Urban Residential Feeder,2.5,81.9,81.3,2400,Paid,No
+Sobia Abbasi,"House #118, Block #47, Farsi Bagh Nawabshah",KE-FBN-202403-0072,2024-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.6,158.2,163.2,4680,Paid,No
+Asma Chandio,"House #142, Street #47, Gareebabad Nawabshah",KE-GBN-202306-0028,2023-06,Gareebabad Nawabshah,Low-Income Residential Feeder,12.2,63.3,63.3,1900,Partially Paid,No
+Shoaib Bijarani,"House #145, Road #32, Society Colony Nawabshah",KE-SCN-202408-0098,2024-08,Society Colony Nawabshah,Urban Residential Feeder,6.4,97.0,98.2,3330,Paid,No
+Yasir Rind,"House #404, Gali #35, Farsi Bagh Nawabshah",KE-FBN-202306-0026,2023-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.6,154.9,159.3,4630,Paid,No
+Noman Khaskheli,"House #399, Road #29, Society Colony Nawabshah",KE-SCN-202410-0107,2024-10,Society Colony Nawabshah,Urban Residential Feeder,1.8,79.6,78.7,2330,Paid,No
+Amna Qureshi,"House #372, Lane #29, Society Colony Nawabshah",KE-SCN-202502-0128,2025-02,Society Colony Nawabshah,Urban Residential Feeder,2.9,103.9,105.1,3010,Paid,No
+Waqas Mahar,"House #71, Lane #22, Farsi Bagh Nawabshah",KE-FBN-202303-0012,2023-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.0,126.8,127.9,4280,Paid,No
+Hamza Ansari,"House #44, Street #28, Gareebabad Nawabshah",KE-GBN-202507-0152,2025-07,Gareebabad Nawabshah,Low-Income Residential Feeder,13.1,36.2,37.4,1180,Paid,No
+Rashid Ali,"House #443, Lane #8, Isharpura Nawabshah",KE-ISN-202507-0155,2025-07,Isharpura Nawabshah,Rural Feeder,14,38.6,83.9,1280,Paid,Yes
+Ali Sheikh,"House #270, Road #29, Isharpura Nawabshah",KE-ISN-202409-0105,2024-09,Isharpura Nawabshah,Rural Feeder,12.3,57.6,91.9,1790,Paid,Yes
+Fahad Baloch,"House #240, Street #2, Isharpura Nawabshah",KE-ISN-202309-0045,2023-09,Isharpura Nawabshah,Rural Feeder,11.6,54.8,55.5,1870,Partially Paid,No
+Kamran Mahar,"House #71, Lane #24, Farsi Bagh Nawabshah",KE-FBN-202308-0038,2023-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.2,81.1,83.7,2720,Paid,No
+Maryam Soomro,"House #30, Mohalla #42, Gareebabad Nawabshah",KE-GBN-202407-0094,2024-07,Gareebabad Nawabshah,Low-Income Residential Feeder,9.3,35.0,34.2,1000,Partially Paid,No
+Bushra Bhurgri,"House #443, Road #40, Farsi Bagh Nawabshah",KE-FBN-202402-0067,2024-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.1,142.3,138.9,4000,Paid,No
+Noman Jamali,"House #18, Chowk #47, Gareebabad Nawabshah",KE-GBN-202506-0150,2025-06,Gareebabad Nawabshah,Low-Income Residential Feeder,11.9,70.1,93.5,2180,Unpaid,Yes
+Faisal Marri,"House #418, Road #42, Society Colony Nawabshah",KE-SCN-202403-0071,2024-03,Society Colony Nawabshah,Urban Residential Feeder,2.2,125.5,125.1,3860,Paid,No
+Hassan Solangi,"House #253, Road #38, Gareebabad Nawabshah",KE-GBN-202301-0003,2023-01,Gareebabad Nawabshah,Low-Income Residential Feeder,5.8,37.1,37.4,1150,Paid,No
+Rizwan Soomro,"House #99, Lane #6, Farsi Bagh Nawabshah",KE-FBN-202306-0030,2023-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.5,90.0,89.7,2710,Paid,No
+Hamza Jatoi,"House #181, Street #20, Isharpura Nawabshah",KE-ISN-202503-0133,2025-03,Isharpura Nawabshah,Rural Feeder,9.7,48.4,72.5,1690,Paid,Yes
+Shoaib Jamali,"House #270, Street #10, Society Colony Nawabshah",KE-SCN-202412-0119,2024-12,Society Colony Nawabshah,Urban Residential Feeder,2.2,54.0,55.7,1890,Paid,No
+Samina Abbasi,"House #10, Road #13, Society Colony Nawabshah",KE-SCN-202405-0082,2024-05,Society Colony Nawabshah,Urban Residential Feeder,3.5,61.5,62.1,1900,Paid,No
+Kashif Shah,"House #82, Street #10, Farsi Bagh Nawabshah",KE-FBN-202308-0040,2023-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.6,101.4,99.5,3500,Partially Paid,No
+Saba Qureshi,"House #119, Road #47, Gareebabad Nawabshah",KE-GBN-202409-0105,2024-09,Gareebabad Nawabshah,Low-Income Residential Feeder,11.0,56.2,56.1,1880,Paid,No
+Talha Chachar,"House #231, Chowk #5, University Colony Nawabshah",KE-UCN-202311-0052,2023-11,University Colony Nawabshah,Urban Residential Feeder,3.6,92.9,96.0,3240,Unpaid,No
+Shazia Bhutto,"House #243, Road #26, University Colony Nawabshah",KE-UCN-202508-0159,2025-08,University Colony Nawabshah,Urban Residential Feeder,6.1,116.4,113.0,3440,Paid,No
+Ayesha Sheikh,"House #379, Road #6, Manwabad Nawabshah",KE-MWN-202405-0083,2024-05,Manwabad Nawabshah,Semi-Urban Feeder,5.6,63.0,62.5,1900,Partially Paid,No
+Sohail Shah,"House #389, Street #4, Farsi Bagh Nawabshah",KE-FBN-202404-0078,2024-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.1,91.7,90.0,3020,Paid,No
+Hina Rind,"House #101, Road #44, Isharpura Nawabshah",KE-ISN-202309-0041,2023-09,Isharpura Nawabshah,Rural Feeder,11.0,57.9,59.8,1980,Unpaid,No
+Kashif Soomro,"House #126, Gali #17, Manwabad Nawabshah",KE-MWN-202406-0087,2024-06,Manwabad Nawabshah,Semi-Urban Feeder,7.6,40.7,39.9,1250,Paid,No
+Asma Bhutto,"House #300, Street #7, Gareebabad Nawabshah",KE-GBN-202311-0053,2023-11,Gareebabad Nawabshah,Low-Income Residential Feeder,6.7,54.5,53.9,1690,Partially Paid,No
+Muhammad Bhutto,"House #150, Mohalla #20, Farsi Bagh Nawabshah",KE-FBN-202406-0087,2024-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.3,98.2,96.0,2860,Paid,No
+Nida Ansari,"House #60, Lane #48, Society Colony Nawabshah",KE-SCN-202310-0048,2023-10,Society Colony Nawabshah,Urban Residential Feeder,4.4,127.2,131.2,4180,Partially Paid,No
+Waqas Pathan,"House #67, Lane #5, University Colony Nawabshah",KE-UCN-202508-0158,2025-08,University Colony Nawabshah,Urban Residential Feeder,6.1,63.0,63.1,2140,Paid,No
+Muhammad Pathan,"House #223, Street #19, Manwabad Nawabshah",KE-MWN-202303-0012,2023-03,Manwabad Nawabshah,Semi-Urban Feeder,6.8,88.0,89.2,2800,Paid,No
+Imran Sethar,"House #417, Street #48, Manwabad Nawabshah",KE-MWN-202406-0089,2024-06,Manwabad Nawabshah,Semi-Urban Feeder,10.5,70.1,72.5,2180,Partially Paid,No
+Hina Bijarani,"House #225, Gali #18, Gareebabad Nawabshah",KE-GBN-202405-0084,2024-05,Gareebabad Nawabshah,Low-Income Residential Feeder,8.6,57.4,59.1,1640,Unpaid,No
+Asad Jatoi,"House #82, Street #15, University Colony Nawabshah",KE-UCN-202401-0063,2024-01,University Colony Nawabshah,Urban Residential Feeder,3.3,103.0,106.4,3240,Partially Paid,No
+Ghulam Soomro,"House #99, Street #1, Farsi Bagh Nawabshah",KE-FBN-202503-0134,2025-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.6,99.8,100.7,3120,Paid,No
+Abdul Pathan,"House #162, Gali #13, Society Colony Nawabshah",KE-SCN-202309-0041,2023-09,Society Colony Nawabshah,Urban Residential Feeder,4.7,75.5,75.6,2160,Partially Paid,No
+Kashif Chachar,"House #345, Road #45, University Colony Nawabshah",KE-UCN-202406-0090,2024-06,University Colony Nawabshah,Urban Residential Feeder,5.3,123.9,128.3,3720,Unpaid,No
+Owais Memon,"House #411, Road #28, University Colony Nawabshah",KE-UCN-202503-0131,2025-03,University Colony Nawabshah,Urban Residential Feeder,4.1,89.4,188.1,2880,Paid,Yes
+Sadia Shah,"House #401, Lane #4, Manwabad Nawabshah",KE-MWN-202404-0077,2024-04,Manwabad Nawabshah,Semi-Urban Feeder,5.1,94.8,183.5,2800,Unpaid,Yes
+Amna Soomro,"House #39, Street #18, Farsi Bagh Nawabshah",KE-FBN-202305-0024,2023-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.2,82.6,85.8,2810,Partially Paid,No
+Aamir Marri,"House #382, Chowk #38, University Colony Nawabshah",KE-UCN-202405-0085,2024-05,University Colony Nawabshah,Urban Residential Feeder,7.0,93.1,97.4,2900,Paid,No
+Kamran Qureshi,"House #251, Lane #14, Farsi Bagh Nawabshah",KE-FBN-202301-0005,2023-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.0,199.4,203.4,5720,Unpaid,No
+Rukhsana Sheikh,"House #393, Lane #43, Manwabad Nawabshah",KE-MWN-202506-0150,2025-06,Manwabad Nawabshah,Semi-Urban Feeder,9.1,44.2,43.8,1520,Unpaid,No
+Ayesha Memon,"House #134, Street #12, Isharpura Nawabshah",KE-ISN-202307-0033,2023-07,Isharpura Nawabshah,Rural Feeder,11.1,31.5,31.0,1040,Unpaid,No
+Nasir Sethar,"House #398, Street #13, Manwabad Nawabshah",KE-MWN-202504-0140,2025-04,Manwabad Nawabshah,Semi-Urban Feeder,4.4,63.6,62.1,2040,Unpaid,No
+Robina Jamali,"House #297, Block #34, Farsi Bagh Nawabshah",KE-FBN-202507-0155,2025-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,5.4,141.0,147.0,4540,Paid,No
+Aliya Abbasi,"House #262, Road #4, Gareebabad Nawabshah",KE-GBN-202404-0078,2024-04,Gareebabad Nawabshah,Low-Income Residential Feeder,9.9,63.1,64.8,2140,Partially Paid,No
+Yasmin Larik,"House #373, Block #22, Farsi Bagh Nawabshah",KE-FBN-202403-0073,2024-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.3,98.8,97.6,3190,Paid,No
+Umer Khan,"House #293, Mohalla #30, University Colony Nawabshah",KE-UCN-202506-0149,2025-06,University Colony Nawabshah,Urban Residential Feeder,6.5,69.4,72.7,2100,Unpaid,No
+Zainab Bhutto,"House #393, Lane #6, University Colony Nawabshah",KE-UCN-202507-0153,2025-07,University Colony Nawabshah,Urban Residential Feeder,5.5,82.7,86.2,2870,Paid,No
+Sana Malik,"House #233, Block #49, Isharpura Nawabshah",KE-ISN-202508-0156,2025-08,Isharpura Nawabshah,Rural Feeder,11.8,38.9,38.5,1270,Partially Paid,No
+Kashif Shah,"House #410, Gali #3, Society Colony Nawabshah",KE-SCN-202307-0032,2023-07,Society Colony Nawabshah,Urban Residential Feeder,5.4,131.2,132.7,4500,Paid,No
+Noman Bhurgri,"House #321, Gali #5, Farsi Bagh Nawabshah",KE-FBN-202303-0013,2023-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.0,125.6,123.0,3900,Paid,No
+Amna Qureshi,"House #74, Road #20, Manwabad Nawabshah",KE-MWN-202402-0067,2024-02,Manwabad Nawabshah,Semi-Urban Feeder,3.5,57.0,58.9,1610,Paid,No
+Naveed Pathan,"House #92, Street #28, University Colony Nawabshah",KE-UCN-202408-0097,2024-08,University Colony Nawabshah,Urban Residential Feeder,7.1,87.8,90.3,2550,Paid,No
+Usman Malik,"House #401, Block #20, Gareebabad Nawabshah",KE-GBN-202403-0074,2024-03,Gareebabad Nawabshah,Low-Income Residential Feeder,8.5,49.2,50.2,1650,Unpaid,No
+Ali Junejo,"House #291, Street #8, Society Colony Nawabshah",KE-SCN-202509-0161,2025-09,Society Colony Nawabshah,Urban Residential Feeder,5.4,95.5,94.4,2930,Paid,No
+Talha Panhwar,"House #155, Block #14, Farsi Bagh Nawabshah",KE-FBN-202302-0009,2023-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.2,167.0,173.4,5080,Paid,No
+Ghulam Siddiqui,"House #77, Street #4, Gareebabad Nawabshah",KE-GBN-202411-0114,2024-11,Gareebabad Nawabshah,Low-Income Residential Feeder,6.0,31.4,43.1,940,Unpaid,Yes
+Junaid Solangi,"House #172, Road #26, Isharpura Nawabshah",KE-ISN-202412-0120,2024-12,Isharpura Nawabshah,Rural Feeder,7.3,38.7,74.7,1110,Unpaid,Yes
+Shoaib Khan,"House #340, Gali #40, Isharpura Nawabshah",KE-ISN-202302-0008,2023-02,Isharpura Nawabshah,Rural Feeder,5.4,41.2,65.0,1250,Paid,Yes
+Naila Khaskheli,"House #348, Chowk #5, Gareebabad Nawabshah",KE-GBN-202507-0154,2025-07,Gareebabad Nawabshah,Low-Income Residential Feeder,14,62.9,61.9,1870,Unpaid,No
+Farah Baloch,"House #286, Block #47, University Colony Nawabshah",KE-UCN-202402-0067,2024-02,University Colony Nawabshah,Urban Residential Feeder,3.0,145.4,149.9,4270,Paid,No
+Asma Mahar,"House #208, Chowk #8, Manwabad Nawabshah",KE-MWN-202309-0042,2023-09,Manwabad Nawabshah,Semi-Urban Feeder,9.3,44.6,44.4,1350,Paid,No
+Danish Panhwar,"House #265, Road #18, Manwabad Nawabshah",KE-MWN-202306-0028,2023-06,Manwabad Nawabshah,Semi-Urban Feeder,10.1,83.7,87.2,2510,Paid,No
+Haris Rind,"House #60, Gali #45, Farsi Bagh Nawabshah",KE-FBN-202503-0132,2025-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.6,163.9,160.2,5150,Paid,No
+Amna Chandio,"House #163, Block #19, University Colony Nawabshah",KE-UCN-202405-0081,2024-05,University Colony Nawabshah,Urban Residential Feeder,6.0,58.1,59.9,1960,Paid,No
+Usman Junejo,"House #232, Gali #25, University Colony Nawabshah",KE-UCN-202505-0144,2025-05,University Colony Nawabshah,Urban Residential Feeder,5.9,94.9,92.3,3170,Paid,No
+Fahad Qureshi,"House #298, Chowk #32, Farsi Bagh Nawabshah",KE-FBN-202507-0152,2025-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.9,115.6,112.4,3330,Paid,No
+Bilal Chandio,"House #274, Chowk #10, University Colony Nawabshah",KE-UCN-202511-0175,2025-11,University Colony Nawabshah,Urban Residential Feeder,4.2,82.9,135.9,2720,Paid,Yes
+Rizwan Bhurgri,"House #252, Mohalla #11, Gareebabad Nawabshah",KE-GBN-202402-0070,2024-02,Gareebabad Nawabshah,Low-Income Residential Feeder,6.2,38.7,37.6,1270,Paid,No
+Samina Solangi,"House #83, Lane #22, Farsi Bagh Nawabshah",KE-FBN-202309-0044,2023-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.9,122.6,127.2,3950,Unpaid,No
+Rabia Marri,"House #357, Gali #10, Manwabad Nawabshah",KE-MWN-202403-0074,2024-03,Manwabad Nawabshah,Semi-Urban Feeder,3.5,57.0,109.1,1780,Paid,Yes
+Nadia Solangi,"House #178, Gali #7, Society Colony Nawabshah",KE-SCN-202508-0157,2025-08,Society Colony Nawabshah,Urban Residential Feeder,3.1,102.5,102.1,3160,Paid,No
+Sara Soomro,"House #9, Street #15, Manwabad Nawabshah",KE-MWN-202505-0142,2025-05,Manwabad Nawabshah,Semi-Urban Feeder,5.5,82.4,123.7,2590,Paid,Yes
+Hassan Baloch,"House #44, Chowk #41, Farsi Bagh Nawabshah",KE-FBN-202404-0080,2024-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,0.8,135.0,210.9,4410,Paid,Yes
+Robina Chachar,"House #122, Road #13, Isharpura Nawabshah",KE-ISN-202405-0083,2024-05,Isharpura Nawabshah,Rural Feeder,9.6,44.2,45.7,1350,Paid,No
+Haris Rind,"House #267, Lane #32, Society Colony Nawabshah",KE-SCN-202305-0024,2023-05,Society Colony Nawabshah,Urban Residential Feeder,4.2,70.9,73.7,2000,Paid,No
+Nasir Ansari,"House #330, Lane #5, Farsi Bagh Nawabshah",KE-FBN-202312-0056,2023-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,0.9,98.2,101.3,3170,Paid,No
+Robina Marri,"House #313, Street #23, Farsi Bagh Nawabshah",KE-FBN-202305-0022,2023-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.6,118.9,116.4,3600,Unpaid,No
+Adnan Sheikh,"House #217, Mohalla #41, Gareebabad Nawabshah",KE-GBN-202408-0098,2024-08,Gareebabad Nawabshah,Low-Income Residential Feeder,8.5,32.9,32.9,1090,Paid,No
+Ahmed Soomro,"House #205, Street #17, Gareebabad Nawabshah",KE-GBN-202310-0046,2023-10,Gareebabad Nawabshah,Low-Income Residential Feeder,7.5,29.2,30.3,990,Paid,No
+Sobia Abbasi,"House #130, Block #8, Society Colony Nawabshah",KE-SCN-202412-0120,2024-12,Society Colony Nawabshah,Urban Residential Feeder,3.3,76.0,79.3,2630,Paid,No
+Rashid Abbasi,"House #101, Road #48, Farsi Bagh Nawabshah",KE-FBN-202403-0074,2024-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.1,114.8,117.9,3690,Paid,No
+Fatima Panhwar,"House #94, Lane #38, Farsi Bagh Nawabshah",KE-FBN-202405-0083,2024-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.3,169.7,176.2,5130,Paid,No
+Salman Solangi,"House #310, Mohalla #4, Farsi Bagh Nawabshah",KE-FBN-202501-0124,2025-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.7,92.4,94.4,2610,Paid,No
+Muhammad Shah,"House #269, Street #24, University Colony Nawabshah",KE-UCN-202512-0179,2025-12,University Colony Nawabshah,Urban Residential Feeder,3.1,100.5,99.8,3350,Paid,No
+Owais Sethar,"House #265, Chowk #4, University Colony Nawabshah",KE-UCN-202501-0124,2025-01,University Colony Nawabshah,Urban Residential Feeder,2.9,56.4,56.2,1920,Partially Paid,No
+Faisal Jatoi,"House #285, Lane #4, Gareebabad Nawabshah",KE-GBN-202504-0140,2025-04,Gareebabad Nawabshah,Low-Income Residential Feeder,10.3,53.4,77.4,1580,Unpaid,Yes
+Tariq Ali,"House #263, Chowk #24, Isharpura Nawabshah",KE-ISN-202304-0020,2023-04,Isharpura Nawabshah,Rural Feeder,12.3,30.9,57.4,980,Unpaid,Yes
+Hassan Bhutto,"House #286, Chowk #27, University Colony Nawabshah",KE-UCN-202509-0165,2025-09,University Colony Nawabshah,Urban Residential Feeder,6.2,129.5,130.2,4500,Paid,No
+Yasmin Sethar,"House #256, Chowk #1, Isharpura Nawabshah",KE-ISN-202506-0147,2025-06,Isharpura Nawabshah,Rural Feeder,14,65.8,64.8,1990,Paid,No
+Rabia Abbasi,"House #132, Chowk #19, Isharpura Nawabshah",KE-ISN-202406-0090,2024-06,Isharpura Nawabshah,Rural Feeder,14,29.2,28.7,940,Partially Paid,No
+Sara Abbasi,"House #344, Chowk #25, Society Colony Nawabshah",KE-SCN-202307-0034,2023-07,Society Colony Nawabshah,Urban Residential Feeder,6.8,109.3,110.4,3270,Paid,No
+Haris Panhwar,"House #189, Street #41, Manwabad Nawabshah",KE-MWN-202509-0162,2025-09,Manwabad Nawabshah,Semi-Urban Feeder,6.3,40.5,39.4,1220,Paid,No
+Aliya Sheikh,"House #354, Street #11, Society Colony Nawabshah",KE-SCN-202308-0036,2023-08,Society Colony Nawabshah,Urban Residential Feeder,6.4,97.2,98.1,2890,Paid,No
+Iqra Ansari,"House #229, Block #42, Farsi Bagh Nawabshah",KE-FBN-202407-0094,2024-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,5.5,68.1,71.1,2250,Paid,No
+Umer Bijarani,"House #52, Gali #25, Isharpura Nawabshah",KE-ISN-202310-0050,2023-10,Isharpura Nawabshah,Rural Feeder,8.1,30.5,29.9,870,Paid,No
+Asma Shah,"House #51, Lane #26, Manwabad Nawabshah",KE-MWN-202304-0017,2023-04,Manwabad Nawabshah,Semi-Urban Feeder,8.3,72.4,74.0,2290,Partially Paid,No
+Rukhsana Memon,"House #419, Street #29, Isharpura Nawabshah",KE-ISN-202401-0063,2024-01,Isharpura Nawabshah,Rural Feeder,5.8,27.6,43.7,820,Paid,Yes
+Imran Rind,"House #55, Street #10, Isharpura Nawabshah",KE-ISN-202310-0048,2023-10,Isharpura Nawabshah,Rural Feeder,6.6,37.2,49.2,1120,Unpaid,Yes
+Ali Khan,"House #249, Chowk #47, Gareebabad Nawabshah",KE-GBN-202402-0066,2024-02,Gareebabad Nawabshah,Low-Income Residential Feeder,4.5,61.5,62.5,1790,Paid,No
+Nasir Marri,"House #440, Lane #20, University Colony Nawabshah",KE-UCN-202309-0041,2023-09,University Colony Nawabshah,Urban Residential Feeder,3.1,85.3,85.5,2760,Paid,No
+Sara Malik,"House #367, Gali #42, Farsi Bagh Nawabshah",KE-FBN-202408-0098,2024-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.2,109.9,151.1,3230,Paid,Yes
+Hamza Sethar,"House #326, Block #19, Isharpura Nawabshah",KE-ISN-202403-0072,2024-03,Isharpura Nawabshah,Rural Feeder,9.9,29.5,64.3,850,Partially Paid,Yes
+Rashid Abbasi,"House #278, Lane #19, Farsi Bagh Nawabshah",KE-FBN-202410-0107,2024-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.2,142.3,138.5,4890,Paid,No
+Salman Memon,"House #89, Mohalla #26, Gareebabad Nawabshah",KE-GBN-202408-0100,2024-08,Gareebabad Nawabshah,Low-Income Residential Feeder,12.8,52.2,53.3,1810,Paid,No
+Rizwan Abbasi,"House #378, Street #32, Isharpura Nawabshah",KE-ISN-202308-0040,2023-08,Isharpura Nawabshah,Rural Feeder,13.6,38.6,39.4,1230,Paid,No
+Asad Sheikh,"House #186, Road #9, Society Colony Nawabshah",KE-SCN-202303-0015,2023-03,Society Colony Nawabshah,Urban Residential Feeder,4.6,77.2,75.0,2180,Paid,No
+Rashid Abbasi,"House #152, Mohalla #23, Isharpura Nawabshah",KE-ISN-202411-0115,2024-11,Isharpura Nawabshah,Rural Feeder,6.2,52.6,54.1,1730,Unpaid,No
+Rizwan Mahar,"House #377, Lane #2, Manwabad Nawabshah",KE-MWN-202502-0129,2025-02,Manwabad Nawabshah,Semi-Urban Feeder,4.8,62.3,65.3,2080,Paid,No
+Sobia Bhurgri,"House #408, Road #15, University Colony Nawabshah",KE-UCN-202507-0155,2025-07,University Colony Nawabshah,Urban Residential Feeder,6.3,86.8,84.9,3020,Paid,No
+Waqas Sethar,"House #432, Chowk #46, Society Colony Nawabshah",KE-SCN-202310-0047,2023-10,Society Colony Nawabshah,Urban Residential Feeder,4.9,111.2,114.6,3380,Paid,No
+Ali Shah,"House #45, Block #49, Manwabad Nawabshah",KE-MWN-202512-0180,2025-12,Manwabad Nawabshah,Semi-Urban Feeder,3.9,94.9,97.1,2990,Paid,No
+Robina Bijarani,"House #195, Road #16, Isharpura Nawabshah",KE-ISN-202511-0174,2025-11,Isharpura Nawabshah,Rural Feeder,8.0,48.3,76.3,1540,Paid,Yes
+Hassan Soomro,"House #118, Street #7, Farsi Bagh Nawabshah",KE-FBN-202412-0117,2024-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.4,77.5,80.5,2550,Paid,No
+Saleem Bhurgri,"House #326, Road #16, Manwabad Nawabshah",KE-MWN-202510-0168,2025-10,Manwabad Nawabshah,Semi-Urban Feeder,5.9,72.1,125.1,2190,Partially Paid,Yes
+Junaid Bhutto,"House #380, Lane #11, Society Colony Nawabshah",KE-SCN-202403-0074,2024-03,Society Colony Nawabshah,Urban Residential Feeder,2.5,74.5,72.6,2590,Paid,No
+Danish Solangi,"House #214, Block #5, Isharpura Nawabshah",KE-ISN-202402-0069,2024-02,Isharpura Nawabshah,Rural Feeder,8.0,43.4,44.2,1410,Unpaid,No
+Umer Malik,"House #8, Lane #22, Society Colony Nawabshah",KE-SCN-202510-0169,2025-10,Society Colony Nawabshah,Urban Residential Feeder,2.9,125.7,123.2,3680,Paid,No
+Arslan Abbasi,"House #92, Block #6, Gareebabad Nawabshah",KE-GBN-202511-0174,2025-11,Gareebabad Nawabshah,Low-Income Residential Feeder,7.1,43.7,43.7,1510,Paid,No
+Danish Malik,"House #389, Mohalla #49, University Colony Nawabshah",KE-UCN-202312-0059,2023-12,University Colony Nawabshah,Urban Residential Feeder,2.9,74.1,73.3,2540,Paid,No
+Salman Sheikh,"House #450, Street #30, University Colony Nawabshah",KE-UCN-202504-0140,2025-04,University Colony Nawabshah,Urban Residential Feeder,5.6,127.9,124.5,3770,Paid,No
+Salman Abbasi,"House #73, Block #6, Society Colony Nawabshah",KE-SCN-202301-0002,2023-01,Society Colony Nawabshah,Urban Residential Feeder,3.5,135.1,250.5,4400,Unpaid,Yes
+Arslan Jamali,"House #418, Lane #2, Society Colony Nawabshah",KE-SCN-202512-0176,2025-12,Society Colony Nawabshah,Urban Residential Feeder,2.9,81.0,82.5,2650,Paid,No
+Asma Ali,"House #84, Road #34, Farsi Bagh Nawabshah",KE-FBN-202302-0007,2023-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.0,119.5,120.5,3610,Paid,No
+Sikandar Jamali,"House #325, Lane #26, Farsi Bagh Nawabshah",KE-FBN-202511-0171,2025-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,0.7,123.7,126.8,3700,Unpaid,No
+Rizwan Bhurgri,"House #237, Chowk #5, Society Colony Nawabshah",KE-SCN-202309-0045,2023-09,Society Colony Nawabshah,Urban Residential Feeder,2.5,77.4,79.0,2370,Paid,No
+Saba Pathan,"House #11, Street #47, Farsi Bagh Nawabshah",KE-FBN-202507-0153,2025-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.0,77.3,78.4,2590,Paid,No
+Kamran Soomro,"House #61, Gali #24, University Colony Nawabshah",KE-UCN-202305-0023,2023-05,University Colony Nawabshah,Urban Residential Feeder,6.0,135.8,137.8,4550,Paid,No
+Junaid Ali,"House #256, Road #4, Isharpura Nawabshah",KE-ISN-202311-0052,2023-11,Isharpura Nawabshah,Rural Feeder,7.2,27.0,28.1,840,Partially Paid,No
+Kamran Panhwar,"House #306, Mohalla #32, Society Colony Nawabshah",KE-SCN-202303-0013,2023-03,Society Colony Nawabshah,Urban Residential Feeder,3.6,94.9,96.7,3090,Paid,No
+Rizwan Memon,"House #100, Chowk #10, Isharpura Nawabshah",KE-ISN-202511-0171,2025-11,Isharpura Nawabshah,Rural Feeder,7.1,41.4,83.2,1170,Paid,Yes
+Sana Soomro,"House #394, Mohalla #40, Gareebabad Nawabshah",KE-GBN-202404-0076,2024-04,Gareebabad Nawabshah,Low-Income Residential Feeder,9.7,42.4,41.2,1410,Paid,No
+Rabia Junejo,"House #48, Street #36, Manwabad Nawabshah",KE-MWN-202509-0164,2025-09,Manwabad Nawabshah,Semi-Urban Feeder,7.1,60.5,63.0,1980,Paid,No
+Sana Rind,"House #396, Mohalla #34, Gareebabad Nawabshah",KE-GBN-202407-0095,2024-07,Gareebabad Nawabshah,Low-Income Residential Feeder,9.5,53.8,52.9,1720,Unpaid,No
+Bilal Solangi,"House #103, Road #27, Society Colony Nawabshah",KE-SCN-202408-0096,2024-08,Society Colony Nawabshah,Urban Residential Feeder,2.9,93.7,92.7,2710,Paid,No
+Rizwan Soomro,"House #92, Road #4, University Colony Nawabshah",KE-UCN-202304-0016,2023-04,University Colony Nawabshah,Urban Residential Feeder,3.2,129.9,127.4,4090,Paid,No
+Adnan Mahar,"House #306, Chowk #43, Society Colony Nawabshah",KE-SCN-202311-0053,2023-11,Society Colony Nawabshah,Urban Residential Feeder,3.8,130.0,131.7,4420,Paid,No
+Haris Chandio,"House #24, Mohalla #12, Manwabad Nawabshah",KE-MWN-202307-0035,2023-07,Manwabad Nawabshah,Semi-Urban Feeder,11.6,54.4,56.7,1860,Paid,No
+Noman Soomro,"House #371, Gali #29, Manwabad Nawabshah",KE-MWN-202410-0107,2024-10,Manwabad Nawabshah,Semi-Urban Feeder,5.9,62.6,64.3,1980,Paid,No
+Faisal Pathan,"House #297, Mohalla #26, Isharpura Nawabshah",KE-ISN-202411-0114,2024-11,Isharpura Nawabshah,Rural Feeder,8.8,39.0,40.8,1340,Partially Paid,No
+Nadia Memon,"House #1, Road #42, University Colony Nawabshah",KE-UCN-202407-0092,2024-07,University Colony Nawabshah,Urban Residential Feeder,8.4,111.4,113.2,3600,Paid,No
+Zainab Larik,"House #24, Lane #16, Gareebabad Nawabshah",KE-GBN-202512-0177,2025-12,Gareebabad Nawabshah,Low-Income Residential Feeder,6.9,52.5,54.9,1590,Paid,No
+Danish Sethar,"House #106, Mohalla #25, Farsi Bagh Nawabshah",KE-FBN-202308-0039,2023-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.1,199.9,194.4,5670,Unpaid,No
+Saleem Larik,"House #319, Chowk #27, Gareebabad Nawabshah",KE-GBN-202304-0016,2023-04,Gareebabad Nawabshah,Low-Income Residential Feeder,6.9,32.3,46.0,1000,Paid,Yes
+Aamir Mahar,"House #97, Street #30, Gareebabad Nawabshah",KE-GBN-202412-0116,2024-12,Gareebabad Nawabshah,Low-Income Residential Feeder,6.9,36.1,37.1,1160,Paid,No
+Noman Pathan,"House #75, Chowk #8, Society Colony Nawabshah",KE-SCN-202407-0094,2024-07,Society Colony Nawabshah,Urban Residential Feeder,3.1,95.3,97.0,2780,Paid,No
+Junaid Pathan,"House #49, Lane #9, Society Colony Nawabshah",KE-SCN-202406-0087,2024-06,Society Colony Nawabshah,Urban Residential Feeder,5.1,92.6,90.6,3050,Paid,No
+Fahad Chandio,"House #325, Lane #34, Manwabad Nawabshah",KE-MWN-202411-0115,2024-11,Manwabad Nawabshah,Semi-Urban Feeder,3.8,44.3,61.6,1330,Partially Paid,Yes
+Rashid Pathan,"House #329, Lane #23, Gareebabad Nawabshah",KE-GBN-202505-0143,2025-05,Gareebabad Nawabshah,Low-Income Residential Feeder,12.7,48.6,48.5,1680,Paid,No
+Amna Ansari,"House #368, Mohalla #2, Society Colony Nawabshah",KE-SCN-202307-0031,2023-07,Society Colony Nawabshah,Urban Residential Feeder,4.6,73.8,72.9,2540,Paid,No
+Farhan Sheikh,"House #63, Chowk #2, Manwabad Nawabshah",KE-MWN-202403-0075,2024-03,Manwabad Nawabshah,Semi-Urban Feeder,5.7,59.2,59.8,1820,Paid,No
+Iqra Khaskheli,"House #22, Road #9, Society Colony Nawabshah",KE-SCN-202412-0118,2024-12,Society Colony Nawabshah,Urban Residential Feeder,3.3,92.0,89.3,3210,Paid,No
+Saba Siddiqui,"House #272, Block #8, Manwabad Nawabshah",KE-MWN-202406-0088,2024-06,Manwabad Nawabshah,Semi-Urban Feeder,10.9,94.7,94.7,2730,Paid,No
+Yasir Chachar,"House #159, Road #50, Society Colony Nawabshah",KE-SCN-202511-0171,2025-11,Society Colony Nawabshah,Urban Residential Feeder,1.7,115.2,113.0,3450,Paid,No
+Shabana Chachar,"House #64, Street #4, Isharpura Nawabshah",KE-ISN-202404-0080,2024-04,Isharpura Nawabshah,Rural Feeder,11.8,30.4,55.3,970,Partially Paid,Yes
+Shazia Siddiqui,"House #213, Mohalla #19, Society Colony Nawabshah",KE-SCN-202504-0140,2025-04,Society Colony Nawabshah,Urban Residential Feeder,4.5,91.6,92.6,2680,Paid,No
+Sara Khaskheli,"House #102, Block #45, Society Colony Nawabshah",KE-SCN-202308-0039,2023-08,Society Colony Nawabshah,Urban Residential Feeder,5.8,108.9,113.2,3460,Partially Paid,No
+Kashif Larik,"House #280, Chowk #20, Society Colony Nawabshah",KE-SCN-202402-0070,2024-02,Society Colony Nawabshah,Urban Residential Feeder,2.7,94.0,96.1,2650,Paid,No
+Farhan Khan,"House #240, Mohalla #50, Farsi Bagh Nawabshah",KE-FBN-202505-0144,2025-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.4,179.1,175.9,5890,Partially Paid,No
+Yasir Junejo,"House #356, Gali #39, Farsi Bagh Nawabshah",KE-FBN-202411-0112,2024-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.9,173.2,177.5,4990,Paid,No
+Farhan Chandio,"House #321, Road #1, Society Colony Nawabshah",KE-SCN-202306-0029,2023-06,Society Colony Nawabshah,Urban Residential Feeder,5.3,90.1,94.5,2730,Paid,No
+Yasir Baloch,"House #361, Lane #33, Society Colony Nawabshah",KE-SCN-202309-0043,2023-09,Society Colony Nawabshah,Urban Residential Feeder,4.9,69.2,67.3,1990,Paid,No
+Muhammad Khan,"House #264, Gali #39, University Colony Nawabshah",KE-UCN-202410-0107,2024-10,University Colony Nawabshah,Urban Residential Feeder,2.8,95.6,95.3,3310,Paid,No
+Nida Malik,"House #351, Road #31, Farsi Bagh Nawabshah",KE-FBN-202501-0121,2025-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.6,153.5,160.7,4870,Paid,No
+Maryam Siddiqui,"House #373, Chowk #1, Gareebabad Nawabshah",KE-GBN-202310-0050,2023-10,Gareebabad Nawabshah,Low-Income Residential Feeder,8.7,33.4,66.8,990,Unpaid,Yes
+Shoaib Sheikh,"House #45, Block #31, Manwabad Nawabshah",KE-MWN-202409-0103,2024-09,Manwabad Nawabshah,Semi-Urban Feeder,9.0,56.3,117.0,1970,Unpaid,Yes
+Arslan Junejo,"House #70, Block #8, Gareebabad Nawabshah",KE-GBN-202510-0166,2025-10,Gareebabad Nawabshah,Low-Income Residential Feeder,8.2,36.4,36.9,1240,Partially Paid,No
+Kamran Jamali,"House #173, Chowk #44, Manwabad Nawabshah",KE-MWN-202409-0105,2024-09,Manwabad Nawabshah,Semi-Urban Feeder,7.7,90.7,91.4,2640,Paid,No
+Shoaib Ansari,"House #59, Block #26, Manwabad Nawabshah",KE-MWN-202311-0052,2023-11,Manwabad Nawabshah,Semi-Urban Feeder,6.2,64.1,65.3,2070,Partially Paid,No
+Farah Baloch,"House #340, Chowk #25, University Colony Nawabshah",KE-UCN-202401-0064,2024-01,University Colony Nawabshah,Urban Residential Feeder,2.0,66.8,64.9,2060,Paid,No
+Samina Marri,"House #193, Block #41, Gareebabad Nawabshah",KE-GBN-202407-0091,2024-07,Gareebabad Nawabshah,Low-Income Residential Feeder,12.5,29.9,29.3,910,Paid,No
+Yasir Sethar,"House #80, Mohalla #2, Isharpura Nawabshah",KE-ISN-202405-0084,2024-05,Isharpura Nawabshah,Rural Feeder,14,52.5,69.1,1800,Paid,Yes
+Adnan Jatoi,"House #109, Lane #14, Society Colony Nawabshah",KE-SCN-202303-0014,2023-03,Society Colony Nawabshah,Urban Residential Feeder,1.6,74.6,75.8,2280,Paid,No
+Ghulam Chachar,"House #9, Block #26, University Colony Nawabshah",KE-UCN-202408-0099,2024-08,University Colony Nawabshah,Urban Residential Feeder,6.4,105.2,108.8,3210,Paid,No
+Kamran Bijarani,"House #221, Gali #42, Isharpura Nawabshah",KE-ISN-202305-0025,2023-05,Isharpura Nawabshah,Rural Feeder,10.1,47.8,99.7,1350,Paid,Yes
+Sikandar Ali,"House #181, Block #36, Gareebabad Nawabshah",KE-GBN-202401-0061,2024-01,Gareebabad Nawabshah,Low-Income Residential Feeder,6.0,55.5,107.3,1730,Paid,Yes
+Fahad Bhurgri,"House #363, Block #18, Society Colony Nawabshah",KE-SCN-202305-0025,2023-05,Society Colony Nawabshah,Urban Residential Feeder,4.1,98.5,101.6,2890,Paid,No
+Rukhsana Jatoi,"House #19, Block #13, Society Colony Nawabshah",KE-SCN-202411-0114,2024-11,Society Colony Nawabshah,Urban Residential Feeder,3.5,83.1,84.7,2680,Partially Paid,No
+Adnan Ali,"House #31, Gali #10, Isharpura Nawabshah",KE-ISN-202403-0074,2024-03,Isharpura Nawabshah,Rural Feeder,10.3,25.8,43.2,830,Paid,Yes
+Samina Bhutto,"House #95, Block #40, Gareebabad Nawabshah",KE-GBN-202309-0045,2023-09,Gareebabad Nawabshah,Low-Income Residential Feeder,7.6,56.5,56.0,1850,Unpaid,No
+Shabana Pathan,"House #184, Gali #20, Gareebabad Nawabshah",KE-GBN-202307-0032,2023-07,Gareebabad Nawabshah,Low-Income Residential Feeder,8.5,55.5,55.1,1640,Paid,No
+Hina Solangi,"House #261, Lane #23, Isharpura Nawabshah",KE-ISN-202412-0119,2024-12,Isharpura Nawabshah,Rural Feeder,8.6,32.3,63.7,1080,Paid,Yes
+Maryam Bijarani,"House #328, Block #33, Manwabad Nawabshah",KE-MWN-202502-0130,2025-02,Manwabad Nawabshah,Semi-Urban Feeder,5.6,103.2,100.5,2970,Partially Paid,No
+Fatima Marri,"House #158, Gali #40, Farsi Bagh Nawabshah",KE-FBN-202510-0168,2025-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.8,73.5,76.7,2410,Paid,No
+Aamir Larik,"House #248, Mohalla #17, Gareebabad Nawabshah",KE-GBN-202406-0090,2024-06,Gareebabad Nawabshah,Low-Income Residential Feeder,11.6,48.0,50.3,1470,Paid,No
+Junaid Larik,"House #42, Road #26, Gareebabad Nawabshah",KE-GBN-202408-0096,2024-08,Gareebabad Nawabshah,Low-Income Residential Feeder,10.5,36.8,37.1,1050,Paid,No
+Rabia Chandio,"House #422, Mohalla #31, Society Colony Nawabshah",KE-SCN-202306-0027,2023-06,Society Colony Nawabshah,Urban Residential Feeder,3.1,76.2,76.0,2280,Paid,No
+Zeeshan Ansari,"House #14, Block #19, Farsi Bagh Nawabshah",KE-FBN-202312-0060,2023-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.0,115.8,117.2,3470,Paid,No
+Abdul Marri,"House #394, Street #23, Gareebabad Nawabshah",KE-GBN-202502-0127,2025-02,Gareebabad Nawabshah,Low-Income Residential Feeder,8.4,30.2,30.5,960,Paid,No
+Naila Junejo,"House #315, Gali #49, Society Colony Nawabshah",KE-SCN-202306-0028,2023-06,Society Colony Nawabshah,Urban Residential Feeder,4.7,130.7,128.1,4320,Paid,No
+Uzma Qureshi,"House #8, Chowk #27, Society Colony Nawabshah",KE-SCN-202302-0007,2023-02,Society Colony Nawabshah,Urban Residential Feeder,3.4,97.4,99.8,3060,Paid,No
+Iqra Rajput,"House #218, Mohalla #48, Society Colony Nawabshah",KE-SCN-202401-0063,2024-01,Society Colony Nawabshah,Urban Residential Feeder,2.0,113.5,117.0,3410,Partially Paid,No
+Naveed Ansari,"House #445, Street #14, Farsi Bagh Nawabshah",KE-FBN-202303-0015,2023-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.1,176.3,171.5,5520,Paid,No
+Faisal Marri,"House #203, Lane #17, University Colony Nawabshah",KE-UCN-202301-0001,2023-01,University Colony Nawabshah,Urban Residential Feeder,3.3,121.1,120.0,3550,Paid,No
+Shabana Chandio,"House #241, Gali #14, Gareebabad Nawabshah",KE-GBN-202304-0019,2023-04,Gareebabad Nawabshah,Low-Income Residential Feeder,5.9,39.1,39.7,1100,Unpaid,No
+Haris Rind,"House #351, Gali #10, Isharpura Nawabshah",KE-ISN-202302-0007,2023-02,Isharpura Nawabshah,Rural Feeder,7.3,58.1,118.3,1660,Unpaid,Yes
+Maryam Sethar,"House #336, Block #20, Manwabad Nawabshah",KE-MWN-202302-0008,2023-02,Manwabad Nawabshah,Semi-Urban Feeder,6.2,49.5,51.7,1580,Paid,No
+Usman Panhwar,"House #30, Mohalla #2, Gareebabad Nawabshah",KE-GBN-202508-0157,2025-08,Gareebabad Nawabshah,Low-Income Residential Feeder,12.5,50.6,52.5,1440,Partially Paid,No
+Fahad Pathan,"House #234, Block #19, Farsi Bagh Nawabshah",KE-FBN-202406-0090,2024-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.6,145.4,146.3,4830,Paid,No
+Mehwish Pathan,"House #96, Gali #31, Gareebabad Nawabshah",KE-GBN-202409-0101,2024-09,Gareebabad Nawabshah,Low-Income Residential Feeder,10.9,30.7,31.2,900,Partially Paid,No
+Rabia Chachar,"House #199, Road #39, Gareebabad Nawabshah",KE-GBN-202509-0161,2025-09,Gareebabad Nawabshah,Low-Income Residential Feeder,11.5,44.7,45.2,1550,Unpaid,No
+Aliya Abbasi,"House #178, Gali #43, Isharpura Nawabshah",KE-ISN-202506-0146,2025-06,Isharpura Nawabshah,Rural Feeder,14,39.2,38.4,1320,Paid,No
+Hina Solangi,"House #283, Chowk #5, University Colony Nawabshah",KE-UCN-202404-0077,2024-04,University Colony Nawabshah,Urban Residential Feeder,2.7,103.1,107.2,3580,Unpaid,No
+Iqra Shah,"House #9, Road #28, Manwabad Nawabshah",KE-MWN-202306-0026,2023-06,Manwabad Nawabshah,Semi-Urban Feeder,6.1,85.9,85.6,2440,Paid,No
+Haris Rajput,"House #264, Mohalla #45, Isharpura Nawabshah",KE-ISN-202302-0009,2023-02,Isharpura Nawabshah,Rural Feeder,9.1,70.0,71.7,2000,Partially Paid,No
+Shazia Chachar,"House #355, Gali #4, Society Colony Nawabshah",KE-SCN-202409-0105,2024-09,Society Colony Nawabshah,Urban Residential Feeder,3.7,107.0,108.6,3520,Paid,No
+Iqra Siddiqui,"House #318, Lane #21, Manwabad Nawabshah",KE-MWN-202308-0038,2023-08,Manwabad Nawabshah,Semi-Urban Feeder,6.8,47.7,74.5,1440,Paid,Yes
+Rizwan Marri,"House #137, Gali #39, Gareebabad Nawabshah",KE-GBN-202403-0072,2024-03,Gareebabad Nawabshah,Low-Income Residential Feeder,6.8,62.9,62.5,1780,Paid,No
+Aamir Panhwar,"House #148, Lane #25, Farsi Bagh Nawabshah",KE-FBN-202503-0131,2025-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.4,151.8,150.9,5230,Paid,No
+Junaid Sheikh,"House #366, Gali #3, Farsi Bagh Nawabshah",KE-FBN-202409-0104,2024-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.2,87.6,86.3,2630,Paid,No
+Maryam Bhurgri,"House #149, Gali #43, Manwabad Nawabshah",KE-MWN-202506-0147,2025-06,Manwabad Nawabshah,Semi-Urban Feeder,11.2,71.1,73.8,2150,Paid,No
+Fahad Rajput,"House #401, Block #27, Manwabad Nawabshah",KE-MWN-202508-0156,2025-08,Manwabad Nawabshah,Semi-Urban Feeder,9.6,67.3,66.3,2050,Unpaid,No
+Hamza Bijarani,"House #147, Road #41, Farsi Bagh Nawabshah",KE-FBN-202412-0119,2024-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.3,142.2,143.7,4490,Paid,No
+Bushra Baloch,"House #422, Gali #25, Manwabad Nawabshah",KE-MWN-202308-0036,2023-08,Manwabad Nawabshah,Semi-Urban Feeder,10.4,82.2,81.5,2370,Unpaid,No
+Shahzad Chandio,"House #259, Chowk #4, Isharpura Nawabshah",KE-ISN-202507-0154,2025-07,Isharpura Nawabshah,Rural Feeder,11.5,46.0,47.8,1600,Paid,No
+Naveed Soomro,"House #154, Lane #35, Farsi Bagh Nawabshah",KE-FBN-202301-0004,2023-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.7,95.1,97.2,3020,Paid,No
+Hina Junejo,"House #168, Street #11, Isharpura Nawabshah",KE-ISN-202311-0055,2023-11,Isharpura Nawabshah,Rural Feeder,8.3,36.1,36.3,1240,Unpaid,No
+Farah Chandio,"House #30, Street #50, University Colony Nawabshah",KE-UCN-202405-0082,2024-05,University Colony Nawabshah,Urban Residential Feeder,5.7,68.4,67.2,2210,Paid,No
+Shabana Jamali,"House #292, Gali #31, Society Colony Nawabshah",KE-SCN-202309-0044,2023-09,Society Colony Nawabshah,Urban Residential Feeder,2.6,78.3,79.6,2560,Paid,No
+Salman Junejo,"House #281, Lane #42, Isharpura Nawabshah",KE-ISN-202510-0168,2025-10,Isharpura Nawabshah,Rural Feeder,9.9,36.6,48.3,1210,Unpaid,Yes
+Ghulam Jamali,"House #130, Street #5, Society Colony Nawabshah",KE-SCN-202503-0134,2025-03,Society Colony Nawabshah,Urban Residential Feeder,1.7,116.9,119.4,4000,Paid,No
+Talha Chachar,"House #394, Chowk #3, Isharpura Nawabshah",KE-ISN-202303-0013,2023-03,Isharpura Nawabshah,Rural Feeder,6.7,42.1,41.7,1220,Unpaid,No
+Shahzad Soomro,"House #442, Road #15, Society Colony Nawabshah",KE-SCN-202404-0078,2024-04,Society Colony Nawabshah,Urban Residential Feeder,2.7,101.9,101.1,3220,Paid,No
+Amna Ansari,"House #336, Street #1, Gareebabad Nawabshah",KE-GBN-202505-0144,2025-05,Gareebabad Nawabshah,Low-Income Residential Feeder,8.5,44.9,44.2,1510,Unpaid,No
+Yasmin Ali,"House #138, Mohalla #32, Manwabad Nawabshah",KE-MWN-202301-0004,2023-01,Manwabad Nawabshah,Semi-Urban Feeder,6.3,86.2,88.7,2540,Paid,No
+Nadia Sethar,"House #256, Street #13, Manwabad Nawabshah",KE-MWN-202312-0058,2023-12,Manwabad Nawabshah,Semi-Urban Feeder,3.8,87.9,85.9,2520,Paid,No
+Saba Memon,"House #32, Chowk #17, Gareebabad Nawabshah",KE-GBN-202503-0131,2025-03,Gareebabad Nawabshah,Low-Income Residential Feeder,8.0,57.1,93.6,1650,Paid,Yes
+Rashid Soomro,"House #349, Road #47, Gareebabad Nawabshah",KE-GBN-202410-0109,2024-10,Gareebabad Nawabshah,Low-Income Residential Feeder,7.4,51.4,53.3,1600,Paid,No
+Abdul Jamali,"House #377, Street #47, Farsi Bagh Nawabshah",KE-FBN-202303-0014,2023-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.6,149.1,149.4,4910,Paid,No
+Nida Malik,"House #281, Block #39, Manwabad Nawabshah",KE-MWN-202311-0054,2023-11,Manwabad Nawabshah,Semi-Urban Feeder,6.7,48.1,49.9,1660,Paid,No
+Waqas Malik,"House #297, Lane #43, Manwabad Nawabshah",KE-MWN-202503-0134,2025-03,Manwabad Nawabshah,Semi-Urban Feeder,6.3,89.4,93.3,2880,Paid,No
+Nadia Malik,"House #5, Street #32, Manwabad Nawabshah",KE-MWN-202405-0081,2024-05,Manwabad Nawabshah,Semi-Urban Feeder,10.1,85.5,84.0,2910,Paid,No
+Sadia Panhwar,"House #55, Road #42, Gareebabad Nawabshah",KE-GBN-202403-0071,2024-03,Gareebabad Nawabshah,Low-Income Residential Feeder,7.7,67.0,67.3,2000,Partially Paid,No
+Salman Solangi,"House #286, Road #7, Farsi Bagh Nawabshah",KE-FBN-202301-0002,2023-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.5,86.1,84.7,2750,Paid,No
+Adnan Bhutto,"House #72, Chowk #44, Isharpura Nawabshah",KE-ISN-202505-0142,2025-05,Isharpura Nawabshah,Rural Feeder,14,59.3,58.1,1730,Paid,No
+Zainab Marri,"House #308, Gali #17, Farsi Bagh Nawabshah",KE-FBN-202302-0006,2023-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.6,123.3,120.1,3840,Paid,No
+Imran Bhurgri,"House #122, Chowk #1, Society Colony Nawabshah",KE-SCN-202404-0079,2024-04,Society Colony Nawabshah,Urban Residential Feeder,3.5,118.2,116.1,3440,Paid,No
+Noman Bijarani,"House #370, Street #41, Isharpura Nawabshah",KE-ISN-202308-0036,2023-08,Isharpura Nawabshah,Rural Feeder,13.9,64.0,62.5,1880,Paid,No
+Sadia Chandio,"House #193, Street #47, Society Colony Nawabshah",KE-SCN-202406-0086,2024-06,Society Colony Nawabshah,Urban Residential Feeder,4.6,79.9,78.1,2700,Paid,No
+Junaid Memon,"House #54, Mohalla #12, Manwabad Nawabshah",KE-MWN-202310-0047,2023-10,Manwabad Nawabshah,Semi-Urban Feeder,4.6,61.5,60.5,2060,Paid,No
+Yasir Larik,"House #323, Gali #37, Isharpura Nawabshah",KE-ISN-202409-0101,2024-09,Isharpura Nawabshah,Rural Feeder,9.6,49.5,48.7,1480,Unpaid,No
+Hassan Khan,"House #296, Gali #10, Society Colony Nawabshah",KE-SCN-202507-0155,2025-07,Society Colony Nawabshah,Urban Residential Feeder,4.5,138.3,139.1,4480,Paid,No
+Haris Rajput,"House #67, Chowk #44, University Colony Nawabshah",KE-UCN-202311-0051,2023-11,University Colony Nawabshah,Urban Residential Feeder,3.1,84.3,87.2,2590,Unpaid,No
+Shoaib Chachar,"House #247, Mohalla #4, Society Colony Nawabshah",KE-SCN-202505-0142,2025-05,Society Colony Nawabshah,Urban Residential Feeder,3.6,125.3,128.7,3730,Paid,No
+Maryam Shah,"House #48, Lane #14, Isharpura Nawabshah",KE-ISN-202511-0173,2025-11,Isharpura Nawabshah,Rural Feeder,9.5,34.5,35.3,1100,Unpaid,No
+Kashif Sheikh,"House #376, Gali #21, Isharpura Nawabshah",KE-ISN-202402-0066,2024-02,Isharpura Nawabshah,Rural Feeder,6.6,45.8,46.4,1370,Paid,No
+Robina Khaskheli,"House #75, Street #3, University Colony Nawabshah",KE-UCN-202404-0079,2024-04,University Colony Nawabshah,Urban Residential Feeder,2.9,136.9,138.9,4240,Paid,No
+Shoaib Soomro,"House #95, Street #48, University Colony Nawabshah",KE-UCN-202504-0138,2025-04,University Colony Nawabshah,Urban Residential Feeder,2.4,152.3,154.0,4380,Paid,No
+Sobia Malik,"House #123, Street #32, Gareebabad Nawabshah",KE-GBN-202409-0103,2024-09,Gareebabad Nawabshah,Low-Income Residential Feeder,7.9,36.4,36.6,1090,Partially Paid,No
+Abdul Sheikh,"House #409, Road #15, Society Colony Nawabshah",KE-SCN-202312-0056,2023-12,Society Colony Nawabshah,Urban Residential Feeder,2.9,61.5,64.1,2070,Paid,No
+Zainab Siddiqui,"House #301, Road #29, Manwabad Nawabshah",KE-MWN-202301-0002,2023-01,Manwabad Nawabshah,Semi-Urban Feeder,3.8,55.3,57.0,1560,Unpaid,No
+Iqra Khan,"House #13, Road #15, Farsi Bagh Nawabshah",KE-FBN-202310-0046,2023-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.2,102.8,102.2,2890,Paid,No
+Kamran Rajput,"House #234, Gali #12, Isharpura Nawabshah",KE-ISN-202307-0032,2023-07,Isharpura Nawabshah,Rural Feeder,14,37.9,38.8,1150,Unpaid,No
+Shabana Baloch,"House #371, Gali #20, University Colony Nawabshah",KE-UCN-202403-0075,2024-03,University Colony Nawabshah,Urban Residential Feeder,2.6,81.7,81.9,2510,Partially Paid,No
+Iqra Jatoi,"House #53, Street #24, Society Colony Nawabshah",KE-SCN-202501-0125,2025-01,Society Colony Nawabshah,Urban Residential Feeder,2.3,109.2,106.1,3750,Paid,No
+Adnan Mahar,"House #428, Chowk #34, Manwabad Nawabshah",KE-MWN-202412-0119,2024-12,Manwabad Nawabshah,Semi-Urban Feeder,3.4,62.3,64.9,1950,Unpaid,No
+Fahad Rind,"House #190, Lane #16, Isharpura Nawabshah",KE-ISN-202503-0135,2025-03,Isharpura Nawabshah,Rural Feeder,9.8,29.8,50.6,1000,Unpaid,Yes
+Iqra Khan,"House #250, Lane #1, Isharpura Nawabshah",KE-ISN-202312-0056,2023-12,Isharpura Nawabshah,Rural Feeder,6.5,31.4,30.5,880,Paid,No
+Amna Memon,"House #236, Gali #31, Manwabad Nawabshah",KE-MWN-202405-0082,2024-05,Manwabad Nawabshah,Semi-Urban Feeder,9.0,74.0,74.9,2510,Paid,No
+Aamir Pathan,"House #188, Lane #23, Manwabad Nawabshah",KE-MWN-202306-0027,2023-06,Manwabad Nawabshah,Semi-Urban Feeder,5.3,100.4,103.6,2990,Partially Paid,No
+Junaid Jatoi,"House #316, Gali #50, Isharpura Nawabshah",KE-ISN-202305-0024,2023-05,Isharpura Nawabshah,Rural Feeder,11.0,26.1,25.4,860,Partially Paid,No
+Rukhsana Jamali,"House #189, Block #15, Manwabad Nawabshah",KE-MWN-202404-0078,2024-04,Manwabad Nawabshah,Semi-Urban Feeder,5.7,81.1,79.9,2700,Paid,No
+Robina Malik,"House #265, Gali #50, University Colony Nawabshah",KE-UCN-202303-0013,2023-03,University Colony Nawabshah,Urban Residential Feeder,2.8,99.8,103.9,3310,Unpaid,No
+Maryam Bhurgri,"House #341, Lane #2, Gareebabad Nawabshah",KE-GBN-202502-0129,2025-02,Gareebabad Nawabshah,Low-Income Residential Feeder,6.0,45.9,47.6,1580,Partially Paid,No
+Usman Shah,"House #180, Road #36, Society Colony Nawabshah",KE-SCN-202507-0151,2025-07,Society Colony Nawabshah,Urban Residential Feeder,5.0,84.6,84.0,2480,Partially Paid,No
+Sana Ali,"House #158, Block #37, Manwabad Nawabshah",KE-MWN-202510-0170,2025-10,Manwabad Nawabshah,Semi-Urban Feeder,6.5,45.5,44.7,1450,Paid,No
+Samina Khaskheli,"House #371, Block #22, Manwabad Nawabshah",KE-MWN-202308-0040,2023-08,Manwabad Nawabshah,Semi-Urban Feeder,10.8,91.1,95.3,2850,Paid,No
+Hina Memon,"House #223, Mohalla #18, Isharpura Nawabshah",KE-ISN-202309-0044,2023-09,Isharpura Nawabshah,Rural Feeder,7.7,27.0,27.2,930,Paid,No
+Fatima Malik,"House #154, Gali #9, Manwabad Nawabshah",KE-MWN-202310-0046,2023-10,Manwabad Nawabshah,Semi-Urban Feeder,7.5,45.7,44.6,1590,Paid,No
+Kamran Panhwar,"House #119, Road #33, University Colony Nawabshah",KE-UCN-202304-0019,2023-04,University Colony Nawabshah,Urban Residential Feeder,2.2,67.3,66.0,2200,Paid,No
+Junaid Ali,"House #300, Block #35, Isharpura Nawabshah",KE-ISN-202504-0140,2025-04,Isharpura Nawabshah,Rural Feeder,11.7,31.7,31.2,890,Partially Paid,No
+Yasir Jamali,"House #277, Chowk #40, University Colony Nawabshah",KE-UCN-202409-0103,2024-09,University Colony Nawabshah,Urban Residential Feeder,3.5,109.1,110.9,3750,Paid,No
+Farhan Pathan,"House #219, Chowk #21, Farsi Bagh Nawabshah",KE-FBN-202512-0177,2025-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.7,191.5,198.4,5700,Partially Paid,No
+Bilal Baloch,"House #322, Lane #26, University Colony Nawabshah",KE-UCN-202502-0128,2025-02,University Colony Nawabshah,Urban Residential Feeder,3.7,93.6,93.1,2630,Paid,No
+Amna Khaskheli,"House #319, Gali #42, Farsi Bagh Nawabshah",KE-FBN-202312-0057,2023-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.6,111.2,107.9,3700,Paid,No
+Nadia Solangi,"House #262, Street #12, University Colony Nawabshah",KE-UCN-202411-0115,2024-11,University Colony Nawabshah,Urban Residential Feeder,4.3,82.0,80.5,2780,Paid,No
+Imran Larik,"House #359, Street #34, Farsi Bagh Nawabshah",KE-FBN-202508-0158,2025-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.5,161.0,157.8,5560,Paid,No
+Shazia Pathan,"House #440, Mohalla #47, Farsi Bagh Nawabshah",KE-FBN-202305-0023,2023-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.6,158.0,160.3,4740,Partially Paid,No
+Usman Abbasi,"House #206, Gali #28, Isharpura Nawabshah",KE-ISN-202306-0026,2023-06,Isharpura Nawabshah,Rural Feeder,14,47.0,90.2,1370,Paid,Yes
+Sikandar Ali,"House #67, Street #18, Society Colony Nawabshah",KE-SCN-202510-0170,2025-10,Society Colony Nawabshah,Urban Residential Feeder,2.5,63.9,63.0,1820,Paid,No
+Sadia Siddiqui,"House #216, Chowk #31, Gareebabad Nawabshah",KE-GBN-202501-0122,2025-01,Gareebabad Nawabshah,Low-Income Residential Feeder,6.5,59.7,101.6,2020,Paid,Yes
+Rabia Larik,"House #14, Lane #41, Society Colony Nawabshah",KE-SCN-202407-0092,2024-07,Society Colony Nawabshah,Urban Residential Feeder,3.3,121.4,126.8,3680,Paid,No
+Yasir Qureshi,"House #249, Gali #4, Manwabad Nawabshah",KE-MWN-202309-0044,2023-09,Manwabad Nawabshah,Semi-Urban Feeder,8.0,87.8,85.5,2560,Paid,No
+Zeeshan Soomro,"House #409, Chowk #27, Isharpura Nawabshah",KE-ISN-202309-0042,2023-09,Isharpura Nawabshah,Rural Feeder,8.6,42.8,84.9,1340,Partially Paid,Yes
+Uzma Rind,"House #34, Road #27, Isharpura Nawabshah",KE-ISN-202406-0089,2024-06,Isharpura Nawabshah,Rural Feeder,14,35.4,68.7,1230,Unpaid,Yes
+Yasmin Soomro,"House #419, Street #36, Gareebabad Nawabshah",KE-GBN-202307-0034,2023-07,Gareebabad Nawabshah,Low-Income Residential Feeder,13.4,56.2,57.0,1680,Unpaid,No
+Saba Jamali,"House #77, Block #32, Manwabad Nawabshah",KE-MWN-202508-0158,2025-08,Manwabad Nawabshah,Semi-Urban Feeder,8.5,76.9,118.9,2570,Unpaid,Yes
+Sadia Jamali,"House #394, Mohalla #18, Gareebabad Nawabshah",KE-GBN-202303-0014,2023-03,Gareebabad Nawabshah,Low-Income Residential Feeder,7.2,53.8,54.6,1560,Unpaid,No
+Zainab Bhutto,"House #399, Chowk #10, Society Colony Nawabshah",KE-SCN-202306-0026,2023-06,Society Colony Nawabshah,Urban Residential Feeder,3.1,106.1,111.1,3570,Paid,No
+Kiran Abbasi,"House #150, Chowk #16, Farsi Bagh Nawabshah",KE-FBN-202410-0108,2024-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.4,134.8,134.4,4590,Paid,No
+Sadia Rind,"House #143, Gali #49, Society Colony Nawabshah",KE-SCN-202312-0060,2023-12,Society Colony Nawabshah,Urban Residential Feeder,1.7,147.5,143.8,4170,Partially Paid,No
+Bilal Bijarani,"House #232, Block #45, Manwabad Nawabshah",KE-MWN-202409-0104,2024-09,Manwabad Nawabshah,Semi-Urban Feeder,5.6,42.7,41.4,1280,Unpaid,No
+Fahad Bhutto,"House #2, Block #15, Manwabad Nawabshah",KE-MWN-202408-0097,2024-08,Manwabad Nawabshah,Semi-Urban Feeder,9.7,73.7,77.2,2540,Partially Paid,No
+Sikandar Chachar,"House #202, Road #14, Society Colony Nawabshah",KE-SCN-202501-0122,2025-01,Society Colony Nawabshah,Urban Residential Feeder,1.9,117.2,118.2,3940,Paid,No
+Hina Khan,"House #405, Road #26, Society Colony Nawabshah",KE-SCN-202512-0177,2025-12,Society Colony Nawabshah,Urban Residential Feeder,3.5,63.4,63.5,1980,Unpaid,No
+Waqas Abbasi,"House #248, Street #40, University Colony Nawabshah",KE-UCN-202510-0169,2025-10,University Colony Nawabshah,Urban Residential Feeder,4.3,152.9,158.7,4500,Paid,No
+Fahad Jamali,"House #331, Lane #4, Gareebabad Nawabshah",KE-GBN-202404-0080,2024-04,Gareebabad Nawabshah,Low-Income Residential Feeder,7.4,37.8,38.3,1090,Unpaid,No
+Sara Solangi,"House #48, Block #18, Isharpura Nawabshah",KE-ISN-202512-0180,2025-12,Isharpura Nawabshah,Rural Feeder,7.8,28.7,60.4,870,Partially Paid,Yes
+Iqra Malik,"House #427, Road #15, Farsi Bagh Nawabshah",KE-FBN-202307-0034,2023-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.7,110.1,110.1,3120,Partially Paid,No
+Salman Shah,"House #87, Road #38, Gareebabad Nawabshah",KE-GBN-202401-0065,2024-01,Gareebabad Nawabshah,Low-Income Residential Feeder,4.6,27.3,26.6,910,Partially Paid,No
+Maryam Solangi,"House #234, Chowk #6, Isharpura Nawabshah",KE-ISN-202309-0043,2023-09,Isharpura Nawabshah,Rural Feeder,8.3,51.4,52.0,1580,Unpaid,No
+Danish Sheikh,"House #407, Road #42, University Colony Nawabshah",KE-UCN-202502-0130,2025-02,University Colony Nawabshah,Urban Residential Feeder,3.6,115.7,119.2,3260,Paid,No
+Rashid Pathan,"House #437, Gali #16, Gareebabad Nawabshah",KE-GBN-202502-0130,2025-02,Gareebabad Nawabshah,Low-Income Residential Feeder,8.0,52.0,52.2,1720,Unpaid,No
+Rizwan Malik,"House #25, Lane #47, University Colony Nawabshah",KE-UCN-202511-0174,2025-11,University Colony Nawabshah,Urban Residential Feeder,2.4,84.7,84.3,2700,Paid,No
+Abdul Chachar,"House #307, Gali #35, Manwabad Nawabshah",KE-MWN-202407-0095,2024-07,Manwabad Nawabshah,Semi-Urban Feeder,8.6,55.9,120.1,1750,Paid,Yes
+Kamran Soomro,"House #195, Street #47, Gareebabad Nawabshah",KE-GBN-202312-0059,2023-12,Gareebabad Nawabshah,Low-Income Residential Feeder,6.6,50.3,108.6,1620,Paid,Yes
+Arslan Abbasi,"House #379, Road #3, Manwabad Nawabshah",KE-MWN-202504-0138,2025-04,Manwabad Nawabshah,Semi-Urban Feeder,6.4,51.5,50.0,1570,Partially Paid,No
+Yasir Bhurgri,"House #434, Mohalla #36, Gareebabad Nawabshah",KE-GBN-202307-0031,2023-07,Gareebabad Nawabshah,Low-Income Residential Feeder,9.4,68.9,67.7,2160,Paid,No
+Shabana Mahar,"House #159, Chowk #3, Farsi Bagh Nawabshah",KE-FBN-202407-0092,2024-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.6,77.2,79.8,2630,Paid,No
+Saleem Panhwar,"House #20, Block #46, Isharpura Nawabshah",KE-ISN-202506-0149,2025-06,Isharpura Nawabshah,Rural Feeder,11.4,33.1,33.5,1020,Partially Paid,No
+Farah Mahar,"House #316, Mohalla #42, University Colony Nawabshah",KE-UCN-202504-0139,2025-04,University Colony Nawabshah,Urban Residential Feeder,2.8,100.9,105.8,3480,Paid,No
+Asma Junejo,"House #222, Street #27, Society Colony Nawabshah",KE-SCN-202408-0099,2024-08,Society Colony Nawabshah,Urban Residential Feeder,3.6,117.5,121.0,3780,Partially Paid,No
+Ahmed Baloch,"House #133, Mohalla #17, Society Colony Nawabshah",KE-SCN-202311-0052,2023-11,Society Colony Nawabshah,Urban Residential Feeder,3.8,95.2,97.2,3330,Unpaid,No
+Bilal Jatoi,"House #290, Gali #37, Society Colony Nawabshah",KE-SCN-202506-0149,2025-06,Society Colony Nawabshah,Urban Residential Feeder,3.8,73.4,74.5,2340,Paid,No
+Saba Qureshi,"House #413, Lane #45, University Colony Nawabshah",KE-UCN-202504-0137,2025-04,University Colony Nawabshah,Urban Residential Feeder,5.3,79.6,83.1,2650,Paid,No
+Naveed Shah,"House #103, Lane #5, Farsi Bagh Nawabshah",KE-FBN-202409-0105,2024-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.5,122.7,126.4,3760,Paid,No
+Robina Rind,"House #112, Gali #34, Society Colony Nawabshah",KE-SCN-202308-0040,2023-08,Society Colony Nawabshah,Urban Residential Feeder,6.3,112.8,117.6,3800,Paid,No
+Ali Khaskheli,"House #274, Road #36, Gareebabad Nawabshah",KE-GBN-202508-0156,2025-08,Gareebabad Nawabshah,Low-Income Residential Feeder,13.0,66.1,68.9,2000,Paid,No
+Naveed Sethar,"House #391, Road #25, Gareebabad Nawabshah",KE-GBN-202403-0073,2024-03,Gareebabad Nawabshah,Low-Income Residential Feeder,6.3,42.8,42.8,1340,Unpaid,No
+Faisal Junejo,"House #389, Street #28, Isharpura Nawabshah",KE-ISN-202308-0037,2023-08,Isharpura Nawabshah,Rural Feeder,13.1,37.3,74.6,1110,Paid,Yes
+Sohail Khaskheli,"House #160, Street #3, Society Colony Nawabshah",KE-SCN-202304-0016,2023-04,Society Colony Nawabshah,Urban Residential Feeder,3.6,76.1,76.6,2170,Paid,No
+Sumaira Malik,"House #405, Gali #49, Farsi Bagh Nawabshah",KE-FBN-202501-0125,2025-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.0,109.0,112.5,3370,Paid,No
+Salman Bhurgri,"House #379, Road #2, Isharpura Nawabshah",KE-ISN-202409-0103,2024-09,Isharpura Nawabshah,Rural Feeder,9.7,30.0,44.2,930,Unpaid,Yes
+Bilal Panhwar,"House #264, Lane #46, Manwabad Nawabshah",KE-MWN-202410-0108,2024-10,Manwabad Nawabshah,Semi-Urban Feeder,4.2,73.9,127.6,2110,Paid,Yes
+Naila Mahar,"House #40, Block #28, Farsi Bagh Nawabshah",KE-FBN-202306-0029,2023-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.8,167.5,163.8,5720,Paid,No
+Yasir Bhurgri,"House #14, Road #43, Manwabad Nawabshah",KE-MWN-202303-0014,2023-03,Manwabad Nawabshah,Semi-Urban Feeder,4.3,72.9,74.9,2190,Paid,No
+Sikandar Marri,"House #402, Lane #8, Society Colony Nawabshah",KE-SCN-202405-0084,2024-05,Society Colony Nawabshah,Urban Residential Feeder,4.7,90.0,92.9,2590,Paid,No
+Ghulam Larik,"House #260, Road #25, Isharpura Nawabshah",KE-ISN-202301-0004,2023-01,Isharpura Nawabshah,Rural Feeder,8.3,52.8,53.1,1490,Paid,No
+Zainab Rind,"House #117, Lane #9, Manwabad Nawabshah",KE-MWN-202408-0096,2024-08,Manwabad Nawabshah,Semi-Urban Feeder,7.1,78.7,77.2,2700,Paid,No
+Imran Siddiqui,"House #268, Block #22, Isharpura Nawabshah",KE-ISN-202503-0134,2025-03,Isharpura Nawabshah,Rural Feeder,10.8,62.0,61.5,1930,Partially Paid,No
+Owais Soomro,"House #170, Block #27, Society Colony Nawabshah",KE-SCN-202406-0089,2024-06,Society Colony Nawabshah,Urban Residential Feeder,2.8,120.5,122.8,3930,Unpaid,No
+Sikandar Solangi,"House #139, Lane #36, Gareebabad Nawabshah",KE-GBN-202404-0077,2024-04,Gareebabad Nawabshah,Low-Income Residential Feeder,9.7,30.7,32.1,1000,Partially Paid,No
+Imran Siddiqui,"House #51, Gali #3, Farsi Bagh Nawabshah",KE-FBN-202412-0116,2024-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.1,178.1,174.4,5450,Paid,No
+Shoaib Ali,"House #150, Road #42, Gareebabad Nawabshah",KE-GBN-202504-0136,2025-04,Gareebabad Nawabshah,Low-Income Residential Feeder,9.3,71.1,71.2,2150,Paid,No
+Sikandar Sheikh,"House #355, Mohalla #23, Manwabad Nawabshah",KE-MWN-202404-0076,2024-04,Manwabad Nawabshah,Semi-Urban Feeder,6.8,61.9,64.8,1990,Paid,No
+Fatima Bhutto,"House #311, Gali #39, Farsi Bagh Nawabshah",KE-FBN-202502-0129,2025-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.3,159.0,165.4,5130,Paid,No
+Waqas Bijarani,"House #233, Street #42, Farsi Bagh Nawabshah",KE-FBN-202504-0137,2025-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.8,136.3,137.8,4210,Paid,No
+Abdul Ansari,"House #87, Chowk #6, Farsi Bagh Nawabshah",KE-FBN-202307-0032,2023-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.2,158.5,209.5,5500,Paid,Yes
+Muhammad Bijarani,"House #360, Road #2, Isharpura Nawabshah",KE-ISN-202401-0061,2024-01,Isharpura Nawabshah,Rural Feeder,6.8,26.9,28.1,920,Unpaid,No
+Talha Abbasi,"House #74, Block #44, Society Colony Nawabshah",KE-SCN-202305-0021,2023-05,Society Colony Nawabshah,Urban Residential Feeder,3.1,87.3,87.0,2990,Paid,No
+Naveed Abbasi,"House #403, Street #9, Farsi Bagh Nawabshah",KE-FBN-202506-0146,2025-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.2,92.5,95.4,2600,Paid,No
+Rizwan Khan,"House #376, Gali #39, Manwabad Nawabshah",KE-MWN-202302-0010,2023-02,Manwabad Nawabshah,Semi-Urban Feeder,5.0,88.2,90.8,2840,Paid,No
+Umer Soomro,"House #351, Block #17, Gareebabad Nawabshah",KE-GBN-202308-0037,2023-08,Gareebabad Nawabshah,Low-Income Residential Feeder,12.5,44.3,44.8,1420,Paid,No
+Asma Jatoi,"House #343, Street #6, Isharpura Nawabshah",KE-ISN-202304-0017,2023-04,Isharpura Nawabshah,Rural Feeder,12.3,38.1,38.4,1200,Paid,No
+Amna Soomro,"House #328, Gali #32, Farsi Bagh Nawabshah",KE-FBN-202312-0058,2023-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.5,176.3,332.9,5220,Paid,Yes
+Asma Bhutto,"House #97, Chowk #9, University Colony Nawabshah",KE-UCN-202402-0070,2024-02,University Colony Nawabshah,Urban Residential Feeder,2.2,97.3,98.2,3280,Paid,No
+Faisal Larik,"House #157, Road #48, Farsi Bagh Nawabshah",KE-FBN-202511-0172,2025-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.2,73.3,75.1,2370,Paid,No
+Yasir Larik,"House #358, Block #38, Manwabad Nawabshah",KE-MWN-202307-0032,2023-07,Manwabad Nawabshah,Semi-Urban Feeder,9.8,104.6,109.2,2950,Partially Paid,No
+Shabana Chandio,"House #160, Chowk #35, Farsi Bagh Nawabshah",KE-FBN-202406-0088,2024-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,5.4,92.8,92.7,3130,Paid,No
+Naila Bijarani,"House #14, Mohalla #1, University Colony Nawabshah",KE-UCN-202511-0172,2025-11,University Colony Nawabshah,Urban Residential Feeder,4.2,167.1,171.6,4800,Paid,No
+Mehwish Sheikh,"House #198, Block #27, University Colony Nawabshah",KE-UCN-202307-0034,2023-07,University Colony Nawabshah,Urban Residential Feeder,7.3,66.9,67.9,1980,Paid,No
+Rashid Marri,"House #240, Street #40, Farsi Bagh Nawabshah",KE-FBN-202402-0068,2024-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.0,160.1,163.5,5520,Unpaid,No
+Muhammad Chandio,"House #108, Road #4, Society Colony Nawabshah",KE-SCN-202302-0006,2023-02,Society Colony Nawabshah,Urban Residential Feeder,2.7,71.5,71.3,2340,Paid,No
+Saleem Shah,"House #146, Mohalla #30, University Colony Nawabshah",KE-UCN-202510-0166,2025-10,University Colony Nawabshah,Urban Residential Feeder,3.1,113.5,117.5,3190,Paid,No
+Saba Pathan,"House #277, Gali #18, University Colony Nawabshah",KE-UCN-202306-0027,2023-06,University Colony Nawabshah,Urban Residential Feeder,4.5,147.2,153.9,4130,Unpaid,No
+Sobia Rajput,"House #368, Gali #35, Gareebabad Nawabshah",KE-GBN-202309-0044,2023-09,Gareebabad Nawabshah,Low-Income Residential Feeder,10.5,66.5,65.2,1910,Paid,No
+Rizwan Sethar,"House #431, Lane #5, Gareebabad Nawabshah",KE-GBN-202406-0088,2024-06,Gareebabad Nawabshah,Low-Income Residential Feeder,9.9,41.6,41.9,1170,Unpaid,No
+Kiran Ali,"House #421, Road #42, Isharpura Nawabshah",KE-ISN-202506-0148,2025-06,Isharpura Nawabshah,Rural Feeder,14,55.1,56.5,1900,Paid,No
+Iqra Sheikh,"House #287, Street #15, Gareebabad Nawabshah",KE-GBN-202412-0119,2024-12,Gareebabad Nawabshah,Low-Income Residential Feeder,6.5,35.5,62.8,1060,Unpaid,Yes
+Nida Rajput,"House #272, Road #20, Society Colony Nawabshah",KE-SCN-202402-0067,2024-02,Society Colony Nawabshah,Urban Residential Feeder,2.3,80.9,80.8,2470,Partially Paid,No
+Bushra Sethar,"House #243, Street #6, Farsi Bagh Nawabshah",KE-FBN-202401-0063,2024-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.7,152.9,154.4,5270,Paid,No
+Bilal Qureshi,"House #413, Gali #46, Society Colony Nawabshah",KE-SCN-202504-0139,2025-04,Society Colony Nawabshah,Urban Residential Feeder,4.5,68.9,69.5,2230,Partially Paid,No
+Rizwan Pathan,"House #192, Mohalla #43, Gareebabad Nawabshah",KE-GBN-202401-0062,2024-01,Gareebabad Nawabshah,Low-Income Residential Feeder,5.8,35.2,36.1,1220,Unpaid,No
+Samina Sethar,"House #211, Lane #11, University Colony Nawabshah",KE-UCN-202508-0160,2025-08,University Colony Nawabshah,Urban Residential Feeder,7.6,148.4,150.4,4270,Paid,No
+Yasmin Larik,"House #22, Street #33, Society Colony Nawabshah",KE-SCN-202509-0162,2025-09,Society Colony Nawabshah,Urban Residential Feeder,4.1,64.4,65.2,1950,Paid,No
+Kamran Jamali,"House #56, Gali #32, Manwabad Nawabshah",KE-MWN-202405-0085,2024-05,Manwabad Nawabshah,Semi-Urban Feeder,9.8,80.7,83.0,2460,Paid,No
+Umer Junejo,"House #227, Mohalla #47, Society Colony Nawabshah",KE-SCN-202411-0115,2024-11,Society Colony Nawabshah,Urban Residential Feeder,3.2,110.1,113.2,3530,Paid,No
+Umer Pathan,"House #365, Road #48, Isharpura Nawabshah",KE-ISN-202412-0118,2024-12,Isharpura Nawabshah,Rural Feeder,8.2,59.3,59.0,1970,Unpaid,No
+Naila Baloch,"House #58, Block #1, University Colony Nawabshah",KE-UCN-202410-0110,2024-10,University Colony Nawabshah,Urban Residential Feeder,5.4,96.7,96.3,2810,Paid,No
+Asma Mahar,"House #229, Chowk #42, Gareebabad Nawabshah",KE-GBN-202501-0121,2025-01,Gareebabad Nawabshah,Low-Income Residential Feeder,7.1,60.8,60.0,1860,Paid,No
+Bushra Memon,"House #340, Block #6, Farsi Bagh Nawabshah",KE-FBN-202301-0001,2023-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.7,132.8,131.1,3770,Paid,No
+Imran Baloch,"House #396, Lane #45, Gareebabad Nawabshah",KE-GBN-202412-0120,2024-12,Gareebabad Nawabshah,Low-Income Residential Feeder,8.0,56.0,58.4,1590,Paid,No
+Sara Bhurgri,"House #263, Block #32, Manwabad Nawabshah",KE-MWN-202411-0114,2024-11,Manwabad Nawabshah,Semi-Urban Feeder,3.7,46.7,48.7,1420,Unpaid,No
+Shazia Marri,"House #66, Road #16, Society Colony Nawabshah",KE-SCN-202312-0059,2023-12,Society Colony Nawabshah,Urban Residential Feeder,2.1,92.6,94.9,2770,Paid,No
+Haris Qureshi,"House #288, Lane #23, Manwabad Nawabshah",KE-MWN-202311-0051,2023-11,Manwabad Nawabshah,Semi-Urban Feeder,4.8,44.7,45.1,1470,Paid,No
+Iqra Panhwar,"House #65, Block #13, University Colony Nawabshah",KE-UCN-202301-0003,2023-01,University Colony Nawabshah,Urban Residential Feeder,2.2,77.9,79.2,2460,Partially Paid,No
+Nida Junejo,"House #277, Lane #21, Manwabad Nawabshah",KE-MWN-202304-0016,2023-04,Manwabad Nawabshah,Semi-Urban Feeder,4.7,56.5,57.5,1610,Paid,No
+Danish Jatoi,"House #266, Road #23, Society Colony Nawabshah",KE-SCN-202509-0165,2025-09,Society Colony Nawabshah,Urban Residential Feeder,2.5,148.3,145.1,4400,Paid,No
+Farah Jatoi,"House #36, Chowk #16, University Colony Nawabshah",KE-UCN-202509-0163,2025-09,University Colony Nawabshah,Urban Residential Feeder,6.4,143.4,147.5,4620,Paid,No
+Hina Rajput,"House #334, Lane #48, Gareebabad Nawabshah",KE-GBN-202507-0151,2025-07,Gareebabad Nawabshah,Low-Income Residential Feeder,10.4,54.5,56.7,1890,Unpaid,No
+Ali Junejo,"House #77, Road #50, University Colony Nawabshah",KE-UCN-202302-0009,2023-02,University Colony Nawabshah,Urban Residential Feeder,2.5,122.3,122.0,4090,Paid,No
+Sara Rajput,"House #215, Gali #36, University Colony Nawabshah",KE-UCN-202305-0021,2023-05,University Colony Nawabshah,Urban Residential Feeder,4.0,137.7,140.2,4730,Partially Paid,No
+Hamza Rind,"House #195, Chowk #43, University Colony Nawabshah",KE-UCN-202306-0028,2023-06,University Colony Nawabshah,Urban Residential Feeder,6.9,137.3,136.2,4610,Paid,No
+Saba Ansari,"House #33, Chowk #8, Isharpura Nawabshah",KE-ISN-202512-0178,2025-12,Isharpura Nawabshah,Rural Feeder,8.4,28.2,28.9,840,Unpaid,No
+Sikandar Shah,"House #387, Street #47, University Colony Nawabshah",KE-UCN-202312-0057,2023-12,University Colony Nawabshah,Urban Residential Feeder,2.2,82.7,86.8,2650,Paid,No
+Rukhsana Jamali,"House #446, Chowk #23, Gareebabad Nawabshah",KE-GBN-202406-0086,2024-06,Gareebabad Nawabshah,Low-Income Residential Feeder,8.7,49.3,50.8,1630,Unpaid,No
+Saleem Chachar,"House #114, Lane #16, Gareebabad Nawabshah",KE-GBN-202508-0159,2025-08,Gareebabad Nawabshah,Low-Income Residential Feeder,12.0,31.6,31.7,990,Partially Paid,No
+Arslan Bhurgri,"House #360, Gali #38, Isharpura Nawabshah",KE-ISN-202507-0153,2025-07,Isharpura Nawabshah,Rural Feeder,14,28.4,28.6,960,Unpaid,No
+Owais Panhwar,"House #270, Mohalla #17, Manwabad Nawabshah",KE-MWN-202312-0057,2023-12,Manwabad Nawabshah,Semi-Urban Feeder,5.3,89.2,88.6,2880,Paid,No
+Ahmed Chandio,"House #276, Street #36, Manwabad Nawabshah",KE-MWN-202412-0116,2024-12,Manwabad Nawabshah,Semi-Urban Feeder,3.7,85.7,85.0,2440,Paid,No
+Shahzad Sethar,"House #219, Road #8, Society Colony Nawabshah",KE-SCN-202503-0131,2025-03,Society Colony Nawabshah,Urban Residential Feeder,3.1,125.2,130.7,3700,Paid,No
+Hassan Abbasi,"House #308, Road #6, Society Colony Nawabshah",KE-SCN-202304-0020,2023-04,Society Colony Nawabshah,Urban Residential Feeder,2.6,114.0,118.8,3580,Paid,No
+Shahzad Jamali,"House #47, Mohalla #4, Gareebabad Nawabshah",KE-GBN-202412-0117,2024-12,Gareebabad Nawabshah,Low-Income Residential Feeder,5.5,32.0,33.1,910,Partially Paid,No
+Hamza Bijarani,"House #412, Mohalla #34, Farsi Bagh Nawabshah",KE-FBN-202309-0043,2023-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.0,101.4,105.9,3380,Paid,No
+Bushra Rajput,"House #66, Mohalla #25, Manwabad Nawabshah",KE-MWN-202410-0109,2024-10,Manwabad Nawabshah,Semi-Urban Feeder,6.9,71.6,71.2,2470,Paid,No
+Danish Jamali,"House #279, Lane #43, Isharpura Nawabshah",KE-ISN-202301-0003,2023-01,Isharpura Nawabshah,Rural Feeder,7.1,62.1,64.2,1900,Paid,No
+Hamza Sethar,"House #355, Chowk #37, University Colony Nawabshah",KE-UCN-202407-0093,2024-07,University Colony Nawabshah,Urban Residential Feeder,4.9,131.0,131.9,3820,Paid,No
+Hassan Abbasi,"House #408, Chowk #38, Manwabad Nawabshah",KE-MWN-202501-0122,2025-01,Manwabad Nawabshah,Semi-Urban Feeder,4.3,55.6,54.2,1840,Paid,No
+Noman Malik,"House #76, Lane #38, Farsi Bagh Nawabshah",KE-FBN-202409-0101,2024-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.0,159.9,158.2,5110,Paid,No
+Muhammad Khaskheli,"House #260, Chowk #13, Manwabad Nawabshah",KE-MWN-202506-0146,2025-06,Manwabad Nawabshah,Semi-Urban Feeder,8.5,62.7,64.1,2190,Paid,No
+Nasir Chandio,"House #305, Chowk #30, Society Colony Nawabshah",KE-SCN-202501-0123,2025-01,Society Colony Nawabshah,Urban Residential Feeder,2.1,140.3,140.4,4130,Paid,No
+Hamza Sheikh,"House #419, Lane #10, Farsi Bagh Nawabshah",KE-FBN-202504-0138,2025-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,0.9,123.8,125.7,3870,Paid,No
+Shazia Siddiqui,"House #44, Road #50, Gareebabad Nawabshah",KE-GBN-202301-0001,2023-01,Gareebabad Nawabshah,Low-Income Residential Feeder,5.3,53.9,98.6,1880,Unpaid,Yes
+Noman Pathan,"House #75, Chowk #16, Isharpura Nawabshah",KE-ISN-202308-0038,2023-08,Isharpura Nawabshah,Rural Feeder,13.0,42.9,43.5,1310,Paid,No
+Samina Soomro,"House #55, Block #14, Gareebabad Nawabshah",KE-GBN-202301-0005,2023-01,Gareebabad Nawabshah,Low-Income Residential Feeder,6.3,34.2,33.2,1120,Paid,No
+Amna Rajput,"House #151, Chowk #16, Gareebabad Nawabshah",KE-GBN-202509-0163,2025-09,Gareebabad Nawabshah,Low-Income Residential Feeder,7.5,54.6,56.3,1540,Partially Paid,No
+Saleem Baloch,"House #178, Lane #33, Society Colony Nawabshah",KE-SCN-202511-0172,2025-11,Society Colony Nawabshah,Urban Residential Feeder,2.6,120.3,117.4,4170,Paid,No
+Shahzad Bijarani,"House #233, Chowk #19, Society Colony Nawabshah",KE-SCN-202402-0069,2024-02,Society Colony Nawabshah,Urban Residential Feeder,1.7,135.4,140.1,4410,Paid,No
+Sohail Chandio,"House #444, Mohalla #40, University Colony Nawabshah",KE-UCN-202407-0094,2024-07,University Colony Nawabshah,Urban Residential Feeder,4.5,114.5,114.6,3910,Unpaid,No
+Ali Rind,"House #306, Gali #15, Isharpura Nawabshah",KE-ISN-202407-0093,2024-07,Isharpura Nawabshah,Rural Feeder,14,30.1,29.3,870,Paid,No
+Tariq Rajput,"House #143, Block #46, Farsi Bagh Nawabshah",KE-FBN-202509-0162,2025-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.0,102.0,104.3,3230,Paid,No
+Junaid Soomro,"House #355, Mohalla #27, Isharpura Nawabshah",KE-ISN-202402-0070,2024-02,Isharpura Nawabshah,Rural Feeder,7.2,34.2,33.5,960,Paid,No
+Adnan Pathan,"House #38, Block #29, Gareebabad Nawabshah",KE-GBN-202304-0017,2023-04,Gareebabad Nawabshah,Low-Income Residential Feeder,9.5,66.6,67.5,2130,Partially Paid,No
+Usman Jatoi,"House #240, Gali #38, Isharpura Nawabshah",KE-ISN-202303-0012,2023-03,Isharpura Nawabshah,Rural Feeder,9.7,61.6,82.5,1820,Unpaid,Yes
+Hamza Panhwar,"House #407, Street #6, Gareebabad Nawabshah",KE-GBN-202503-0135,2025-03,Gareebabad Nawabshah,Low-Income Residential Feeder,8.2,50.3,49.6,1720,Unpaid,No
+Bilal Ansari,"House #377, Gali #34, Farsi Bagh Nawabshah",KE-FBN-202508-0160,2025-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.9,149.4,148.4,4870,Paid,No
+Fahad Chandio,"House #147, Lane #23, Society Colony Nawabshah",KE-SCN-202506-0146,2025-06,Society Colony Nawabshah,Urban Residential Feeder,5.4,119.2,117.3,4050,Partially Paid,No
+Shahzad Mahar,"House #362, Lane #29, Manwabad Nawabshah",KE-MWN-202312-0059,2023-12,Manwabad Nawabshah,Semi-Urban Feeder,3.8,95.4,98.2,2980,Paid,No
+Yasmin Ali,"House #44, Street #47, Isharpura Nawabshah",KE-ISN-202310-0047,2023-10,Isharpura Nawabshah,Rural Feeder,7.8,52.0,107.2,1600,Paid,Yes
+Zeeshan Junejo,"House #66, Road #8, Manwabad Nawabshah",KE-MWN-202401-0065,2024-01,Manwabad Nawabshah,Semi-Urban Feeder,3.8,47.6,47.5,1400,Unpaid,No
+Zeeshan Memon,"House #294, Road #29, Isharpura Nawabshah",KE-ISN-202307-0035,2023-07,Isharpura Nawabshah,Rural Feeder,12.9,47.7,86.4,1450,Paid,Yes
+Salman Shah,"House #222, Street #18, Manwabad Nawabshah",KE-MWN-202511-0173,2025-11,Manwabad Nawabshah,Semi-Urban Feeder,4.1,53.0,104.3,1740,Paid,Yes
+Shazia Khan,"House #8, Gali #50, Society Colony Nawabshah",KE-SCN-202311-0055,2023-11,Society Colony Nawabshah,Urban Residential Feeder,3.1,64.2,64.3,1940,Paid,No
+Ghulam Bijarani,"House #82, Gali #21, University Colony Nawabshah",KE-UCN-202301-0002,2023-01,University Colony Nawabshah,Urban Residential Feeder,2.6,106.3,104.3,3540,Paid,No
+Sobia Khaskheli,"House #24, Mohalla #23, University Colony Nawabshah",KE-UCN-202301-0004,2023-01,University Colony Nawabshah,Urban Residential Feeder,4.0,95.4,93.3,2870,Paid,No
+Sana Ali,"House #376, Block #40, University Colony Nawabshah",KE-UCN-202509-0161,2025-09,University Colony Nawabshah,Urban Residential Feeder,2.5,85.7,86.7,2700,Partially Paid,No
+Sohail Marri,"House #145, Road #25, Manwabad Nawabshah",KE-MWN-202507-0154,2025-07,Manwabad Nawabshah,Semi-Urban Feeder,11.3,40.6,39.6,1270,Paid,No
+Ayesha Soomro,"House #433, Road #6, Isharpura Nawabshah",KE-ISN-202310-0046,2023-10,Isharpura Nawabshah,Rural Feeder,9.8,40.4,82.8,1300,Paid,Yes
+Owais Rind,"House #93, Street #31, Gareebabad Nawabshah",KE-GBN-202404-0079,2024-04,Gareebabad Nawabshah,Low-Income Residential Feeder,7.1,42.7,42.0,1250,Paid,No
+Danish Panhwar,"House #222, Street #12, Isharpura Nawabshah",KE-ISN-202408-0100,2024-08,Isharpura Nawabshah,Rural Feeder,10.1,36.4,37.1,1070,Paid,No
+Nida Memon,"House #328, Street #43, Society Colony Nawabshah",KE-SCN-202410-0109,2024-10,Society Colony Nawabshah,Urban Residential Feeder,2.8,151.5,154.1,4250,Paid,No
+Adnan Sheikh,"House #216, Block #22, University Colony Nawabshah",KE-UCN-202308-0036,2023-08,University Colony Nawabshah,Urban Residential Feeder,6.8,78.8,79.3,2750,Paid,No
+Amna Bhurgri,"House #364, Road #36, Manwabad Nawabshah",KE-MWN-202412-0118,2024-12,Manwabad Nawabshah,Semi-Urban Feeder,4.9,93.8,92.5,2760,Partially Paid,No
+Umer Panhwar,"House #216, Chowk #35, Society Colony Nawabshah",KE-SCN-202309-0042,2023-09,Society Colony Nawabshah,Urban Residential Feeder,4.4,64.4,64.3,2060,Paid,No
+Abdul Siddiqui,"House #104, Road #4, Gareebabad Nawabshah",KE-GBN-202303-0013,2023-03,Gareebabad Nawabshah,Low-Income Residential Feeder,8.1,42.9,44.9,1460,Paid,No
+Ghulam Memon,"House #133, Gali #34, Society Colony Nawabshah",KE-SCN-202404-0080,2024-04,Society Colony Nawabshah,Urban Residential Feeder,4.6,66.2,64.2,2210,Paid,No
+Sana Shah,"House #89, Street #9, Isharpura Nawabshah",KE-ISN-202505-0141,2025-05,Isharpura Nawabshah,Rural Feeder,13.6,45.8,44.9,1530,Unpaid,No
+Naila Sethar,"House #17, Road #8, Gareebabad Nawabshah",KE-GBN-202506-0148,2025-06,Gareebabad Nawabshah,Low-Income Residential Feeder,8.9,34.7,36.3,1000,Paid,No
+Talha Marri,"House #23, Lane #48, Society Colony Nawabshah",KE-SCN-202304-0017,2023-04,Society Colony Nawabshah,Urban Residential Feeder,4.6,106.4,110.6,3650,Paid,No
+Rabia Larik,"House #447, Street #39, University Colony Nawabshah",KE-UCN-202406-0087,2024-06,University Colony Nawabshah,Urban Residential Feeder,4.1,139.0,140.0,4400,Paid,No
+Zeeshan Mahar,"House #303, Block #3, Isharpura Nawabshah",KE-ISN-202505-0143,2025-05,Isharpura Nawabshah,Rural Feeder,10.5,33.4,65.6,1070,Unpaid,Yes
+Sara Panhwar,"House #182, Road #24, Manwabad Nawabshah",KE-MWN-202509-0165,2025-09,Manwabad Nawabshah,Semi-Urban Feeder,5.7,94.6,95.4,2830,Unpaid,No
+Asad Ansari,"House #6, Chowk #8, Manwabad Nawabshah",KE-MWN-202512-0178,2025-12,Manwabad Nawabshah,Semi-Urban Feeder,4.4,60.0,59.0,1910,Paid,No
+Shabana Bhutto,"House #48, Lane #40, University Colony Nawabshah",KE-UCN-202309-0045,2023-09,University Colony Nawabshah,Urban Residential Feeder,3.1,67.3,65.7,2180,Paid,No
+Ayesha Soomro,"House #386, Mohalla #32, Gareebabad Nawabshah",KE-GBN-202309-0041,2023-09,Gareebabad Nawabshah,Low-Income Residential Feeder,7.5,43.2,42.3,1330,Paid,No
+Asad Sheikh,"House #221, Gali #14, Manwabad Nawabshah",KE-MWN-202301-0001,2023-01,Manwabad Nawabshah,Semi-Urban Feeder,6.0,78.1,75.9,2700,Unpaid,No
+Salman Bhutto,"House #140, Mohalla #34, Gareebabad Nawabshah",KE-GBN-202402-0067,2024-02,Gareebabad Nawabshah,Low-Income Residential Feeder,7.4,57.1,59.5,1860,Paid,No
+Faisal Rind,"House #352, Mohalla #1, Farsi Bagh Nawabshah",KE-FBN-202310-0050,2023-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.9,142.4,145.7,4670,Paid,No
+Zeeshan Ali,"House #358, Gali #25, University Colony Nawabshah",KE-UCN-202510-0168,2025-10,University Colony Nawabshah,Urban Residential Feeder,1.6,69.2,71.8,2160,Unpaid,No
+Shabana Jamali,"House #147, Lane #15, University Colony Nawabshah",KE-UCN-202411-0112,2024-11,University Colony Nawabshah,Urban Residential Feeder,4.5,153.4,154.8,4780,Paid,No
+Shoaib Malik,"House #11, Mohalla #42, Isharpura Nawabshah",KE-ISN-202505-0145,2025-05,Isharpura Nawabshah,Rural Feeder,11.4,41.5,42.4,1420,Unpaid,No
+Fatima Mahar,"House #140, Lane #3, Farsi Bagh Nawabshah",KE-FBN-202406-0086,2024-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.2,108.0,106.9,3040,Paid,No
+Shoaib Mahar,"House #59, Street #33, Society Colony Nawabshah",KE-SCN-202307-0035,2023-07,Society Colony Nawabshah,Urban Residential Feeder,5.1,85.7,87.0,2880,Paid,No
+Rukhsana Siddiqui,"House #429, Lane #3, Society Colony Nawabshah",KE-SCN-202305-0023,2023-05,Society Colony Nawabshah,Urban Residential Feeder,3.3,89.0,92.2,3070,Paid,No
+Noman Baloch,"House #162, Gali #33, Isharpura Nawabshah",KE-ISN-202503-0132,2025-03,Isharpura Nawabshah,Rural Feeder,8.7,37.1,81.3,1190,Partially Paid,Yes
+Shazia Jamali,"House #222, Block #32, University Colony Nawabshah",KE-UCN-202401-0061,2024-01,University Colony Nawabshah,Urban Residential Feeder,4.1,104.4,102.2,3150,Paid,No
+Ayesha Khaskheli,"House #337, Block #12, University Colony Nawabshah",KE-UCN-202504-0136,2025-04,University Colony Nawabshah,Urban Residential Feeder,5.3,107.1,109.1,3380,Paid,No
+Hassan Abbasi,"House #340, Street #3, Isharpura Nawabshah",KE-ISN-202406-0088,2024-06,Isharpura Nawabshah,Rural Feeder,12.5,30.2,29.6,990,Paid,No
+Owais Marri,"House #133, Chowk #48, University Colony Nawabshah",KE-UCN-202505-0142,2025-05,University Colony Nawabshah,Urban Residential Feeder,3.6,143.3,263.9,4760,Partially Paid,Yes
+Bushra Baloch,"House #202, Gali #38, Isharpura Nawabshah",KE-ISN-202501-0123,2025-01,Isharpura Nawabshah,Rural Feeder,8.1,30.3,49.2,970,Unpaid,Yes
+Robina Jatoi,"House #102, Street #42, Manwabad Nawabshah",KE-MWN-202305-0021,2023-05,Manwabad Nawabshah,Semi-Urban Feeder,9.2,87.3,143.1,2520,Paid,Yes
+Zainab Junejo,"House #287, Chowk #1, Isharpura Nawabshah",KE-ISN-202303-0015,2023-03,Isharpura Nawabshah,Rural Feeder,6.9,35.5,37.2,1060,Paid,No
+Nida Mahar,"House #366, Chowk #38, Gareebabad Nawabshah",KE-GBN-202506-0146,2025-06,Gareebabad Nawabshah,Low-Income Residential Feeder,12.3,41.9,41.4,1260,Paid,No
+Maryam Jamali,"House #73, Road #10, University Colony Nawabshah",KE-UCN-202307-0033,2023-07,University Colony Nawabshah,Urban Residential Feeder,2.5,116.3,116.7,3550,Paid,No
+Rabia Jatoi,"House #27, Lane #30, Isharpura Nawabshah",KE-ISN-202305-0023,2023-05,Isharpura Nawabshah,Rural Feeder,14,43.9,44.6,1270,Paid,No
+Zainab Jamali,"House #15, Gali #4, Manwabad Nawabshah",KE-MWN-202501-0123,2025-01,Manwabad Nawabshah,Semi-Urban Feeder,5.1,82.8,85.8,2880,Paid,No
+Ahmed Sethar,"House #143, Road #42, Gareebabad Nawabshah",KE-GBN-202312-0056,2023-12,Gareebabad Nawabshah,Low-Income Residential Feeder,6.4,30.5,61.5,1000,Unpaid,Yes
+Sumaira Jatoi,"House #99, Block #20, Isharpura Nawabshah",KE-ISN-202410-0108,2024-10,Isharpura Nawabshah,Rural Feeder,8.7,28.7,29.7,810,Partially Paid,No
+Rukhsana Bhurgri,"House #386, Street #28, Manwabad Nawabshah",KE-MWN-202308-0037,2023-08,Manwabad Nawabshah,Semi-Urban Feeder,5.4,75.0,73.7,2590,Partially Paid,No
+Shoaib Bhurgri,"House #39, Lane #16, Isharpura Nawabshah",KE-ISN-202301-0005,2023-01,Isharpura Nawabshah,Rural Feeder,8.7,37.2,36.9,1050,Paid,No
+Yasir Siddiqui,"House #32, Lane #1, Farsi Bagh Nawabshah",KE-FBN-202510-0170,2025-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.4,162.8,170.8,5440,Paid,No
+Umer Khan,"House #341, Street #36, Isharpura Nawabshah",KE-ISN-202504-0138,2025-04,Isharpura Nawabshah,Rural Feeder,8.9,50.8,50.5,1490,Paid,No
+Bilal Abbasi,"House #238, Mohalla #32, Gareebabad Nawabshah",KE-GBN-202510-0167,2025-10,Gareebabad Nawabshah,Low-Income Residential Feeder,7.4,66.8,67.7,1880,Partially Paid,No
+Uzma Panhwar,"House #289, Mohalla #3, Manwabad Nawabshah",KE-MWN-202407-0093,2024-07,Manwabad Nawabshah,Semi-Urban Feeder,6.5,91.3,88.7,2750,Partially Paid,No
+Amna Marri,"House #302, Lane #13, University Colony Nawabshah",KE-UCN-202307-0032,2023-07,University Colony Nawabshah,Urban Residential Feeder,3.7,81.7,80.4,2300,Paid,No
+Abdul Ali,"House #99, Gali #16, Farsi Bagh Nawabshah",KE-FBN-202309-0041,2023-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.3,155.0,159.4,4740,Partially Paid,No
+Imran Marri,"House #162, Lane #5, Isharpura Nawabshah",KE-ISN-202508-0158,2025-08,Isharpura Nawabshah,Rural Feeder,12.9,25.8,26.8,890,Partially Paid,No
+Yasmin Junejo,"House #413, Block #11, University Colony Nawabshah",KE-UCN-202512-0180,2025-12,University Colony Nawabshah,Urban Residential Feeder,2.3,56.0,54.4,1960,Paid,No
+Usman Solangi,"House #64, Road #28, Society Colony Nawabshah",KE-SCN-202406-0088,2024-06,Society Colony Nawabshah,Urban Residential Feeder,5.9,74.1,72.8,2180,Partially Paid,No
+Arslan Malik,"House #41, Lane #12, Manwabad Nawabshah",KE-MWN-202511-0171,2025-11,Manwabad Nawabshah,Semi-Urban Feeder,4.0,53.7,53.9,1790,Unpaid,No
+Naveed Bhutto,"House #96, Chowk #42, Society Colony Nawabshah",KE-SCN-202509-0164,2025-09,Society Colony Nawabshah,Urban Residential Feeder,5.9,157.4,163.6,4480,Paid,No
+Asad Chandio,"House #383, Block #10, Isharpura Nawabshah",KE-ISN-202303-0014,2023-03,Isharpura Nawabshah,Rural Feeder,10.0,45.9,47.4,1430,Paid,No
+Kiran Sethar,"House #444, Road #10, Society Colony Nawabshah",KE-SCN-202506-0148,2025-06,Society Colony Nawabshah,Urban Residential Feeder,3.1,108.2,107.8,3120,Paid,No
+Ahmed Qureshi,"House #429, Lane #15, Isharpura Nawabshah",KE-ISN-202305-0022,2023-05,Isharpura Nawabshah,Rural Feeder,14,52.8,52.1,1770,Unpaid,No
+Fatima Solangi,"House #294, Chowk #22, Isharpura Nawabshah",KE-ISN-202402-0068,2024-02,Isharpura Nawabshah,Rural Feeder,6.5,52.0,81.6,1680,Unpaid,Yes
+Rukhsana Chachar,"House #333, Block #49, Society Colony Nawabshah",KE-SCN-202504-0138,2025-04,Society Colony Nawabshah,Urban Residential Feeder,2.7,132.3,129.4,3950,Paid,No
+Sobia Ali,"House #157, Road #2, Society Colony Nawabshah",KE-SCN-202409-0104,2024-09,Society Colony Nawabshah,Urban Residential Feeder,5.2,141.8,139.9,4440,Partially Paid,No
+Amna Khan,"House #194, Street #47, Manwabad Nawabshah",KE-MWN-202304-0018,2023-04,Manwabad Nawabshah,Semi-Urban Feeder,8.1,78.4,80.8,2590,Partially Paid,No
+Sana Baloch,"House #312, Gali #28, Society Colony Nawabshah",KE-SCN-202411-0113,2024-11,Society Colony Nawabshah,Urban Residential Feeder,3.3,125.8,127.5,3750,Paid,No
+Samina Siddiqui,"House #213, Gali #47, Manwabad Nawabshah",KE-MWN-202306-0029,2023-06,Manwabad Nawabshah,Semi-Urban Feeder,9.1,82.6,84.8,2730,Paid,No
+Sohail Solangi,"House #372, Lane #10, Gareebabad Nawabshah",KE-GBN-202507-0155,2025-07,Gareebabad Nawabshah,Low-Income Residential Feeder,11.3,47.4,46.1,1540,Unpaid,No
+Sohail Junejo,"House #441, Block #19, Manwabad Nawabshah",KE-MWN-202510-0167,2025-10,Manwabad Nawabshah,Semi-Urban Feeder,4.2,52.3,50.8,1560,Paid,No
+Asma Khan,"House #76, Lane #47, Society Colony Nawabshah",KE-SCN-202508-0160,2025-08,Society Colony Nawabshah,Urban Residential Feeder,5.8,87.8,90.2,2730,Paid,No
+Farah Solangi,"House #315, Lane #13, Gareebabad Nawabshah",KE-GBN-202304-0020,2023-04,Gareebabad Nawabshah,Low-Income Residential Feeder,8.7,34.9,36.1,1160,Paid,No
+Noman Rind,"House #141, Block #31, Farsi Bagh Nawabshah",KE-FBN-202411-0113,2024-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.9,121.9,126.6,4030,Paid,No
+Fatima Pathan,"House #298, Block #16, Gareebabad Nawabshah",KE-GBN-202305-0023,2023-05,Gareebabad Nawabshah,Low-Income Residential Feeder,9.1,36.4,60.2,1270,Partially Paid,Yes
+Hina Mahar,"House #224, Street #35, Manwabad Nawabshah",KE-MWN-202509-0161,2025-09,Manwabad Nawabshah,Semi-Urban Feeder,6.2,69.9,69.9,2260,Paid,No
+Rabia Memon,"House #248, Mohalla #43, Gareebabad Nawabshah",KE-GBN-202503-0133,2025-03,Gareebabad Nawabshah,Low-Income Residential Feeder,7.1,58.5,58.5,1790,Partially Paid,No
+Adnan Soomro,"House #145, Lane #32, Manwabad Nawabshah",KE-MWN-202412-0117,2024-12,Manwabad Nawabshah,Semi-Urban Feeder,3.5,40.7,40.7,1220,Paid,No
+Sara Larik,"House #278, Street #27, Farsi Bagh Nawabshah",KE-FBN-202401-0064,2024-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.6,86.9,86.2,2770,Paid,No
+Yasir Solangi,"House #52, Street #22, Society Colony Nawabshah",KE-SCN-202510-0167,2025-10,Society Colony Nawabshah,Urban Residential Feeder,5.0,90.4,87.9,2920,Paid,No
+Zeeshan Chandio,"House #15, Block #42, Gareebabad Nawabshah",KE-GBN-202406-0089,2024-06,Gareebabad Nawabshah,Low-Income Residential Feeder,11.9,51.4,50.4,1470,Partially Paid,No
+Hamza Rajput,"House #196, Chowk #38, University Colony Nawabshah",KE-UCN-202511-0171,2025-11,University Colony Nawabshah,Urban Residential Feeder,3.6,104.6,103.3,3440,Partially Paid,No
+Naveed Solangi,"House #380, Lane #2, Manwabad Nawabshah",KE-MWN-202408-0098,2024-08,Manwabad Nawabshah,Semi-Urban Feeder,5.8,48.1,96.6,1620,Paid,Yes
+Ayesha Junejo,"House #322, Mohalla #33, Gareebabad Nawabshah",KE-GBN-202410-0110,2024-10,Gareebabad Nawabshah,Low-Income Residential Feeder,9.8,52.6,55.2,1770,Unpaid,No
+Fatima Ansari,"House #254, Chowk #7, Gareebabad Nawabshah",KE-GBN-202308-0039,2023-08,Gareebabad Nawabshah,Low-Income Residential Feeder,11.1,45.0,46.6,1410,Partially Paid,No
+Rashid Bhurgri,"House #402, Mohalla #25, University Colony Nawabshah",KE-UCN-202409-0104,2024-09,University Colony Nawabshah,Urban Residential Feeder,6.2,131.0,135.7,4040,Paid,No
+Naveed Qureshi,"House #370, Lane #12, Farsi Bagh Nawabshah",KE-FBN-202512-0180,2025-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.9,122.9,127.7,4160,Paid,No
+Hina Junejo,"House #257, Street #40, Manwabad Nawabshah",KE-MWN-202407-0092,2024-07,Manwabad Nawabshah,Semi-Urban Feeder,10.3,63.1,63.0,2160,Paid,No
+Arslan Mahar,"House #413, Lane #14, University Colony Nawabshah",KE-UCN-202412-0117,2024-12,University Colony Nawabshah,Urban Residential Feeder,1.2,81.1,79.0,2670,Paid,No
+Hina Abbasi,"House #428, Mohalla #25, University Colony Nawabshah",KE-UCN-202512-0177,2025-12,University Colony Nawabshah,Urban Residential Feeder,3.8,131.5,128.4,4280,Paid,No
+Sumaira Memon,"House #392, Mohalla #39, Manwabad Nawabshah",KE-MWN-202406-0090,2024-06,Manwabad Nawabshah,Semi-Urban Feeder,6.8,85.1,146.8,2430,Partially Paid,Yes
+Kashif Abbasi,"House #225, Mohalla #42, Society Colony Nawabshah",KE-SCN-202506-0147,2025-06,Society Colony Nawabshah,Urban Residential Feeder,4.0,102.7,101.4,3360,Paid,No
+Nadia Shah,"House #164, Gali #4, Gareebabad Nawabshah",KE-GBN-202502-0126,2025-02,Gareebabad Nawabshah,Low-Income Residential Feeder,6.6,65.6,64.3,1880,Paid,No
+Faisal Chandio,"House #257, Street #24, Isharpura Nawabshah",KE-ISN-202505-0144,2025-05,Isharpura Nawabshah,Rural Feeder,12.4,37.8,37.3,1170,Unpaid,No
+Hina Mahar,"House #243, Lane #21, Isharpura Nawabshah",KE-ISN-202504-0136,2025-04,Isharpura Nawabshah,Rural Feeder,8.5,54.9,78.2,1790,Unpaid,Yes
+Maryam Jamali,"House #11, Gali #14, Society Colony Nawabshah",KE-SCN-202302-0009,2023-02,Society Colony Nawabshah,Urban Residential Feeder,2.9,151.6,150.2,4470,Paid,No
+Shazia Sethar,"House #135, Chowk #47, University Colony Nawabshah",KE-UCN-202312-0060,2023-12,University Colony Nawabshah,Urban Residential Feeder,3.0,101.5,103.7,3550,Unpaid,No
+Asad Panhwar,"House #237, Road #39, University Colony Nawabshah",KE-UCN-202410-0108,2024-10,University Colony Nawabshah,Urban Residential Feeder,4.0,93.7,92.2,2980,Paid,No
+Adnan Ali,"House #354, Mohalla #18, Society Colony Nawabshah",KE-SCN-202501-0124,2025-01,Society Colony Nawabshah,Urban Residential Feeder,3.8,99.5,101.7,3180,Paid,No
+Muhammad Sethar,"House #194, Road #6, Society Colony Nawabshah",KE-SCN-202403-0073,2024-03,Society Colony Nawabshah,Urban Residential Feeder,4.5,128.3,128.8,3970,Paid,No
+Robina Rind,"House #121, Street #13, Society Colony Nawabshah",KE-SCN-202410-0106,2024-10,Society Colony Nawabshah,Urban Residential Feeder,3.6,82.1,85.4,2540,Unpaid,No
+Nida Bijarani,"House #78, Gali #27, Manwabad Nawabshah",KE-MWN-202301-0003,2023-01,Manwabad Nawabshah,Semi-Urban Feeder,5.1,79.4,120.0,2720,Unpaid,Yes
+Nasir Jatoi,"House #255, Chowk #37, Farsi Bagh Nawabshah",KE-FBN-202311-0051,2023-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.3,124.0,129.9,4030,Paid,No
+Naveed Ansari,"House #124, Lane #42, University Colony Nawabshah",KE-UCN-202501-0122,2025-01,University Colony Nawabshah,Urban Residential Feeder,3.3,122.1,126.0,4100,Paid,No
+Maryam Jamali,"House #357, Gali #1, Gareebabad Nawabshah",KE-GBN-202311-0054,2023-11,Gareebabad Nawabshah,Low-Income Residential Feeder,5.6,51.7,53.3,1720,Paid,No
+Rabia Solangi,"House #2, Street #10, Manwabad Nawabshah",KE-MWN-202512-0176,2025-12,Manwabad Nawabshah,Semi-Urban Feeder,4.9,101.7,158.9,2890,Unpaid,Yes
+Muhammad Abbasi,"House #125, Mohalla #47, Society Colony Nawabshah",KE-SCN-202409-0103,2024-09,Society Colony Nawabshah,Urban Residential Feeder,2.1,111.4,114.2,3230,Paid,No
+Aamir Panhwar,"House #66, Mohalla #6, Society Colony Nawabshah",KE-SCN-202405-0081,2024-05,Society Colony Nawabshah,Urban Residential Feeder,3.9,88.5,90.0,3070,Paid,No
+Asad Chachar,"House #362, Road #22, Manwabad Nawabshah",KE-MWN-202506-0148,2025-06,Manwabad Nawabshah,Semi-Urban Feeder,8.2,38.1,37.3,1300,Partially Paid,No
+Sara Chandio,"House #325, Chowk #28, Society Colony Nawabshah",KE-SCN-202305-0022,2023-05,Society Colony Nawabshah,Urban Residential Feeder,6.2,111.5,109.4,3370,Paid,No
+Hina Bijarani,"House #182, Chowk #1, Gareebabad Nawabshah",KE-GBN-202310-0047,2023-10,Gareebabad Nawabshah,Low-Income Residential Feeder,7.5,39.9,60.8,1230,Unpaid,Yes
+Zeeshan Baloch,"House #295, Chowk #43, University Colony Nawabshah",KE-UCN-202501-0121,2025-01,University Colony Nawabshah,Urban Residential Feeder,1.4,92.0,89.8,3200,Paid,No
+Imran Soomro,"House #84, Lane #4, Gareebabad Nawabshah",KE-GBN-202301-0002,2023-01,Gareebabad Nawabshah,Low-Income Residential Feeder,6.5,40.6,39.9,1200,Paid,No
+Robina Memon,"House #233, Block #8, Isharpura Nawabshah",KE-ISN-202307-0031,2023-07,Isharpura Nawabshah,Rural Feeder,14,55.2,57.7,1810,Paid,No
+Nasir Qureshi,"House #273, Gali #6, Gareebabad Nawabshah",KE-GBN-202509-0164,2025-09,Gareebabad Nawabshah,Low-Income Residential Feeder,8.7,57.7,58.3,1990,Unpaid,No
+Maryam Junejo,"House #420, Street #1, University Colony Nawabshah",KE-UCN-202302-0007,2023-02,University Colony Nawabshah,Urban Residential Feeder,3.4,133.8,133.1,4590,Paid,No
+Iqra Ansari,"House #100, Mohalla #49, Manwabad Nawabshah",KE-MWN-202511-0172,2025-11,Manwabad Nawabshah,Semi-Urban Feeder,5.8,94.4,99.1,2820,Paid,No
+Rashid Junejo,"House #233, Gali #31, Gareebabad Nawabshah",KE-GBN-202306-0026,2023-06,Gareebabad Nawabshah,Low-Income Residential Feeder,13.9,70.2,71.8,1970,Partially Paid,No
+Shahzad Marri,"House #209, Road #4, Gareebabad Nawabshah",KE-GBN-202504-0137,2025-04,Gareebabad Nawabshah,Low-Income Residential Feeder,9.9,72.7,108.0,2060,Paid,Yes
+Shazia Sethar,"House #403, Mohalla #23, Gareebabad Nawabshah",KE-GBN-202401-0064,2024-01,Gareebabad Nawabshah,Low-Income Residential Feeder,6.6,53.7,56.0,1820,Unpaid,No
+Danish Bijarani,"House #430, Gali #13, University Colony Nawabshah",KE-UCN-202309-0044,2023-09,University Colony Nawabshah,Urban Residential Feeder,4.0,77.9,76.2,2700,Paid,No
+Robina Panhwar,"House #390, Street #14, Society Colony Nawabshah",KE-SCN-202508-0158,2025-08,Society Colony Nawabshah,Urban Residential Feeder,6.1,144.1,150.9,4470,Paid,No
+Iqra Jamali,"House #282, Gali #23, Gareebabad Nawabshah",KE-GBN-202305-0021,2023-05,Gareebabad Nawabshah,Low-Income Residential Feeder,12.8,45.1,60.2,1300,Partially Paid,Yes
+Rashid Panhwar,"House #344, Gali #20, University Colony Nawabshah",KE-UCN-202311-0053,2023-11,University Colony Nawabshah,Urban Residential Feeder,3.2,88.8,170.2,2950,Paid,Yes
+Rukhsana Bhutto,"House #216, Lane #9, Isharpura Nawabshah",KE-ISN-202304-0016,2023-04,Isharpura Nawabshah,Rural Feeder,7.6,64.8,67.6,1830,Partially Paid,No
+Bushra Larik,"House #55, Lane #3, Gareebabad Nawabshah",KE-GBN-202308-0040,2023-08,Gareebabad Nawabshah,Low-Income Residential Feeder,11.3,46.5,45.9,1440,Unpaid,No
+Zeeshan Chachar,"House #323, Block #34, Isharpura Nawabshah",KE-ISN-202502-0127,2025-02,Isharpura Nawabshah,Rural Feeder,6.2,35.4,34.5,1130,Paid,No
+Hamza Bhutto,"House #178, Lane #45, University Colony Nawabshah",KE-UCN-202403-0072,2024-03,University Colony Nawabshah,Urban Residential Feeder,3.0,130.8,129.6,4470,Paid,No
+Rukhsana Rajput,"House #214, Lane #41, Gareebabad Nawabshah",KE-GBN-202311-0052,2023-11,Gareebabad Nawabshah,Low-Income Residential Feeder,6.8,46.5,48.8,1590,Unpaid,No
+Bushra Memon,"House #209, Lane #27, Isharpura Nawabshah",KE-ISN-202511-0172,2025-11,Isharpura Nawabshah,Rural Feeder,8.1,30.0,50.9,1020,Unpaid,Yes
+Danish Sethar,"House #4, Mohalla #32, Isharpura Nawabshah",KE-ISN-202410-0110,2024-10,Isharpura Nawabshah,Rural Feeder,8.9,63.9,62.7,1840,Unpaid,No
+Hina Ansari,"House #272, Mohalla #2, University Colony Nawabshah",KE-UCN-202306-0026,2023-06,University Colony Nawabshah,Urban Residential Feeder,6.6,74.2,72.0,2290,Paid,No
+Ghulam Sethar,"House #133, Gali #48, Farsi Bagh Nawabshah",KE-FBN-202408-0097,2024-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.3,182.2,381.0,5490,Paid,Yes
+Noman Bhurgri,"House #70, Road #32, Society Colony Nawabshah",KE-SCN-202403-0072,2024-03,Society Colony Nawabshah,Urban Residential Feeder,3.5,86.1,88.1,2910,Partially Paid,No
+Shoaib Khaskheli,"House #419, Lane #15, Isharpura Nawabshah",KE-ISN-202311-0054,2023-11,Isharpura Nawabshah,Rural Feeder,8.4,55.6,57.0,1820,Partially Paid,No
+Fatima Chachar,"House #291, Road #14, Gareebabad Nawabshah",KE-GBN-202509-0162,2025-09,Gareebabad Nawabshah,Low-Income Residential Feeder,9.5,29.4,30.8,940,Unpaid,No
+Sumaira Khan,"House #85, Lane #27, University Colony Nawabshah",KE-UCN-202506-0148,2025-06,University Colony Nawabshah,Urban Residential Feeder,4.5,131.9,138.4,3760,Paid,No
+Noman Jatoi,"House #378, Mohalla #40, Society Colony Nawabshah",KE-SCN-202509-0163,2025-09,Society Colony Nawabshah,Urban Residential Feeder,2.9,132.6,138.1,4410,Paid,No
+Imran Memon,"House #98, Mohalla #18, Manwabad Nawabshah",KE-MWN-202512-0179,2025-12,Manwabad Nawabshah,Semi-Urban Feeder,3.3,79.4,82.3,2770,Paid,No
+Sikandar Pathan,"House #249, Chowk #5, Farsi Bagh Nawabshah",KE-FBN-202510-0169,2025-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.3,153.8,159.5,4490,Paid,No
+Bilal Memon,"House #47, Lane #14, Farsi Bagh Nawabshah",KE-FBN-202509-0161,2025-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.9,92.8,96.5,2650,Paid,No
+Ayesha Jamali,"House #185, Chowk #41, Manwabad Nawabshah",KE-MWN-202312-0060,2023-12,Manwabad Nawabshah,Semi-Urban Feeder,4.3,83.3,85.9,2490,Partially Paid,No
+Ghulam Sethar,"House #373, Street #33, Farsi Bagh Nawabshah",KE-FBN-202404-0076,2024-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.0,87.4,91.0,2830,Paid,No
+Ayesha Chachar,"House #58, Road #16, University Colony Nawabshah",KE-UCN-202404-0080,2024-04,University Colony Nawabshah,Urban Residential Feeder,4.8,92.8,96.0,2620,Paid,No
+Amna Ansari,"House #298, Lane #4, Gareebabad Nawabshah",KE-GBN-202504-0139,2025-04,Gareebabad Nawabshah,Low-Income Residential Feeder,7.6,48.6,50.1,1460,Paid,No
+Danish Marri,"House #410, Road #27, Gareebabad Nawabshah",KE-GBN-202503-0132,2025-03,Gareebabad Nawabshah,Low-Income Residential Feeder,8.7,65.7,64.6,2090,Paid,No
+Noman Soomro,"House #90, Lane #7, Manwabad Nawabshah",KE-MWN-202411-0112,2024-11,Manwabad Nawabshah,Semi-Urban Feeder,5.5,73.2,74.3,2130,Paid,No
+Kashif Bhurgri,"House #163, Mohalla #37, Manwabad Nawabshah",KE-MWN-202409-0102,2024-09,Manwabad Nawabshah,Semi-Urban Feeder,8.9,99.5,104.4,3000,Paid,No
+Rabia Ali,"House #419, Chowk #44, Isharpura Nawabshah",KE-ISN-202407-0095,2024-07,Isharpura Nawabshah,Rural Feeder,13.8,43.7,68.7,1370,Paid,Yes
+Haris Pathan,"House #383, Lane #30, Gareebabad Nawabshah",KE-GBN-202505-0141,2025-05,Gareebabad Nawabshah,Low-Income Residential Feeder,8.0,36.2,35.8,1170,Paid,No
+Salman Mahar,"House #66, Gali #18, Isharpura Nawabshah",KE-ISN-202307-0034,2023-07,Isharpura Nawabshah,Rural Feeder,12.0,61.3,60.4,1990,Unpaid,No
+Sadia Ali,"House #238, Street #22, Isharpura Nawabshah",KE-ISN-202408-0099,2024-08,Isharpura Nawabshah,Rural Feeder,14,35.0,34.6,1040,Unpaid,No
+Tariq Chandio,"House #331, Road #8, Gareebabad Nawabshah",KE-GBN-202512-0180,2025-12,Gareebabad Nawabshah,Low-Income Residential Feeder,5.3,67.1,68.0,2020,Paid,No
+Sana Bhurgri,"House #364, Gali #29, Gareebabad Nawabshah",KE-GBN-202406-0087,2024-06,Gareebabad Nawabshah,Low-Income Residential Feeder,13.6,29.2,30.5,1010,Paid,No
+Sohail Memon,"House #409, Gali #19, Gareebabad Nawabshah",KE-GBN-202505-0145,2025-05,Gareebabad Nawabshah,Low-Income Residential Feeder,11.7,39.3,39.3,1370,Paid,No
+Aamir Qureshi,"House #348, Gali #16, Isharpura Nawabshah",KE-ISN-202304-0019,2023-04,Isharpura Nawabshah,Rural Feeder,7.7,28.1,28.0,830,Unpaid,No
+Farhan Jatoi,"House #285, Lane #30, Gareebabad Nawabshah",KE-GBN-202508-0160,2025-08,Gareebabad Nawabshah,Low-Income Residential Feeder,10.3,45.4,44.1,1410,Paid,No
+Fahad Chachar,"House #305, Gali #22, Manwabad Nawabshah",KE-MWN-202403-0073,2024-03,Manwabad Nawabshah,Semi-Urban Feeder,4.9,60.8,93.8,1850,Paid,Yes
+Noman Rind,"House #371, Road #50, Gareebabad Nawabshah",KE-GBN-202402-0068,2024-02,Gareebabad Nawabshah,Low-Income Residential Feeder,7.6,56.1,55.5,1720,Partially Paid,No
+Farah Bhutto,"House #35, Gali #7, Gareebabad Nawabshah",KE-GBN-202305-0022,2023-05,Gareebabad Nawabshah,Low-Income Residential Feeder,11.5,39.7,41.1,1370,Paid,No
+Fahad Bijarani,"House #182, Mohalla #22, Manwabad Nawabshah",KE-MWN-202507-0155,2025-07,Manwabad Nawabshah,Semi-Urban Feeder,7.7,73.6,76.4,2560,Paid,No
+Adnan Chandio,"House #20, Road #15, Gareebabad Nawabshah",KE-GBN-202411-0111,2024-11,Gareebabad Nawabshah,Low-Income Residential Feeder,7.8,62.3,113.9,2060,Partially Paid,Yes
+Sara Soomro,"House #227, Street #25, Gareebabad Nawabshah",KE-GBN-202511-0171,2025-11,Gareebabad Nawabshah,Low-Income Residential Feeder,7.3,38.7,56.1,1260,Partially Paid,Yes
+Noman Siddiqui,"House #380, Road #8, Manwabad Nawabshah",KE-MWN-202510-0166,2025-10,Manwabad Nawabshah,Semi-Urban Feeder,6.2,92.4,93.8,2690,Paid,No
+Yasmin Memon,"House #351, Lane #18, Isharpura Nawabshah",KE-ISN-202512-0176,2025-12,Isharpura Nawabshah,Rural Feeder,7.0,61.8,63.9,1780,Unpaid,No
+Arslan Jatoi,"House #332, Lane #50, Farsi Bagh Nawabshah",KE-FBN-202504-0140,2025-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.1,95.1,94.2,2970,Paid,No
+Sadia Ali,"House #123, Mohalla #9, University Colony Nawabshah",KE-UCN-202510-0170,2025-10,University Colony Nawabshah,Urban Residential Feeder,5.0,81.2,79.0,2400,Partially Paid,No
+Shazia Khan,"House #224, Lane #14, Manwabad Nawabshah",KE-MWN-202402-0070,2024-02,Manwabad Nawabshah,Semi-Urban Feeder,5.8,85.8,181.2,2420,Partially Paid,Yes
+Faisal Mahar,"House #64, Street #11, Isharpura Nawabshah",KE-ISN-202302-0010,2023-02,Isharpura Nawabshah,Rural Feeder,7.3,47.9,47.6,1440,Paid,No
+Naila Bijarani,"House #4, Block #41, Manwabad Nawabshah",KE-MWN-202302-0006,2023-02,Manwabad Nawabshah,Semi-Urban Feeder,3.4,98.7,95.9,2980,Paid,No
+Maryam Soomro,"House #273, Gali #3, Manwabad Nawabshah",KE-MWN-202303-0015,2023-03,Manwabad Nawabshah,Semi-Urban Feeder,4.2,77.3,78.1,2360,Paid,No
+Rizwan Abbasi,"House #69, Block #2, Gareebabad Nawabshah",KE-GBN-202303-0011,2023-03,Gareebabad Nawabshah,Low-Income Residential Feeder,6.7,53.3,53.4,1660,Partially Paid,No
+Nasir Mahar,"House #282, Mohalla #49, Manwabad Nawabshah",KE-MWN-202305-0025,2023-05,Manwabad Nawabshah,Semi-Urban Feeder,9.4,65.6,68.3,1960,Unpaid,No
+Shoaib Chachar,"House #336, Block #22, Farsi Bagh Nawabshah",KE-FBN-202509-0164,2025-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.9,78.7,79.6,2420,Paid,No
+Sumaira Chandio,"House #418, Chowk #16, University Colony Nawabshah",KE-UCN-202507-0151,2025-07,University Colony Nawabshah,Urban Residential Feeder,5.5,113.1,112.8,3270,Paid,No
+Naila Qureshi,"House #106, Mohalla #36, University Colony Nawabshah",KE-UCN-202307-0031,2023-07,University Colony Nawabshah,Urban Residential Feeder,5.6,145.0,144.6,4750,Paid,No
+Umer Rind,"House #297, Gali #18, Farsi Bagh Nawabshah",KE-FBN-202411-0111,2024-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.7,156.4,155.0,5460,Paid,No
+Fahad Chandio,"House #289, Gali #35, Manwabad Nawabshah",KE-MWN-202312-0056,2023-12,Manwabad Nawabshah,Semi-Urban Feeder,2.9,59.2,57.7,1980,Unpaid,No
+Nadia Shah,"House #214, Mohalla #45, University Colony Nawabshah",KE-UCN-202304-0018,2023-04,University Colony Nawabshah,Urban Residential Feeder,5.8,141.1,147.7,4630,Partially Paid,No
+Sobia Rajput,"House #261, Chowk #2, Gareebabad Nawabshah",KE-GBN-202311-0051,2023-11,Gareebabad Nawabshah,Low-Income Residential Feeder,6.3,63.3,65.4,1900,Paid,No
+Uzma Siddiqui,"House #71, Chowk #19, University Colony Nawabshah",KE-UCN-202308-0037,2023-08,University Colony Nawabshah,Urban Residential Feeder,6.5,152.7,155.9,4300,Partially Paid,No
+Saba Siddiqui,"House #31, Road #15, Farsi Bagh Nawabshah",KE-FBN-202405-0084,2024-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.6,169.8,172.6,5400,Paid,No
+Salman Rind,"House #67, Lane #42, Manwabad Nawabshah",KE-MWN-202403-0072,2024-03,Manwabad Nawabshah,Semi-Urban Feeder,7.4,34.9,34.0,1220,Paid,No
+Abdul Mahar,"House #91, Block #33, Isharpura Nawabshah",KE-ISN-202306-0029,2023-06,Isharpura Nawabshah,Rural Feeder,12.5,49.3,48.6,1470,Paid,No
+Sara Solangi,"House #356, Road #16, Farsi Bagh Nawabshah",KE-FBN-202408-0099,2024-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.9,146.3,146.4,4740,Unpaid,No
+Noman Solangi,"House #122, Lane #44, Farsi Bagh Nawabshah",KE-FBN-202308-0036,2023-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.9,75.6,73.7,2280,Paid,No
+Shoaib Bhutto,"House #219, Gali #12, Manwabad Nawabshah",KE-MWN-202501-0125,2025-01,Manwabad Nawabshah,Semi-Urban Feeder,5.1,71.5,72.4,2290,Partially Paid,No
+Naila Bhutto,"House #328, Road #19, Society Colony Nawabshah",KE-SCN-202301-0004,2023-01,Society Colony Nawabshah,Urban Residential Feeder,1.1,95.3,93.1,3290,Paid,No
+Farhan Qureshi,"House #424, Gali #14, Isharpura Nawabshah",KE-ISN-202509-0163,2025-09,Isharpura Nawabshah,Rural Feeder,13.9,55.7,55.2,1850,Unpaid,No
+Bushra Ansari,"House #124, Chowk #12, University Colony Nawabshah",KE-UCN-202410-0109,2024-10,University Colony Nawabshah,Urban Residential Feeder,3.2,127.2,221.5,4430,Paid,Yes
+Robina Pathan,"House #264, Chowk #23, Isharpura Nawabshah",KE-ISN-202407-0094,2024-07,Isharpura Nawabshah,Rural Feeder,13.6,31.5,44.0,1060,Unpaid,Yes
+Arslan Chachar,"House #389, Chowk #15, Isharpura Nawabshah",KE-ISN-202510-0169,2025-10,Isharpura Nawabshah,Rural Feeder,8.3,52.0,52.8,1530,Partially Paid,No
+Muhammad Sheikh,"House #430, Block #25, University Colony Nawabshah",KE-UCN-202409-0105,2024-09,University Colony Nawabshah,Urban Residential Feeder,3.7,127.8,124.9,4320,Partially Paid,No
+Hina Bijarani,"House #85, Mohalla #4, Farsi Bagh Nawabshah",KE-FBN-202408-0096,2024-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.8,79.3,79.9,2310,Paid,No
+Fahad Qureshi,"House #134, Block #40, Farsi Bagh Nawabshah",KE-FBN-202310-0047,2023-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.0,103.8,105.5,3550,Paid,No
+Fahad Ansari,"House #354, Chowk #8, Gareebabad Nawabshah",KE-GBN-202507-0153,2025-07,Gareebabad Nawabshah,Low-Income Residential Feeder,10.3,64.2,65.0,2190,Unpaid,No
+Tariq Ali,"House #124, Lane #24, Manwabad Nawabshah",KE-MWN-202302-0007,2023-02,Manwabad Nawabshah,Semi-Urban Feeder,5.8,40.0,41.2,1360,Paid,No
+Sana Marri,"House #447, Lane #15, Gareebabad Nawabshah",KE-GBN-202305-0024,2023-05,Gareebabad Nawabshah,Low-Income Residential Feeder,7.8,50.9,51.8,1610,Unpaid,No
+Fatima Bijarani,"House #442, Road #44, Gareebabad Nawabshah",KE-GBN-202510-0170,2025-10,Gareebabad Nawabshah,Low-Income Residential Feeder,7.3,48.1,50.2,1560,Partially Paid,No
+Muhammad Solangi,"House #143, Block #22, University Colony Nawabshah",KE-UCN-202411-0111,2024-11,University Colony Nawabshah,Urban Residential Feeder,1.9,132.0,129.2,4070,Partially Paid,No
+Abdul Memon,"House #204, Lane #33, Gareebabad Nawabshah",KE-GBN-202408-0099,2024-08,Gareebabad Nawabshah,Low-Income Residential Feeder,10.7,63.8,66.2,1810,Paid,No
+Fatima Ansari,"House #327, Mohalla #25, Manwabad Nawabshah",KE-MWN-202409-0101,2024-09,Manwabad Nawabshah,Semi-Urban Feeder,7.1,56.6,59.4,1790,Partially Paid,No
+Usman Memon,"House #425, Lane #12, Farsi Bagh Nawabshah",KE-FBN-202307-0033,2023-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.4,82.4,86.2,2520,Paid,No
+Rukhsana Sethar,"House #411, Street #22, Gareebabad Nawabshah",KE-GBN-202508-0158,2025-08,Gareebabad Nawabshah,Low-Income Residential Feeder,10.2,43.1,60.4,1350,Paid,Yes
+Sobia Rind,"House #59, Lane #25, Manwabad Nawabshah",KE-MWN-202502-0128,2025-02,Manwabad Nawabshah,Semi-Urban Feeder,5.6,49.2,48.4,1540,Unpaid,No
+Maryam Junejo,"House #139, Chowk #18, Manwabad Nawabshah",KE-MWN-202402-0068,2024-02,Manwabad Nawabshah,Semi-Urban Feeder,3.7,79.5,78.3,2230,Partially Paid,No
+Uzma Khaskheli,"House #12, Street #26, Society Colony Nawabshah",KE-SCN-202503-0133,2025-03,Society Colony Nawabshah,Urban Residential Feeder,2.3,97.8,98.5,3140,Paid,No
+Hamza Jamali,"House #253, Lane #38, Society Colony Nawabshah",KE-SCN-202307-0033,2023-07,Society Colony Nawabshah,Urban Residential Feeder,3.0,116.1,117.5,3770,Paid,No
+Saba Malik,"House #195, Mohalla #31, Isharpura Nawabshah",KE-ISN-202407-0092,2024-07,Isharpura Nawabshah,Rural Feeder,14,27.4,56.4,880,Paid,Yes
+Kashif Siddiqui,"House #359, Gali #31, Farsi Bagh Nawabshah",KE-FBN-202503-0133,2025-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.5,136.4,138.5,4020,Paid,No
+Sara Sheikh,"House #370, Gali #30, Gareebabad Nawabshah",KE-GBN-202501-0123,2025-01,Gareebabad Nawabshah,Low-Income Residential Feeder,5.0,58.3,57.7,1650,Paid,No
+Muhammad Chandio,"House #227, Gali #37, University Colony Nawabshah",KE-UCN-202310-0049,2023-10,University Colony Nawabshah,Urban Residential Feeder,3.2,67.8,68.6,1980,Paid,No
+Farah Solangi,"House #384, Street #26, Isharpura Nawabshah",KE-ISN-202410-0106,2024-10,Isharpura Nawabshah,Rural Feeder,9.0,58.9,83.6,1690,Paid,Yes
+Nadia Bijarani,"House #287, Chowk #11, University Colony Nawabshah",KE-UCN-202305-0022,2023-05,University Colony Nawabshah,Urban Residential Feeder,5.2,76.0,74.0,2220,Partially Paid,No
+Umer Qureshi,"House #204, Mohalla #5, Farsi Bagh Nawabshah",KE-FBN-202401-0062,2024-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,0.7,149.8,150.2,4630,Partially Paid,No
+Hina Soomro,"House #210, Lane #50, Society Colony Nawabshah",KE-SCN-202508-0159,2025-08,Society Colony Nawabshah,Urban Residential Feeder,6.6,125.5,129.5,4290,Paid,No
+Naila Shah,"House #366, Block #44, Gareebabad Nawabshah",KE-GBN-202310-0048,2023-10,Gareebabad Nawabshah,Low-Income Residential Feeder,7.6,51.7,51.4,1540,Paid,No
+Faisal Rind,"House #176, Lane #29, Gareebabad Nawabshah",KE-GBN-202403-0075,2024-03,Gareebabad Nawabshah,Low-Income Residential Feeder,8.2,60.4,62.2,1990,Paid,No
+Yasir Shah,"House #163, Block #29, University Colony Nawabshah",KE-UCN-202310-0048,2023-10,University Colony Nawabshah,Urban Residential Feeder,3.6,74.9,75.0,2330,Paid,No
+Sikandar Junejo,"House #288, Chowk #19, Farsi Bagh Nawabshah",KE-FBN-202310-0049,2023-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.7,80.8,80.2,2800,Paid,No
+Saleem Khaskheli,"House #79, Road #34, Farsi Bagh Nawabshah",KE-FBN-202312-0059,2023-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.2,139.0,138.5,4810,Paid,No
+Farhan Bhurgri,"House #290, Lane #3, Manwabad Nawabshah",KE-MWN-202401-0061,2024-01,Manwabad Nawabshah,Semi-Urban Feeder,3.8,36.9,38.5,1200,Unpaid,No
+Usman Baloch,"House #318, Block #16, University Colony Nawabshah",KE-UCN-202501-0125,2025-01,University Colony Nawabshah,Urban Residential Feeder,2.9,131.7,174.9,4420,Paid,Yes
+Aliya Qureshi,"House #251, Road #10, Farsi Bagh Nawabshah",KE-FBN-202305-0021,2023-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,5.3,175.4,172.9,5180,Paid,No
+Hamza Rind,"House #430, Street #49, Gareebabad Nawabshah",KE-GBN-202512-0178,2025-12,Gareebabad Nawabshah,Low-Income Residential Feeder,7.0,46.5,47.8,1360,Paid,No
+Fatima Marri,"House #179, Chowk #31, Manwabad Nawabshah",KE-MWN-202501-0124,2025-01,Manwabad Nawabshah,Semi-Urban Feeder,3.7,78.1,76.2,2670,Partially Paid,No
+Tariq Baloch,"House #39, Lane #40, Gareebabad Nawabshah",KE-GBN-202505-0142,2025-05,Gareebabad Nawabshah,Low-Income Residential Feeder,12.7,66.9,66.9,2000,Unpaid,No
+Bilal Sheikh,"House #393, Mohalla #27, University Colony Nawabshah",KE-UCN-202403-0074,2024-03,University Colony Nawabshah,Urban Residential Feeder,3.4,106.9,111.2,3400,Unpaid,No
+Adnan Larik,"House #268, Mohalla #27, Isharpura Nawabshah",KE-ISN-202501-0125,2025-01,Isharpura Nawabshah,Rural Feeder,7.7,59.7,114.5,1700,Paid,Yes
+Imran Shah,"House #254, Mohalla #27, Society Colony Nawabshah",KE-SCN-202311-0054,2023-11,Society Colony Nawabshah,Urban Residential Feeder,3.0,111.8,111.0,3570,Paid,No
+Nida Sheikh,"House #425, Road #30, Society Colony Nawabshah",KE-SCN-202504-0136,2025-04,Society Colony Nawabshah,Urban Residential Feeder,3.7,105.1,170.7,3170,Paid,Yes
+Asma Malik,"House #289, Street #23, Farsi Bagh Nawabshah",KE-FBN-202505-0145,2025-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.8,123.5,122.0,3530,Paid,No
+Mehwish Malik,"House #106, Gali #47, Society Colony Nawabshah",KE-SCN-202310-0049,2023-10,Society Colony Nawabshah,Urban Residential Feeder,1.9,85.0,86.7,2760,Paid,No
+Ahmed Khan,"House #87, Gali #31, Farsi Bagh Nawabshah",KE-FBN-202501-0123,2025-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,0.7,74.6,73.6,2440,Paid,No
+Farah Chandio,"House #349, Chowk #32, University Colony Nawabshah",KE-UCN-202308-0038,2023-08,University Colony Nawabshah,Urban Residential Feeder,6.2,73.4,75.9,2370,Paid,No
+Nadia Jamali,"House #316, Mohalla #10, Society Colony Nawabshah",KE-SCN-202405-0085,2024-05,Society Colony Nawabshah,Urban Residential Feeder,5.5,120.4,117.6,3840,Unpaid,No
+Amna Bijarani,"House #313, Street #8, Isharpura Nawabshah",KE-ISN-202509-0162,2025-09,Isharpura Nawabshah,Rural Feeder,11.0,26.5,25.8,840,Partially Paid,No
+Sumaira Mahar,"House #413, Chowk #41, Manwabad Nawabshah",KE-MWN-202503-0135,2025-03,Manwabad Nawabshah,Semi-Urban Feeder,6.0,49.9,51.4,1630,Unpaid,No
+Rashid Junejo,"House #284, Block #15, Farsi Bagh Nawabshah",KE-FBN-202407-0091,2024-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,6.2,90.2,91.4,3140,Paid,No
+Owais Bijarani,"House #421, Block #23, Isharpura Nawabshah",KE-ISN-202504-0139,2025-04,Isharpura Nawabshah,Rural Feeder,8.9,48.3,73.6,1440,Unpaid,Yes
+Ali Panhwar,"House #4, Chowk #2, Isharpura Nawabshah",KE-ISN-202408-0096,2024-08,Isharpura Nawabshah,Rural Feeder,11.8,54.0,53.1,1660,Paid,No
+Noman Bhurgri,"House #315, Mohalla #5, University Colony Nawabshah",KE-UCN-202502-0129,2025-02,University Colony Nawabshah,Urban Residential Feeder,2.4,98.2,163.8,2980,Paid,Yes
+Arslan Ansari,"House #13, Gali #7, Isharpura Nawabshah",KE-ISN-202301-0002,2023-01,Isharpura Nawabshah,Rural Feeder,8.7,36.1,37.3,1170,Unpaid,No
+Aliya Rajput,"House #258, Gali #14, Gareebabad Nawabshah",KE-GBN-202512-0176,2025-12,Gareebabad Nawabshah,Low-Income Residential Feeder,5.9,44.7,45.8,1510,Paid,No
+Yasmin Bijarani,"House #76, Gali #23, Manwabad Nawabshah",KE-MWN-202511-0174,2025-11,Manwabad Nawabshah,Semi-Urban Feeder,3.9,54.8,53.8,1640,Unpaid,No
+Sara Panhwar,"House #93, Block #43, Isharpura Nawabshah",KE-ISN-202308-0039,2023-08,Isharpura Nawabshah,Rural Feeder,14,27.3,36.7,840,Unpaid,Yes
+Aamir Bhurgri,"House #202, Lane #6, Isharpura Nawabshah",KE-ISN-202411-0113,2024-11,Isharpura Nawabshah,Rural Feeder,6.6,60.7,60.4,1710,Partially Paid,No
+Asad Jamali,"House #450, Gali #19, Isharpura Nawabshah",KE-ISN-202404-0077,2024-04,Isharpura Nawabshah,Rural Feeder,12.3,63.9,66.7,1810,Partially Paid,No
+Talha Bhurgri,"House #437, Mohalla #31, Manwabad Nawabshah",KE-MWN-202504-0136,2025-04,Manwabad Nawabshah,Semi-Urban Feeder,6.7,41.9,42.2,1310,Unpaid,No
+Fahad Ansari,"House #332, Road #16, Gareebabad Nawabshah",KE-GBN-202307-0035,2023-07,Gareebabad Nawabshah,Low-Income Residential Feeder,10.7,39.4,41.0,1200,Paid,No
+Saba Panhwar,"House #295, Chowk #9, Society Colony Nawabshah",KE-SCN-202303-0011,2023-03,Society Colony Nawabshah,Urban Residential Feeder,3.0,104.3,102.5,3450,Paid,No
+Saleem Siddiqui,"House #344, Lane #42, Farsi Bagh Nawabshah",KE-FBN-202412-0118,2024-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.5,75.5,75.2,2400,Paid,No
+Hamza Sethar,"House #388, Gali #32, Society Colony Nawabshah",KE-SCN-202510-0166,2025-10,Society Colony Nawabshah,Urban Residential Feeder,2.1,155.7,162.8,4430,Partially Paid,No
+Nida Bhutto,"House #430, Lane #31, Farsi Bagh Nawabshah",KE-FBN-202410-0110,2024-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.8,76.0,77.7,2540,Paid,No
+Sobia Jatoi,"House #342, Mohalla #20, Society Colony Nawabshah",KE-SCN-202310-0050,2023-10,Society Colony Nawabshah,Urban Residential Feeder,2.4,101.3,100.0,3190,Paid,No
+Nida Bhurgri,"House #161, Street #49, University Colony Nawabshah",KE-UCN-202304-0020,2023-04,University Colony Nawabshah,Urban Residential Feeder,3.2,151.8,154.4,4660,Paid,No
+Hamza Shah,"House #71, Chowk #48, Manwabad Nawabshah",KE-MWN-202412-0120,2024-12,Manwabad Nawabshah,Semi-Urban Feeder,5.6,74.2,73.6,2190,Paid,No
+Sohail Chachar,"House #43, Street #23, Gareebabad Nawabshah",KE-GBN-202302-0006,2023-02,Gareebabad Nawabshah,Low-Income Residential Feeder,5.4,32.5,31.7,1030,Partially Paid,No
+Rukhsana Qureshi,"House #419, Mohalla #48, Gareebabad Nawabshah",KE-GBN-202312-0058,2023-12,Gareebabad Nawabshah,Low-Income Residential Feeder,6.9,67.7,69.2,2180,Unpaid,No
+Asad Jamali,"House #55, Gali #19, University Colony Nawabshah",KE-UCN-202506-0147,2025-06,University Colony Nawabshah,Urban Residential Feeder,5.8,63.1,63.7,2190,Paid,No
+Rukhsana Ali,"House #176, Gali #30, Gareebabad Nawabshah",KE-GBN-202312-0060,2023-12,Gareebabad Nawabshah,Low-Income Residential Feeder,5.4,54.4,54.8,1620,Unpaid,No
+Zeeshan Marri,"House #425, Block #42, University Colony Nawabshah",KE-UCN-202309-0042,2023-09,University Colony Nawabshah,Urban Residential Feeder,4.0,114.9,120.0,3700,Paid,No
+Owais Soomro,"House #61, Gali #15, Farsi Bagh Nawabshah",KE-FBN-202304-0020,2023-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.0,70.8,71.9,2330,Paid,No
+Noman Bijarani,"House #314, Mohalla #47, Manwabad Nawabshah",KE-MWN-202505-0143,2025-05,Manwabad Nawabshah,Semi-Urban Feeder,7.7,69.9,69.9,2350,Unpaid,No
+Muhammad Sheikh,"House #69, Chowk #50, University Colony Nawabshah",KE-UCN-202510-0167,2025-10,University Colony Nawabshah,Urban Residential Feeder,1.7,84.8,88.9,2580,Paid,No
+Naila Khan,"House #175, Lane #20, Manwabad Nawabshah",KE-MWN-202507-0152,2025-07,Manwabad Nawabshah,Semi-Urban Feeder,8.5,35.4,35.5,1210,Paid,No
+Imran Chandio,"House #278, Lane #31, Manwabad Nawabshah",KE-MWN-202505-0145,2025-05,Manwabad Nawabshah,Semi-Urban Feeder,7.2,67.2,65.5,2170,Paid,No
+Noman Junejo,"House #346, Road #23, Farsi Bagh Nawabshah",KE-FBN-202307-0035,2023-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.7,96.3,95.1,3000,Paid,No
+Waqas Marri,"House #390, Block #30, University Colony Nawabshah",KE-UCN-202308-0039,2023-08,University Colony Nawabshah,Urban Residential Feeder,4.1,119.9,118.5,3530,Paid,No
+Sikandar Qureshi,"House #412, Mohalla #39, Manwabad Nawabshah",KE-MWN-202503-0132,2025-03,Manwabad Nawabshah,Semi-Urban Feeder,4.9,92.3,93.2,2820,Partially Paid,No
+Muhammad Siddiqui,"House #288, Chowk #5, Manwabad Nawabshah",KE-MWN-202309-0045,2023-09,Manwabad Nawabshah,Semi-Urban Feeder,7.0,95.0,96.1,2690,Paid,No
+Zeeshan Pathan,"House #244, Road #9, Farsi Bagh Nawabshah",KE-FBN-202508-0156,2025-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.5,168.4,164.9,5610,Paid,No
+Junaid Bhutto,"House #184, Lane #43, Society Colony Nawabshah",KE-SCN-202402-0066,2024-02,Society Colony Nawabshah,Urban Residential Feeder,2.8,99.4,101.9,3410,Paid,No
+Ahmed Rind,"House #170, Mohalla #18, Manwabad Nawabshah",KE-MWN-202302-0009,2023-02,Manwabad Nawabshah,Semi-Urban Feeder,6.1,81.6,84.6,2290,Paid,No
+Maryam Bhurgri,"House #365, Road #47, Isharpura Nawabshah",KE-ISN-202405-0085,2024-05,Isharpura Nawabshah,Rural Feeder,11.2,52.8,54.3,1530,Paid,No
+Noman Ali,"House #329, Lane #3, Society Colony Nawabshah",KE-SCN-202408-0097,2024-08,Society Colony Nawabshah,Urban Residential Feeder,5.1,99.4,101.4,3070,Paid,No
+Shoaib Junejo,"House #106, Chowk #16, Isharpura Nawabshah",KE-ISN-202501-0121,2025-01,Isharpura Nawabshah,Rural Feeder,9.1,43.4,89.3,1400,Unpaid,Yes
+Sana Khaskheli,"House #335, Lane #30, Isharpura Nawabshah",KE-ISN-202506-0150,2025-06,Isharpura Nawabshah,Rural Feeder,14,42.0,43.8,1290,Paid,No
+Kashif Siddiqui,"House #444, Block #1, Isharpura Nawabshah",KE-ISN-202512-0177,2025-12,Isharpura Nawabshah,Rural Feeder,8.3,39.7,38.6,1150,Unpaid,No
+Sara Qureshi,"House #389, Block #15, Society Colony Nawabshah",KE-SCN-202301-0005,2023-01,Society Colony Nawabshah,Urban Residential Feeder,1.7,133.2,139.4,4090,Paid,No
+Umer Junejo,"House #361, Street #30, University Colony Nawabshah",KE-UCN-202304-0017,2023-04,University Colony Nawabshah,Urban Residential Feeder,5.8,105.9,221.3,3470,Paid,Yes
+Faisal Qureshi,"House #23, Mohalla #38, Farsi Bagh Nawabshah",KE-FBN-202405-0085,2024-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.3,168.5,175.7,5210,Paid,No
+Yasir Qureshi,"House #338, Chowk #31, Society Colony Nawabshah",KE-SCN-202411-0112,2024-11,Society Colony Nawabshah,Urban Residential Feeder,1.5,134.3,136.0,4460,Paid,No
+Zainab Memon,"House #278, Chowk #10, Farsi Bagh Nawabshah",KE-FBN-202307-0031,2023-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.6,187.2,195.0,5990,Paid,No
+Shazia Sethar,"House #140, Chowk #24, Society Colony Nawabshah",KE-SCN-202410-0108,2024-10,Society Colony Nawabshah,Urban Residential Feeder,4.2,75.7,77.5,2610,Paid,No
+Rizwan Mahar,"House #104, Gali #1, Gareebabad Nawabshah",KE-GBN-202506-0149,2025-06,Gareebabad Nawabshah,Low-Income Residential Feeder,8.1,61.9,61.6,2100,Unpaid,No
+Arslan Khan,"House #45, Street #2, University Colony Nawabshah",KE-UCN-202405-0084,2024-05,University Colony Nawabshah,Urban Residential Feeder,4.0,140.3,137.8,4150,Paid,No
+Owais Khaskheli,"House #412, Road #14, Gareebabad Nawabshah",KE-GBN-202405-0083,2024-05,Gareebabad Nawabshah,Low-Income Residential Feeder,11.2,75.8,109.5,2140,Paid,Yes
+Asad Shah,"House #421, Mohalla #9, Isharpura Nawabshah",KE-ISN-202306-0030,2023-06,Isharpura Nawabshah,Rural Feeder,14,31.9,31.8,1090,Unpaid,No
+Arslan Bhutto,"House #69, Chowk #44, Isharpura Nawabshah",KE-ISN-202403-0073,2024-03,Isharpura Nawabshah,Rural Feeder,10.5,53.1,51.7,1660,Paid,No
+Noman Jamali,"House #295, Lane #2, Isharpura Nawabshah",KE-ISN-202303-0011,2023-03,Isharpura Nawabshah,Rural Feeder,8.4,61.8,61.0,1770,Unpaid,No
+Salman Khan,"House #282, Road #13, Gareebabad Nawabshah",KE-GBN-202307-0033,2023-07,Gareebabad Nawabshah,Low-Income Residential Feeder,9.4,46.0,47.5,1380,Unpaid,No
+Junaid Panhwar,"House #126, Lane #39, Society Colony Nawabshah",KE-SCN-202312-0057,2023-12,Society Colony Nawabshah,Urban Residential Feeder,1.9,61.2,60.0,1940,Paid,No
+Yasir Mahar,"House #99, Gali #26, University Colony Nawabshah",KE-UCN-202402-0069,2024-02,University Colony Nawabshah,Urban Residential Feeder,2.0,140.8,145.9,4450,Unpaid,No
+Asma Chandio,"House #97, Block #21, Manwabad Nawabshah",KE-MWN-202304-0020,2023-04,Manwabad Nawabshah,Semi-Urban Feeder,6.7,78.1,76.4,2220,Partially Paid,No
+Ali Baloch,"House #239, Lane #40, Manwabad Nawabshah",KE-MWN-202311-0053,2023-11,Manwabad Nawabshah,Semi-Urban Feeder,3.4,78.9,124.9,2370,Partially Paid,Yes
+Sohail Bhutto,"House #402, Road #12, University Colony Nawabshah",KE-UCN-202412-0116,2024-12,University Colony Nawabshah,Urban Residential Feeder,2.2,127.8,125.5,3900,Paid,No
+Robina Jatoi,"House #217, Street #37, Society Colony Nawabshah",KE-SCN-202410-0110,2024-10,Society Colony Nawabshah,Urban Residential Feeder,2.9,134.0,138.5,3780,Paid,No
+Yasmin Junejo,"House #280, Gali #19, Farsi Bagh Nawabshah",KE-FBN-202502-0127,2025-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.2,107.8,110.4,3200,Paid,No
+Sohail Bhutto,"House #53, Mohalla #19, Society Colony Nawabshah",KE-SCN-202502-0129,2025-02,Society Colony Nawabshah,Urban Residential Feeder,2.1,109.5,222.1,3500,Paid,Yes
+Shahzad Sheikh,"House #30, Gali #19, Gareebabad Nawabshah",KE-GBN-202411-0112,2024-11,Gareebabad Nawabshah,Low-Income Residential Feeder,7.0,62.0,65.0,2080,Paid,No
+Kamran Sethar,"House #16, Block #32, Society Colony Nawabshah",KE-SCN-202304-0018,2023-04,Society Colony Nawabshah,Urban Residential Feeder,2.3,69.8,68.4,2000,Paid,No
+Zainab Rind,"House #436, Gali #46, University Colony Nawabshah",KE-UCN-202502-0126,2025-02,University Colony Nawabshah,Urban Residential Feeder,3.2,128.1,124.6,4000,Paid,No
+Hina Abbasi,"House #187, Lane #26, Isharpura Nawabshah",KE-ISN-202512-0179,2025-12,Isharpura Nawabshah,Rural Feeder,7.1,28.9,30.3,900,Unpaid,No
+Noman Sheikh,"House #253, Block #8, Gareebabad Nawabshah",KE-GBN-202506-0147,2025-06,Gareebabad Nawabshah,Low-Income Residential Feeder,11.7,42.9,41.8,1430,Paid,No
+Saleem Marri,"House #191, Road #45, Gareebabad Nawabshah",KE-GBN-202410-0107,2024-10,Gareebabad Nawabshah,Low-Income Residential Feeder,8.7,55.3,56.0,1760,Partially Paid,No
+Rashid Baloch,"House #107, Lane #15, University Colony Nawabshah",KE-UCN-202409-0101,2024-09,University Colony Nawabshah,Urban Residential Feeder,5.8,113.0,117.8,3720,Paid,No
+Hamza Panhwar,"House #306, Chowk #21, Manwabad Nawabshah",KE-MWN-202309-0041,2023-09,Manwabad Nawabshah,Semi-Urban Feeder,7.0,93.3,95.8,2730,Unpaid,No
+Kamran Jatoi,"House #163, Road #36, Farsi Bagh Nawabshah",KE-FBN-202411-0114,2024-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.6,132.3,135.3,4550,Paid,No
+Umer Baloch,"House #106, Lane #5, University Colony Nawabshah",KE-UCN-202306-0029,2023-06,University Colony Nawabshah,Urban Residential Feeder,3.1,135.3,140.0,3940,Paid,No
+Samina Panhwar,"House #95, Block #28, Manwabad Nawabshah",KE-MWN-202504-0137,2025-04,Manwabad Nawabshah,Semi-Urban Feeder,4.4,44.9,47.0,1570,Paid,No
+Aliya Pathan,"House #386, Road #8, Isharpura Nawabshah",KE-ISN-202401-0065,2024-01,Isharpura Nawabshah,Rural Feeder,5.8,29.3,28.8,910,Paid,No
+Owais Mahar,"House #388, Street #23, University Colony Nawabshah",KE-UCN-202302-0006,2023-02,University Colony Nawabshah,Urban Residential Feeder,4.8,121.1,126.0,3820,Paid,No
+Usman Solangi,"House #432, Road #1, Isharpura Nawabshah",KE-ISN-202404-0079,2024-04,Isharpura Nawabshah,Rural Feeder,7.5,56.7,56.9,1880,Unpaid,No
+Fatima Ansari,"House #388, Lane #20, Society Colony Nawabshah",KE-SCN-202404-0077,2024-04,Society Colony Nawabshah,Urban Residential Feeder,4.1,122.1,121.8,4200,Paid,No
+Iqra Jatoi,"House #302, Chowk #18, Farsi Bagh Nawabshah",KE-FBN-202302-0010,2023-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.6,100.4,98.1,3290,Paid,No
+Ali Jamali,"House #311, Mohalla #25, University Colony Nawabshah",KE-UCN-202311-0054,2023-11,University Colony Nawabshah,Urban Residential Feeder,3.2,135.1,132.2,4540,Paid,No
+Noman Jatoi,"House #180, Chowk #21, University Colony Nawabshah",KE-UCN-202511-0173,2025-11,University Colony Nawabshah,Urban Residential Feeder,4.6,76.0,79.3,2610,Paid,No
+Arslan Ansari,"House #41, Mohalla #33, Isharpura Nawabshah",KE-ISN-202401-0064,2024-01,Isharpura Nawabshah,Rural Feeder,8.4,42.6,42.6,1260,Paid,No
+Abdul Baloch,"House #126, Road #50, University Colony Nawabshah",KE-UCN-202401-0062,2024-01,University Colony Nawabshah,Urban Residential Feeder,2.8,138.5,140.8,4780,Paid,No
+Haris Marri,"House #367, Road #26, Farsi Bagh Nawabshah",KE-FBN-202510-0166,2025-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.3,169.1,177.4,4920,Paid,No
+Saba Baloch,"House #144, Street #2, Isharpura Nawabshah",KE-ISN-202501-0122,2025-01,Isharpura Nawabshah,Rural Feeder,5.7,57.4,87.7,2000,Paid,Yes
+Ghulam Marri,"House #328, Gali #9, Farsi Bagh Nawabshah",KE-FBN-202509-0163,2025-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.5,93.4,95.8,2640,Paid,No
+Maryam Sheikh,"House #207, Gali #16, Isharpura Nawabshah",KE-ISN-202301-0001,2023-01,Isharpura Nawabshah,Rural Feeder,6.3,56.4,55.1,1850,Unpaid,No
+Amna Bhurgri,"House #93, Chowk #49, Gareebabad Nawabshah",KE-GBN-202501-0124,2025-01,Gareebabad Nawabshah,Low-Income Residential Feeder,5.4,28.5,46.8,910,Paid,Yes
+Sikandar Chachar,"House #174, Block #50, Manwabad Nawabshah",KE-MWN-202303-0011,2023-03,Manwabad Nawabshah,Semi-Urban Feeder,5.0,82.8,86.7,2410,Partially Paid,No
+Umer Mahar,"House #120, Lane #10, Gareebabad Nawabshah",KE-GBN-202308-0038,2023-08,Gareebabad Nawabshah,Low-Income Residential Feeder,9.0,59.4,129.0,2040,Partially Paid,Yes
+Danish Baloch,"House #421, Block #50, Society Colony Nawabshah",KE-SCN-202511-0175,2025-11,Society Colony Nawabshah,Urban Residential Feeder,2.0,139.8,135.9,3930,Paid,No
+Asad Jatoi,"House #404, Gali #14, University Colony Nawabshah",KE-UCN-202407-0095,2024-07,University Colony Nawabshah,Urban Residential Feeder,8.5,100.9,101.2,3090,Paid,No
+Hassan Shah,"House #73, Street #3, Isharpura Nawabshah",KE-ISN-202312-0058,2023-12,Isharpura Nawabshah,Rural Feeder,5.7,64.8,63.8,1950,Partially Paid,No
+Waqas Shah,"House #277, Road #37, University Colony Nawabshah",KE-UCN-202503-0132,2025-03,University Colony Nawabshah,Urban Residential Feeder,4.8,62.6,62.3,2130,Paid,No
+Rukhsana Memon,"House #195, Road #36, University Colony Nawabshah",KE-UCN-202507-0152,2025-07,University Colony Nawabshah,Urban Residential Feeder,6.4,121.3,122.5,3910,Paid,No
+Rabia Rind,"House #111, Chowk #45, Farsi Bagh Nawabshah",KE-FBN-202311-0054,2023-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.7,94.8,94.0,3140,Paid,No
+Rukhsana Baloch,"House #177, Chowk #25, Farsi Bagh Nawabshah",KE-FBN-202507-0154,2025-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.5,179.0,177.9,5190,Paid,No
+Shahzad Abbasi,"House #410, Road #30, University Colony Nawabshah",KE-UCN-202512-0176,2025-12,University Colony Nawabshah,Urban Residential Feeder,4.4,115.0,114.9,3400,Paid,No
+Asad Panhwar,"House #16, Block #7, Isharpura Nawabshah",KE-ISN-202405-0081,2024-05,Isharpura Nawabshah,Rural Feeder,11.4,53.5,54.5,1530,Unpaid,No
+Bushra Memon,"House #258, Street #36, Isharpura Nawabshah",KE-ISN-202508-0159,2025-08,Isharpura Nawabshah,Rural Feeder,11.5,43.3,44.2,1290,Unpaid,No
+Waqas Pathan,"House #442, Block #10, Isharpura Nawabshah",KE-ISN-202509-0164,2025-09,Isharpura Nawabshah,Rural Feeder,8.0,63.2,98.5,1930,Unpaid,Yes
+Farhan Marri,"House #243, Block #41, Farsi Bagh Nawabshah",KE-FBN-202403-0071,2024-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.0,168.5,172.5,5190,Unpaid,No
+Zainab Memon,"House #446, Gali #5, Farsi Bagh Nawabshah",KE-FBN-202309-0042,2023-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.8,147.4,149.1,4410,Paid,No
+Kiran Pathan,"House #259, Gali #23, Farsi Bagh Nawabshah",KE-FBN-202405-0082,2024-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.5,170.1,177.1,5700,Paid,No
+Nadia Ali,"House #342, Block #16, University Colony Nawabshah",KE-UCN-202305-0025,2023-05,University Colony Nawabshah,Urban Residential Feeder,5.0,62.6,64.7,2070,Paid,No
+Noman Chandio,"House #237, Lane #16, Manwabad Nawabshah",KE-MWN-202301-0005,2023-01,Manwabad Nawabshah,Semi-Urban Feeder,3.9,99.6,99.0,2970,Partially Paid,No
+Iqra Junejo,"House #300, Road #14, Society Colony Nawabshah",KE-SCN-202512-0178,2025-12,Society Colony Nawabshah,Urban Residential Feeder,2.0,69.6,71.1,2030,Paid,No
+Shahzad Mahar,"House #410, Gali #47, Farsi Bagh Nawabshah",KE-FBN-202305-0025,2023-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.5,112.4,117.5,3190,Paid,No
+Shabana Marri,"House #245, Lane #38, Isharpura Nawabshah",KE-ISN-202508-0157,2025-08,Isharpura Nawabshah,Rural Feeder,14,42.0,42.9,1300,Unpaid,No
+Sobia Solangi,"House #371, Gali #6, Farsi Bagh Nawabshah",KE-FBN-202506-0147,2025-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.0,107.5,107.3,3350,Paid,No
+Shahzad Shah,"House #335, Block #9, University Colony Nawabshah",KE-UCN-202305-0024,2023-05,University Colony Nawabshah,Urban Residential Feeder,6.9,119.7,122.4,3960,Paid,No
+Salman Larik,"House #217, Road #34, Manwabad Nawabshah",KE-MWN-202503-0133,2025-03,Manwabad Nawabshah,Semi-Urban Feeder,7.4,44.5,83.1,1400,Partially Paid,Yes
+Asad Jamali,"House #33, Chowk #5, Society Colony Nawabshah",KE-SCN-202505-0141,2025-05,Society Colony Nawabshah,Urban Residential Feeder,3.2,123.7,121.6,3880,Paid,No
+Fatima Sheikh,"House #375, Gali #8, Gareebabad Nawabshah",KE-GBN-202401-0063,2024-01,Gareebabad Nawabshah,Low-Income Residential Feeder,5.3,41.9,79.4,1220,Paid,Yes
+Faisal Malik,"House #3, Mohalla #31, Farsi Bagh Nawabshah",KE-FBN-202410-0106,2024-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.2,65.5,66.6,2240,Paid,No
+Zainab Bhurgri,"House #116, Street #22, Gareebabad Nawabshah",KE-GBN-202510-0168,2025-10,Gareebabad Nawabshah,Low-Income Residential Feeder,7.5,40.8,77.8,1410,Partially Paid,Yes
+Sara Khan,"House #350, Lane #2, Manwabad Nawabshah",KE-MWN-202501-0121,2025-01,Manwabad Nawabshah,Semi-Urban Feeder,3.4,61.2,62.7,1760,Partially Paid,No
+Sikandar Ali,"House #98, Road #10, Farsi Bagh Nawabshah",KE-FBN-202309-0045,2023-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.0,82.4,81.1,2400,Paid,No
+Ahmed Sheikh,"House #324, Chowk #23, Manwabad Nawabshah",KE-MWN-202510-0169,2025-10,Manwabad Nawabshah,Semi-Urban Feeder,4.0,73.1,72.3,2520,Partially Paid,No
+Sana Shah,"House #128, Street #35, Manwabad Nawabshah",KE-MWN-202402-0066,2024-02,Manwabad Nawabshah,Semi-Urban Feeder,5.3,87.9,92.1,2520,Paid,No
+Sikandar Sethar,"House #120, Street #3, Manwabad Nawabshah",KE-MWN-202404-0080,2024-04,Manwabad Nawabshah,Semi-Urban Feeder,7.0,64.1,63.3,1840,Unpaid,No
+Abdul Pathan,"House #192, Chowk #36, Manwabad Nawabshah",KE-MWN-202403-0071,2024-03,Manwabad Nawabshah,Semi-Urban Feeder,6.2,81.6,85.6,2470,Unpaid,No
+Zainab Abbasi,"House #205, Chowk #41, Isharpura Nawabshah",KE-ISN-202502-0129,2025-02,Isharpura Nawabshah,Rural Feeder,7.4,44.1,79.9,1470,Unpaid,Yes
+Ali Larik,"House #58, Road #48, Isharpura Nawabshah",KE-ISN-202411-0112,2024-11,Isharpura Nawabshah,Rural Feeder,6.8,36.7,36.9,1250,Partially Paid,No
+Nadia Khaskheli,"House #3, Road #4, Isharpura Nawabshah",KE-ISN-202502-0128,2025-02,Isharpura Nawabshah,Rural Feeder,6.5,65.9,121.5,2000,Partially Paid,Yes
+Fatima Rind,"House #418, Block #34, Isharpura Nawabshah",KE-ISN-202408-0098,2024-08,Isharpura Nawabshah,Rural Feeder,13.2,45.0,46.2,1370,Partially Paid,No
+Saba Qureshi,"House #62, Block #1, Manwabad Nawabshah",KE-MWN-202307-0031,2023-07,Manwabad Nawabshah,Semi-Urban Feeder,8.3,83.6,85.0,2530,Paid,No
+Bushra Memon,"House #381, Lane #38, University Colony Nawabshah",KE-UCN-202311-0055,2023-11,University Colony Nawabshah,Urban Residential Feeder,1.9,97.5,95.4,3080,Paid,No
+Rabia Bhurgri,"House #199, Block #31, Society Colony Nawabshah",KE-SCN-202303-0012,2023-03,Society Colony Nawabshah,Urban Residential Feeder,1.6,75.0,75.1,2490,Paid,No
+Naila Ansari,"House #110, Street #40, University Colony Nawabshah",KE-UCN-202505-0145,2025-05,University Colony Nawabshah,Urban Residential Feeder,7.0,64.5,63.3,1940,Partially Paid,No
+Ahmed Bhutto,"House #251, Lane #14, University Colony Nawabshah",KE-UCN-202503-0133,2025-03,University Colony Nawabshah,Urban Residential Feeder,2.7,104.7,104.5,3400,Partially Paid,No
+Sadia Bhutto,"House #396, Gali #44, University Colony Nawabshah",KE-UCN-202406-0088,2024-06,University Colony Nawabshah,Urban Residential Feeder,7.5,77.1,78.5,2170,Paid,No
+Mehwish Shah,"House #335, Block #24, Society Colony Nawabshah",KE-SCN-202401-0064,2024-01,Society Colony Nawabshah,Urban Residential Feeder,2.1,105.8,108.4,3320,Paid,No
+Nida Qureshi,"House #366, Chowk #38, Manwabad Nawabshah",KE-MWN-202408-0100,2024-08,Manwabad Nawabshah,Semi-Urban Feeder,8.8,101.2,105.4,2870,Paid,No
+Sohail Siddiqui,"House #432, Block #49, University Colony Nawabshah",KE-UCN-202406-0089,2024-06,University Colony Nawabshah,Urban Residential Feeder,6.6,128.5,129.4,3830,Paid,No
+Sadia Soomro,"House #372, Street #3, Farsi Bagh Nawabshah",KE-FBN-202409-0102,2024-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.5,98.5,98.5,3060,Paid,No
+Bilal Bhutto,"House #43, Chowk #25, Manwabad Nawabshah",KE-MWN-202507-0151,2025-07,Manwabad Nawabshah,Semi-Urban Feeder,6.2,68.2,69.9,2170,Unpaid,No
+Arslan Shah,"House #441, Block #4, Gareebabad Nawabshah",KE-GBN-202302-0009,2023-02,Gareebabad Nawabshah,Low-Income Residential Feeder,5.6,40.4,39.7,1410,Unpaid,No
+Kamran Bhutto,"House #122, Block #39, Gareebabad Nawabshah",KE-GBN-202408-0097,2024-08,Gareebabad Nawabshah,Low-Income Residential Feeder,11.2,58.8,59.9,1800,Paid,No
+Shazia Khaskheli,"House #254, Gali #23, University Colony Nawabshah",KE-UCN-202412-0118,2024-12,University Colony Nawabshah,Urban Residential Feeder,2.6,76.0,74.7,2390,Unpaid,No
+Kamran Abbasi,"House #357, Mohalla #8, Gareebabad Nawabshah",KE-GBN-202402-0069,2024-02,Gareebabad Nawabshah,Low-Income Residential Feeder,4.9,30.8,30.1,1020,Paid,No
+Sana Siddiqui,"House #215, Gali #25, Manwabad Nawabshah",KE-MWN-202401-0062,2024-01,Manwabad Nawabshah,Semi-Urban Feeder,6.1,70.2,69.3,1980,Paid,No
+Rukhsana Malik,"House #158, Chowk #35, Society Colony Nawabshah",KE-SCN-202507-0154,2025-07,Society Colony Nawabshah,Urban Residential Feeder,6.1,91.5,91.7,3100,Partially Paid,No
+Zainab Abbasi,"House #339, Street #45, Society Colony Nawabshah",KE-SCN-202511-0174,2025-11,Society Colony Nawabshah,Urban Residential Feeder,3.0,141.8,142.3,4220,Paid,No
+Farah Sethar,"House #227, Chowk #37, Society Colony Nawabshah",KE-SCN-202507-0152,2025-07,Society Colony Nawabshah,Urban Residential Feeder,6.5,99.6,98.8,3260,Unpaid,No
+Fatima Rind,"House #419, Gali #34, Gareebabad Nawabshah",KE-GBN-202502-0128,2025-02,Gareebabad Nawabshah,Low-Income Residential Feeder,4.4,50.2,96.2,1750,Unpaid,Yes
+Abdul Jatoi,"House #393, Street #42, Farsi Bagh Nawabshah",KE-FBN-202401-0065,2024-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.3,115.3,120.0,4000,Paid,No
+Imran Mahar,"House #68, Block #24, Farsi Bagh Nawabshah",KE-FBN-202412-0120,2024-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.2,76.9,77.2,2480,Paid,No
+Shahzad Baloch,"House #9, Block #21, Gareebabad Nawabshah",KE-GBN-202306-0030,2023-06,Gareebabad Nawabshah,Low-Income Residential Feeder,13.0,69.7,143.2,2190,Unpaid,Yes
+Zeeshan Bhutto,"House #53, Gali #35, Isharpura Nawabshah",KE-ISN-202402-0067,2024-02,Isharpura Nawabshah,Rural Feeder,6.4,34.5,34.4,1020,Unpaid,No
+Maryam Abbasi,"House #256, Block #5, University Colony Nawabshah",KE-UCN-202412-0119,2024-12,University Colony Nawabshah,Urban Residential Feeder,4.1,134.3,138.9,4110,Paid,No
+Saleem Ali,"House #200, Chowk #26, Isharpura Nawabshah",KE-ISN-202509-0161,2025-09,Isharpura Nawabshah,Rural Feeder,12.4,28.0,27.2,870,Unpaid,No
+Shahzad Ali,"House #193, Mohalla #18, Manwabad Nawabshah",KE-MWN-202309-0043,2023-09,Manwabad Nawabshah,Semi-Urban Feeder,7.2,79.0,133.6,2420,Paid,Yes
+Uzma Marri,"House #59, Lane #20, Society Colony Nawabshah",KE-SCN-202403-0075,2024-03,Society Colony Nawabshah,Urban Residential Feeder,2.6,59.0,61.0,1850,Paid,No
+Rabia Memon,"House #316, Gali #39, Farsi Bagh Nawabshah",KE-FBN-202411-0115,2024-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.4,89.9,89.8,2940,Paid,No
+Nida Rind,"House #399, Mohalla #40, Farsi Bagh Nawabshah",KE-FBN-202504-0139,2025-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.2,106.0,104.6,3640,Paid,No
+Robina Panhwar,"House #390, Mohalla #19, Manwabad Nawabshah",KE-MWN-202505-0144,2025-05,Manwabad Nawabshah,Semi-Urban Feeder,8.4,58.4,57.5,1970,Paid,No
+Sikandar Baloch,"House #281, Block #9, Farsi Bagh Nawabshah",KE-FBN-202505-0141,2025-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.1,175.8,175.9,5950,Paid,No
+Fatima Ansari,"House #49, Lane #44, Gareebabad Nawabshah",KE-GBN-202407-0092,2024-07,Gareebabad Nawabshah,Low-Income Residential Feeder,14,50.3,52.8,1540,Unpaid,No
+Aamir Sheikh,"House #153, Lane #23, Gareebabad Nawabshah",KE-GBN-202312-0057,2023-12,Gareebabad Nawabshah,Low-Income Residential Feeder,6.8,54.4,54.4,1560,Paid,No
+Sikandar Pathan,"House #327, Lane #31, Gareebabad Nawabshah",KE-GBN-202308-0036,2023-08,Gareebabad Nawabshah,Low-Income Residential Feeder,12.7,53.1,81.2,1610,Unpaid,Yes
+Danish Shah,"House #418, Block #31, Society Colony Nawabshah",KE-SCN-202308-0037,2023-08,Society Colony Nawabshah,Urban Residential Feeder,3.7,64.3,62.5,2150,Partially Paid,No
+Fahad Chachar,"House #103, Road #12, Society Colony Nawabshah",KE-SCN-202310-0046,2023-10,Society Colony Nawabshah,Urban Residential Feeder,3.4,71.2,69.2,2250,Paid,No
+Shoaib Soomro,"House #216, Gali #40, Isharpura Nawabshah",KE-ISN-202405-0082,2024-05,Isharpura Nawabshah,Rural Feeder,14,40.7,40.7,1150,Paid,No
+Faisal Marri,"House #444, Lane #42, Society Colony Nawabshah",KE-SCN-202306-0030,2023-06,Society Colony Nawabshah,Urban Residential Feeder,3.1,75.8,79.2,2640,Paid,No
+Hina Malik,"House #182, Chowk #31, Isharpura Nawabshah",KE-ISN-202501-0124,2025-01,Isharpura Nawabshah,Rural Feeder,5.3,62.2,84.4,1930,Unpaid,Yes
+Haris Chandio,"House #157, Road #1, Gareebabad Nawabshah",KE-GBN-202512-0179,2025-12,Gareebabad Nawabshah,Low-Income Residential Feeder,6.7,72.4,70.9,2100,Paid,No
+Sana Bhutto,"House #333, Road #48, Society Colony Nawabshah",KE-SCN-202409-0102,2024-09,Society Colony Nawabshah,Urban Residential Feeder,4.7,67.1,70.2,2130,Paid,No
+Bushra Khaskheli,"House #230, Lane #10, Gareebabad Nawabshah",KE-GBN-202302-0008,2023-02,Gareebabad Nawabshah,Low-Income Residential Feeder,6.8,34.1,60.0,1190,Unpaid,Yes
+Uzma Jatoi,"House #35, Mohalla #42, Society Colony Nawabshah",KE-SCN-202508-0156,2025-08,Society Colony Nawabshah,Urban Residential Feeder,4.9,66.7,66.3,1930,Paid,No
+Naila Khan,"House #324, Lane #11, Gareebabad Nawabshah",KE-GBN-202303-0012,2023-03,Gareebabad Nawabshah,Low-Income Residential Feeder,8.8,46.5,48.2,1540,Paid,No
+Naila Bijarani,"House #318, Street #14, Isharpura Nawabshah",KE-ISN-202504-0137,2025-04,Isharpura Nawabshah,Rural Feeder,11.7,60.7,61.6,1940,Partially Paid,No
+Hina Baloch,"House #235, Road #20, Farsi Bagh Nawabshah",KE-FBN-202506-0149,2025-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.8,112.3,109.2,3780,Paid,No
+Bilal Jamali,"House #218, Street #1, Isharpura Nawabshah",KE-ISN-202410-0109,2024-10,Isharpura Nawabshah,Rural Feeder,8.9,35.5,34.7,1220,Paid,No
+Shoaib Rajput,"House #347, Block #29, Gareebabad Nawabshah",KE-GBN-202311-0055,2023-11,Gareebabad Nawabshah,Low-Income Residential Feeder,6.7,51.2,51.2,1620,Paid,No
+Junaid Ali,"House #160, Street #28, Society Colony Nawabshah",KE-SCN-202412-0116,2024-12,Society Colony Nawabshah,Urban Residential Feeder,3.4,122.9,125.6,3870,Paid,No
+Kamran Chachar,"House #327, Mohalla #8, Isharpura Nawabshah",KE-ISN-202509-0165,2025-09,Isharpura Nawabshah,Rural Feeder,11.2,28.0,27.6,930,Unpaid,No
+Tariq Chachar,"House #18, Street #8, Gareebabad Nawabshah",KE-GBN-202309-0043,2023-09,Gareebabad Nawabshah,Low-Income Residential Feeder,6.6,55.1,55.5,1670,Unpaid,No
+Zeeshan Ali,"House #340, Chowk #25, University Colony Nawabshah",KE-UCN-202308-0040,2023-08,University Colony Nawabshah,Urban Residential Feeder,3.3,79.8,79.2,2610,Paid,No
+Arslan Bhurgri,"House #133, Lane #8, Isharpura Nawabshah",KE-ISN-202310-0049,2023-10,Isharpura Nawabshah,Rural Feeder,6.8,36.0,35.4,1030,Unpaid,No
+Shazia Qureshi,"House #208, Mohalla #43, University Colony Nawabshah",KE-UCN-202505-0143,2025-05,University Colony Nawabshah,Urban Residential Feeder,7.0,155.3,152.1,4750,Paid,No
+Owais Mahar,"House #95, Block #10, Isharpura Nawabshah",KE-ISN-202304-0018,2023-04,Isharpura Nawabshah,Rural Feeder,11.2,48.7,48.5,1400,Unpaid,No
+Sara Baloch,"House #286, Lane #8, Farsi Bagh Nawabshah",KE-FBN-202410-0109,2024-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.3,128.5,133.8,4390,Paid,No
+Farah Panhwar,"House #117, Gali #9, Farsi Bagh Nawabshah",KE-FBN-202510-0167,2025-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.0,160.9,165.2,5260,Paid,No
+Bilal Rind,"House #74, Chowk #50, Isharpura Nawabshah",KE-ISN-202404-0076,2024-04,Isharpura Nawabshah,Rural Feeder,7.6,31.9,55.2,1040,Unpaid,Yes
+Talha Soomro,"House #246, Gali #23, Society Colony Nawabshah",KE-SCN-202401-0062,2024-01,Society Colony Nawabshah,Urban Residential Feeder,2.3,127.5,132.1,3970,Partially Paid,No
+Nadia Malik,"House #193, Street #27, Isharpura Nawabshah",KE-ISN-202312-0057,2023-12,Isharpura Nawabshah,Rural Feeder,5.9,33.7,33.8,1050,Paid,No
+Danish Sethar,"House #25, Road #21, University Colony Nawabshah",KE-UCN-202408-0098,2024-08,University Colony Nawabshah,Urban Residential Feeder,6.4,159.7,164.4,4750,Paid,No
+Robina Siddiqui,"House #58, Road #2, University Colony Nawabshah",KE-UCN-202503-0134,2025-03,University Colony Nawabshah,Urban Residential Feeder,4.7,136.0,140.3,4730,Paid,No
+Sumaira Baloch,"House #407, Chowk #17, Farsi Bagh Nawabshah",KE-FBN-202506-0148,2025-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.5,75.4,75.1,2560,Paid,No
+Adnan Bhutto,"House #391, Mohalla #20, Farsi Bagh Nawabshah",KE-FBN-202407-0095,2024-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.6,98.9,102.2,2900,Unpaid,No
+Sobia Soomro,"House #33, Street #50, Farsi Bagh Nawabshah",KE-FBN-202507-0151,2025-07,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.6,139.0,139.9,4250,Partially Paid,No
+Imran Mahar,"House #37, Mohalla #1, Farsi Bagh Nawabshah",KE-FBN-202402-0066,2024-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.0,122.1,120.8,4090,Unpaid,No
+Naveed Bhurgri,"House #78, Gali #29, Manwabad Nawabshah",KE-MWN-202307-0033,2023-07,Manwabad Nawabshah,Semi-Urban Feeder,6.5,83.3,85.0,2870,Unpaid,No
+Haris Chachar,"House #7, Block #34, University Colony Nawabshah",KE-UCN-202404-0078,2024-04,University Colony Nawabshah,Urban Residential Feeder,5.7,108.2,110.5,3380,Paid,No
+Bushra Jamali,"House #291, Lane #42, Manwabad Nawabshah",KE-MWN-202411-0113,2024-11,Manwabad Nawabshah,Semi-Urban Feeder,6.1,44.8,96.4,1510,Paid,Yes
+Umer Mahar,"House #11, Mohalla #48, Manwabad Nawabshah",KE-MWN-202310-0050,2023-10,Manwabad Nawabshah,Semi-Urban Feeder,4.1,90.1,93.1,2690,Paid,No
+Shahzad Bhurgri,"House #442, Mohalla #16, Isharpura Nawabshah",KE-ISN-202511-0175,2025-11,Isharpura Nawabshah,Rural Feeder,9.4,64.1,86.1,1850,Paid,Yes
+Aamir Sheikh,"House #4, Mohalla #49, Society Colony Nawabshah",KE-SCN-202506-0150,2025-06,Society Colony Nawabshah,Urban Residential Feeder,5.1,112.5,112.8,3930,Paid,No
+Owais Panhwar,"House #352, Block #2, Manwabad Nawabshah",KE-MWN-202511-0175,2025-11,Manwabad Nawabshah,Semi-Urban Feeder,5.0,85.9,87.0,2870,Unpaid,No
+Zainab Chachar,"House #367, Chowk #40, Manwabad Nawabshah",KE-MWN-202506-0149,2025-06,Manwabad Nawabshah,Semi-Urban Feeder,9.2,96.1,97.6,2710,Unpaid,No
+Shabana Shah,"House #277, Street #31, University Colony Nawabshah",KE-UCN-202402-0068,2024-02,University Colony Nawabshah,Urban Residential Feeder,4.1,144.5,150.9,4650,Paid,No
+Farah Baloch,"House #195, Mohalla #21, Gareebabad Nawabshah",KE-GBN-202407-0093,2024-07,Gareebabad Nawabshah,Low-Income Residential Feeder,12.0,34.8,36.3,1180,Partially Paid,No
+Sikandar Shah,"House #190, Chowk #48, Isharpura Nawabshah",KE-ISN-202406-0086,2024-06,Isharpura Nawabshah,Rural Feeder,14,53.9,52.6,1530,Unpaid,No
+Naveed Abbasi,"House #112, Gali #17, Manwabad Nawabshah",KE-MWN-202410-0110,2024-10,Manwabad Nawabshah,Semi-Urban Feeder,6.0,62.9,64.6,1920,Paid,No
+Maryam Sethar,"House #91, Chowk #8, Farsi Bagh Nawabshah",KE-FBN-202311-0055,2023-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.2,178.8,180.2,5830,Paid,No
+Adnan Shah,"House #81, Block #30, Farsi Bagh Nawabshah",KE-FBN-202502-0126,2025-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,0.8,175.0,173.1,5900,Partially Paid,No
+Noman Abbasi,"House #12, Chowk #15, Farsi Bagh Nawabshah",KE-FBN-202402-0069,2024-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.9,186.9,193.1,5570,Paid,No
+Sobia Ansari,"House #365, Block #44, Isharpura Nawabshah",KE-ISN-202503-0131,2025-03,Isharpura Nawabshah,Rural Feeder,6.8,43.3,77.9,1320,Partially Paid,Yes
+Iqra Ansari,"House #20, Gali #7, University Colony Nawabshah",KE-UCN-202411-0114,2024-11,University Colony Nawabshah,Urban Residential Feeder,4.5,68.8,71.3,2030,Paid,No
+Maryam Panhwar,"House #398, Street #1, Society Colony Nawabshah",KE-SCN-202401-0065,2024-01,Society Colony Nawabshah,Urban Residential Feeder,2.6,94.2,93.8,3140,Paid,No
+Asma Qureshi,"House #442, Mohalla #43, Manwabad Nawabshah",KE-MWN-202509-0163,2025-09,Manwabad Nawabshah,Semi-Urban Feeder,6.3,80.4,172.9,2810,Partially Paid,Yes
+Owais Rind,"House #158, Block #16, University Colony Nawabshah",KE-UCN-202303-0012,2023-03,University Colony Nawabshah,Urban Residential Feeder,3.8,125.9,128.8,4390,Partially Paid,No
+Danish Shah,"House #79, Lane #38, Manwabad Nawabshah",KE-MWN-202305-0022,2023-05,Manwabad Nawabshah,Semi-Urban Feeder,8.5,94.4,94.9,2960,Paid,No
+Sara Bhurgri,"House #416, Road #47, Society Colony Nawabshah",KE-SCN-202512-0179,2025-12,Society Colony Nawabshah,Urban Residential Feeder,2.9,119.0,124.0,4120,Paid,No
+Ahmed Rajput,"House #131, Block #39, Isharpura Nawabshah",KE-ISN-202510-0166,2025-10,Isharpura Nawabshah,Rural Feeder,6.8,26.5,26.2,910,Partially Paid,No
+Abdul Jamali,"House #364, Lane #32, University Colony Nawabshah",KE-UCN-202404-0076,2024-04,University Colony Nawabshah,Urban Residential Feeder,5.3,88.8,92.7,3070,Partially Paid,No
+Umer Mahar,"House #26, Lane #37, Manwabad Nawabshah",KE-MWN-202303-0013,2023-03,Manwabad Nawabshah,Semi-Urban Feeder,5.4,67.0,65.4,2000,Paid,No
+Salman Chachar,"House #287, Road #50, Society Colony Nawabshah",KE-SCN-202301-0001,2023-01,Society Colony Nawabshah,Urban Residential Feeder,2.9,95.4,94.0,3080,Paid,No
+Shahzad Chandio,"House #5, Block #49, Gareebabad Nawabshah",KE-GBN-202511-0173,2025-11,Gareebabad Nawabshah,Low-Income Residential Feeder,8.1,41.2,76.4,1190,Unpaid,Yes
+Rizwan Malik,"House #161, Mohalla #33, Farsi Bagh Nawabshah",KE-FBN-202512-0176,2025-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,0.8,79.9,78.6,2290,Paid,No
+Bushra Ali,"House #388, Street #32, University Colony Nawabshah",KE-UCN-202403-0071,2024-03,University Colony Nawabshah,Urban Residential Feeder,3.4,124.3,129.2,4280,Paid,No
+Rukhsana Soomro,"House #149, Road #19, Manwabad Nawabshah",KE-MWN-202406-0086,2024-06,Manwabad Nawabshah,Semi-Urban Feeder,9.9,47.6,48.0,1640,Paid,No
+Imran Chachar,"House #395, Road #47, Farsi Bagh Nawabshah",KE-FBN-202512-0179,2025-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.7,166.6,167.8,4670,Paid,No
+Usman Bhurgri,"House #88, Chowk #36, Gareebabad Nawabshah",KE-GBN-202305-0025,2023-05,Gareebabad Nawabshah,Low-Income Residential Feeder,10.4,59.2,92.6,2050,Paid,Yes
+Usman Rajput,"House #320, Gali #8, Manwabad Nawabshah",KE-MWN-202305-0023,2023-05,Manwabad Nawabshah,Semi-Urban Feeder,9.8,83.5,85.6,2910,Paid,No
+Hamza Memon,"House #342, Road #27, Society Colony Nawabshah",KE-SCN-202312-0058,2023-12,Society Colony Nawabshah,Urban Residential Feeder,3.0,113.0,110.8,3810,Paid,No
+Aamir Bijarani,"House #336, Mohalla #13, University Colony Nawabshah",KE-UCN-202401-0065,2024-01,University Colony Nawabshah,Urban Residential Feeder,3.2,77.7,81.2,2530,Unpaid,No
+Yasmin Khaskheli,"House #68, Chowk #20, Gareebabad Nawabshah",KE-GBN-202409-0102,2024-09,Gareebabad Nawabshah,Low-Income Residential Feeder,10.6,51.7,51.3,1630,Partially Paid,No
+Uzma Jamali,"House #304, Gali #5, Society Colony Nawabshah",KE-SCN-202408-0100,2024-08,Society Colony Nawabshah,Urban Residential Feeder,3.2,59.0,59.7,1940,Paid,No
+Shahzad Solangi,"House #286, Street #42, Farsi Bagh Nawabshah",KE-FBN-202504-0136,2025-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.3,113.1,112.4,3400,Paid,No
+Kashif Siddiqui,"House #237, Chowk #6, Gareebabad Nawabshah",KE-GBN-202303-0015,2023-03,Gareebabad Nawabshah,Low-Income Residential Feeder,7.2,47.9,46.7,1490,Unpaid,No
+Zainab Rind,"House #205, Street #32, Manwabad Nawabshah",KE-MWN-202508-0160,2025-08,Manwabad Nawabshah,Semi-Urban Feeder,6.0,51.4,77.1,1580,Paid,Yes
+Asad Chachar,"House #31, Lane #3, Isharpura Nawabshah",KE-ISN-202412-0117,2024-12,Isharpura Nawabshah,Rural Feeder,9.1,32.5,52.6,910,Paid,Yes
+Sohail Sheikh,"House #209, Mohalla #23, Farsi Bagh Nawabshah",KE-FBN-202511-0174,2025-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.4,89.8,89.8,2710,Unpaid,No
+Rukhsana Khaskheli,"House #405, Block #3, Isharpura Nawabshah",KE-ISN-202409-0104,2024-09,Isharpura Nawabshah,Rural Feeder,11.9,27.3,28.1,820,Partially Paid,No
+Talha Abbasi,"House #182, Street #10, Farsi Bagh Nawabshah",KE-FBN-202306-0028,2023-06,Farsi Bagh Nawabshah,Urban Commercial Feeder,5.6,79.9,83.7,2740,Paid,No
+Yasmin Larik,"House #393, Mohalla #7, University Colony Nawabshah",KE-UCN-202509-0164,2025-09,University Colony Nawabshah,Urban Residential Feeder,3.6,108.8,109.9,3470,Paid,No
+Sikandar Baloch,"House #344, Gali #48, Manwabad Nawabshah",KE-MWN-202308-0039,2023-08,Manwabad Nawabshah,Semi-Urban Feeder,8.2,70.4,72.4,2350,Paid,No
+Sara Khan,"House #304, Gali #30, University Colony Nawabshah",KE-UCN-202502-0127,2025-02,University Colony Nawabshah,Urban Residential Feeder,2.6,66.6,64.9,2010,Paid,No
+Sobia Jamali,"House #250, Gali #2, Isharpura Nawabshah",KE-ISN-202403-0071,2024-03,Isharpura Nawabshah,Rural Feeder,10.4,37.5,39.3,1160,Unpaid,No
+Sikandar Jamali,"House #251, Street #5, Society Colony Nawabshah",KE-SCN-202510-0168,2025-10,Society Colony Nawabshah,Urban Residential Feeder,4.4,128.0,131.0,3760,Partially Paid,No
+Hina Junejo,"House #34, Road #8, Manwabad Nawabshah",KE-MWN-202307-0034,2023-07,Manwabad Nawabshah,Semi-Urban Feeder,9.7,39.8,41.3,1240,Paid,No
+Shahzad Pathan,"House #298, Road #5, Farsi Bagh Nawabshah",KE-FBN-202512-0178,2025-12,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.4,150.0,155.0,4200,Paid,No
+Fatima Ansari,"House #35, Block #5, University Colony Nawabshah",KE-UCN-202411-0113,2024-11,University Colony Nawabshah,Urban Residential Feeder,5.0,121.9,169.3,4210,Paid,Yes
+Saba Sheikh,"House #379, Gali #23, Gareebabad Nawabshah",KE-GBN-202310-0049,2023-10,Gareebabad Nawabshah,Low-Income Residential Feeder,8.3,64.6,65.5,1870,Unpaid,No
+Samina Larik,"House #22, Road #48, Manwabad Nawabshah",KE-MWN-202310-0048,2023-10,Manwabad Nawabshah,Semi-Urban Feeder,7.5,49.8,51.8,1660,Paid,No
+Samina Bhutto,"House #186, Gali #48, Isharpura Nawabshah",KE-ISN-202306-0028,2023-06,Isharpura Nawabshah,Rural Feeder,14,50.3,50.4,1440,Paid,No
+Robina Pathan,"House #275, Block #25, University Colony Nawabshah",KE-UCN-202307-0035,2023-07,University Colony Nawabshah,Urban Residential Feeder,7.7,115.5,120.4,3440,Paid,No
+Sobia Ansari,"House #2, Lane #24, Isharpura Nawabshah",KE-ISN-202406-0087,2024-06,Isharpura Nawabshah,Rural Feeder,11.7,39.4,41.3,1360,Partially Paid,No
+Fatima Bijarani,"House #122, Street #3, University Colony Nawabshah",KE-UCN-202512-0178,2025-12,University Colony Nawabshah,Urban Residential Feeder,2.1,102.2,107.1,2930,Paid,No
+Farhan Bhutto,"House #245, Gali #25, Society Colony Nawabshah",KE-SCN-202511-0173,2025-11,Society Colony Nawabshah,Urban Residential Feeder,3.5,97.8,98.3,2930,Paid,No
+Danish Rind,"House #18, Block #24, Isharpura Nawabshah",KE-ISN-202507-0152,2025-07,Isharpura Nawabshah,Rural Feeder,14,40.5,64.2,1310,Unpaid,Yes
+Kamran Sheikh,"House #82, Block #13, University Colony Nawabshah",KE-UCN-202503-0135,2025-03,University Colony Nawabshah,Urban Residential Feeder,3.8,138.9,142.3,4070,Paid,No
+Hassan Bijarani,"House #285, Street #20, Society Colony Nawabshah",KE-SCN-202507-0153,2025-07,Society Colony Nawabshah,Urban Residential Feeder,4.6,57.7,59.7,1830,Unpaid,No
+Saleem Bijarani,"House #203, Street #37, Society Colony Nawabshah",KE-SCN-202311-0051,2023-11,Society Colony Nawabshah,Urban Residential Feeder,1.5,94.8,96.9,3160,Paid,No
+Naveed Soomro,"House #130, Chowk #29, Isharpura Nawabshah",KE-ISN-202404-0078,2024-04,Isharpura Nawabshah,Rural Feeder,11.8,36.4,36.9,1190,Unpaid,No
+Ghulam Pathan,"House #405, Street #35, University Colony Nawabshah",KE-UCN-202303-0014,2023-03,University Colony Nawabshah,Urban Residential Feeder,2.1,76.5,78.8,2330,Paid,No
+Ayesha Jatoi,"House #393, Mohalla #35, Society Colony Nawabshah",KE-SCN-202407-0091,2024-07,Society Colony Nawabshah,Urban Residential Feeder,5.1,106.9,108.1,3730,Paid,No
+Sikandar Solangi,"House #56, Lane #34, University Colony Nawabshah",KE-UCN-202508-0157,2025-08,University Colony Nawabshah,Urban Residential Feeder,6.5,118.4,115.1,3860,Paid,No
+Rizwan Siddiqui,"House #16, Street #32, Isharpura Nawabshah",KE-ISN-202302-0006,2023-02,Isharpura Nawabshah,Rural Feeder,8.1,32.0,45.3,940,Partially Paid,Yes
+Sohail Sheikh,"House #325, Road #9, Gareebabad Nawabshah",KE-GBN-202504-0138,2025-04,Gareebabad Nawabshah,Low-Income Residential Feeder,10.1,66.3,100.9,1940,Paid,Yes
+Noman Memon,"House #412, Lane #37, Manwabad Nawabshah",KE-MWN-202508-0159,2025-08,Manwabad Nawabshah,Semi-Urban Feeder,8.7,70.3,70.1,2190,Paid,No
+Hina Panhwar,"House #129, Street #22, Farsi Bagh Nawabshah",KE-FBN-202303-0011,2023-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.1,72.6,70.7,2420,Paid,No
+Sadia Memon,"House #117, Lane #1, Society Colony Nawabshah",KE-SCN-202308-0038,2023-08,Society Colony Nawabshah,Urban Residential Feeder,4.1,98.2,101.9,3150,Paid,No
+Fatima Panhwar,"House #441, Street #5, Gareebabad Nawabshah",KE-GBN-202501-0125,2025-01,Gareebabad Nawabshah,Low-Income Residential Feeder,5.1,40.9,53.7,1320,Paid,Yes
+Uzma Qureshi,"House #160, Street #26, Society Colony Nawabshah",KE-SCN-202405-0083,2024-05,Society Colony Nawabshah,Urban Residential Feeder,5.3,69.0,70.6,2000,Paid,No
+Aamir Ansari,"House #416, Road #7, Manwabad Nawabshah",KE-MWN-202304-0019,2023-04,Manwabad Nawabshah,Semi-Urban Feeder,8.2,77.4,102.7,2520,Paid,Yes
+Ghulam Solangi,"House #171, Gali #49, Society Colony Nawabshah",KE-SCN-202505-0143,2025-05,Society Colony Nawabshah,Urban Residential Feeder,6.2,114.6,118.8,3710,Paid,No
+Sara Larik,"House #1, Gali #4, Gareebabad Nawabshah",KE-GBN-202509-0165,2025-09,Gareebabad Nawabshah,Low-Income Residential Feeder,8.9,54.4,56.0,1890,Partially Paid,No
+Asad Khan,"House #315, Block #40, University Colony Nawabshah",KE-UCN-202306-0030,2023-06,University Colony Nawabshah,Urban Residential Feeder,6.2,105.3,106.9,3640,Paid,No
+Aliya Ali,"House #97, Block #10, Society Colony Nawabshah",KE-SCN-202502-0127,2025-02,Society Colony Nawabshah,Urban Residential Feeder,2.6,112.9,115.9,3270,Paid,No
+Fatima Junejo,"House #367, Block #12, Gareebabad Nawabshah",KE-GBN-202306-0027,2023-06,Gareebabad Nawabshah,Low-Income Residential Feeder,12.1,56.5,56.9,1700,Partially Paid,No
+Salman Solangi,"House #29, Mohalla #13, Isharpura Nawabshah",KE-ISN-202306-0027,2023-06,Isharpura Nawabshah,Rural Feeder,14,38.5,37.9,1340,Paid,No
+Adnan Khaskheli,"House #106, Gali #43, Manwabad Nawabshah",KE-MWN-202401-0064,2024-01,Manwabad Nawabshah,Semi-Urban Feeder,3.6,82.8,86.6,2460,Paid,No
+Aamir Rajput,"House #77, Road #37, Farsi Bagh Nawabshah",KE-FBN-202501-0122,2025-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,0.7,110.1,114.8,3380,Paid,No
+Samina Siddiqui,"House #384, Mohalla #10, University Colony Nawabshah",KE-UCN-202301-0005,2023-01,University Colony Nawabshah,Urban Residential Feeder,2.7,116.0,120.5,3540,Unpaid,No
+Shahzad Bhurgri,"House #245, Street #32, University Colony Nawabshah",KE-UCN-202309-0043,2023-09,University Colony Nawabshah,Urban Residential Feeder,1.9,84.7,84.5,2680,Paid,No
+Shoaib Sethar,"House #92, Block #3, Isharpura Nawabshah",KE-ISN-202312-0059,2023-12,Isharpura Nawabshah,Rural Feeder,8.2,47.4,47.1,1500,Unpaid,No
+Sadia Rajput,"House #261, Lane #13, Society Colony Nawabshah",KE-SCN-202302-0008,2023-02,Society Colony Nawabshah,Urban Residential Feeder,3.4,159.6,165.8,4470,Paid,No
+Faisal Panhwar,"House #321, Lane #20, Gareebabad Nawabshah",KE-GBN-202411-0113,2024-11,Gareebabad Nawabshah,Low-Income Residential Feeder,5.7,71.3,73.0,2140,Paid,No
+Talha Bhutto,"House #186, Street #1, Isharpura Nawabshah",KE-ISN-202401-0062,2024-01,Isharpura Nawabshah,Rural Feeder,6.0,27.0,26.4,910,Partially Paid,No
+Sumaira Shah,"House #384, Chowk #3, Manwabad Nawabshah",KE-MWN-202306-0030,2023-06,Manwabad Nawabshah,Semi-Urban Feeder,9.7,77.7,80.2,2450,Partially Paid,No
+Mehwish Jatoi,"House #269, Road #35, University Colony Nawabshah",KE-UCN-202505-0141,2025-05,University Colony Nawabshah,Urban Residential Feeder,2.9,128.7,132.7,3840,Paid,No
+Shabana Qureshi,"House #379, Gali #47, Farsi Bagh Nawabshah",KE-FBN-202308-0037,2023-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,4.4,171.7,169.5,5100,Paid,No
+Ali Jatoi,"House #327, Block #26, Isharpura Nawabshah",KE-ISN-202408-0097,2024-08,Isharpura Nawabshah,Rural Feeder,14,29.5,38.7,940,Partially Paid,Yes
+Asma Abbasi,"House #122, Street #13, Gareebabad Nawabshah",KE-GBN-202410-0108,2024-10,Gareebabad Nawabshah,Low-Income Residential Feeder,7.4,30.5,31.1,900,Partially Paid,No
+Yasir Jatoi,"House #238, Road #8, Society Colony Nawabshah",KE-SCN-202407-0093,2024-07,Society Colony Nawabshah,Urban Residential Feeder,6.8,103.7,102.8,3310,Paid,No
+Robina Malik,"House #141, Lane #3, University Colony Nawabshah",KE-UCN-202310-0046,2023-10,University Colony Nawabshah,Urban Residential Feeder,3.3,88.0,92.0,2610,Paid,No
+Sikandar Chachar,"House #218, Chowk #16, Isharpura Nawabshah",KE-ISN-202312-0060,2023-12,Isharpura Nawabshah,Rural Feeder,6.6,30.8,32.3,1040,Unpaid,No
+Samina Soomro,"House #155, Mohalla #41, Gareebabad Nawabshah",KE-GBN-202511-0175,2025-11,Gareebabad Nawabshah,Low-Income Residential Feeder,4.7,34.9,34.7,1210,Partially Paid,No
+Hamza Abbasi,"House #387, Street #19, Isharpura Nawabshah",KE-ISN-202510-0170,2025-10,Isharpura Nawabshah,Rural Feeder,9.8,41.2,42.8,1400,Unpaid,No
+Hina Rajput,"House #33, Block #8, Farsi Bagh Nawabshah",KE-FBN-202502-0128,2025-02,Farsi Bagh Nawabshah,Urban Commercial Feeder,0.7,152.2,152.1,4650,Paid,No
+Rabia Qureshi,"House #214, Gali #47, Isharpura Nawabshah",KE-ISN-202311-0051,2023-11,Isharpura Nawabshah,Rural Feeder,9.5,44.7,88.7,1320,Unpaid,Yes
+Umer Soomro,"House #377, Block #47, Gareebabad Nawabshah",KE-GBN-202306-0029,2023-06,Gareebabad Nawabshah,Low-Income Residential Feeder,9.9,67.7,67.8,2190,Partially Paid,No
+Nasir Ali,"House #339, Street #5, Manwabad Nawabshah",KE-MWN-202407-0094,2024-07,Manwabad Nawabshah,Semi-Urban Feeder,8.8,97.6,163.1,2780,Paid,Yes
+Zainab Larik,"House #105, Gali #6, University Colony Nawabshah",KE-UCN-202403-0073,2024-03,University Colony Nawabshah,Urban Residential Feeder,2.5,75.1,74.0,2470,Paid,No
+Zainab Marri,"House #400, Street #46, Isharpura Nawabshah",KE-ISN-202411-0111,2024-11,Isharpura Nawabshah,Rural Feeder,7.7,26.8,26.7,870,Partially Paid,No
+Shabana Solangi,"House #194, Gali #17, Society Colony Nawabshah",KE-SCN-202412-0117,2024-12,Society Colony Nawabshah,Urban Residential Feeder,2.1,63.8,63.7,1970,Paid,No
+Noman Khaskheli,"House #296, Lane #49, University Colony Nawabshah",KE-UCN-202303-0011,2023-03,University Colony Nawabshah,Urban Residential Feeder,2.7,76.0,73.8,2420,Paid,No
+Sadia Ali,"House #281, Gali #32, University Colony Nawabshah",KE-UCN-202410-0106,2024-10,University Colony Nawabshah,Urban Residential Feeder,1.7,89.4,87.2,2780,Paid,No
+Abdul Ali,"House #265, Road #27, Farsi Bagh Nawabshah",KE-FBN-202503-0135,2025-03,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.3,171.8,168.4,5500,Partially Paid,No
+Sikandar Siddiqui,"House #395, Gali #38, Farsi Bagh Nawabshah",KE-FBN-202304-0018,2023-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.0,103.6,106.5,3090,Paid,No
+Iqra Ali,"House #83, Block #26, Society Colony Nawabshah",KE-SCN-202501-0121,2025-01,Society Colony Nawabshah,Urban Residential Feeder,2.5,128.5,133.8,4130,Paid,No
+Aliya Sheikh,"House #19, Chowk #7, Farsi Bagh Nawabshah",KE-FBN-202401-0061,2024-01,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.9,95.6,95.5,3300,Paid,No
+Sana Bijarani,"House #300, Gali #21, Farsi Bagh Nawabshah",KE-FBN-202304-0017,2023-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.4,160.1,161.1,5250,Paid,No
+Adnan Rajput,"House #17, Gali #26, Society Colony Nawabshah",KE-SCN-202407-0095,2024-07,Society Colony Nawabshah,Urban Residential Feeder,6.7,113.2,118.0,3840,Paid,No
+Asad Junejo,"House #316, Mohalla #45, Gareebabad Nawabshah",KE-GBN-202412-0118,2024-12,Gareebabad Nawabshah,Low-Income Residential Feeder,5.3,33.6,33.2,1100,Unpaid,No
+Adnan Bijarani,"House #208, Block #22, University Colony Nawabshah",KE-UCN-202508-0156,2025-08,University Colony Nawabshah,Urban Residential Feeder,3.5,106.0,106.9,3260,Paid,No
+Tariq Chachar,"House #263, Road #39, Isharpura Nawabshah",KE-ISN-202403-0075,2024-03,Isharpura Nawabshah,Rural Feeder,10.4,30.5,31.4,890,Partially Paid,No
+Hassan Baloch,"House #180, Block #27, Society Colony Nawabshah",KE-SCN-202512-0180,2025-12,Society Colony Nawabshah,Urban Residential Feeder,3.2,140.9,137.4,4500,Paid,No
+Ahmed Khaskheli,"House #301, Chowk #17, Gareebabad Nawabshah",KE-GBN-202309-0042,2023-09,Gareebabad Nawabshah,Low-Income Residential Feeder,10.5,35.8,54.6,1160,Partially Paid,Yes
+Tariq Shah,"House #181, Street #36, Farsi Bagh Nawabshah",KE-FBN-202311-0053,2023-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.1,171.3,170.9,5400,Paid,No
+Ayesha Soomro,"House #423, Road #43, Farsi Bagh Nawabshah",KE-FBN-202505-0142,2025-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.3,103.7,102.0,2990,Partially Paid,No
+Talha Sheikh,"House #208, Block #27, Manwabad Nawabshah",KE-MWN-202311-0055,2023-11,Manwabad Nawabshah,Semi-Urban Feeder,3.7,43.1,89.4,1260,Unpaid,Yes
+Fatima Sheikh,"House #339, Block #34, Manwabad Nawabshah",KE-MWN-202401-0063,2024-01,Manwabad Nawabshah,Semi-Urban Feeder,3.2,74.1,77.0,2590,Unpaid,No
+Rizwan Jatoi,"House #353, Road #18, Society Colony Nawabshah",KE-SCN-202505-0145,2025-05,Society Colony Nawabshah,Urban Residential Feeder,3.7,74.6,78.3,2170,Paid,No
+Sikandar Chachar,"House #302, Block #28, Isharpura Nawabshah",KE-ISN-202407-0091,2024-07,Isharpura Nawabshah,Rural Feeder,14,47.7,46.8,1490,Paid,No
+Noman Malik,"House #387, Chowk #38, Isharpura Nawabshah",KE-ISN-202508-0160,2025-08,Isharpura Nawabshah,Rural Feeder,11.0,55.3,87.1,1900,Unpaid,Yes
+Sobia Ansari,"House #47, Road #1, Farsi Bagh Nawabshah",KE-FBN-202505-0143,2025-05,Farsi Bagh Nawabshah,Urban Commercial Feeder,5.0,170.6,170.2,5420,Paid,No
+Rukhsana Memon,"House #364, Mohalla #28, University Colony Nawabshah",KE-UCN-202310-0047,2023-10,University Colony Nawabshah,Urban Residential Feeder,5.6,135.8,138.8,4240,Paid,No
+Fahad Jatoi,"House #33, Road #17, Farsi Bagh Nawabshah",KE-FBN-202304-0019,2023-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.5,93.2,94.4,2880,Paid,No
+Asad Siddiqui,"House #414, Chowk #12, Gareebabad Nawabshah",KE-GBN-202410-0106,2024-10,Gareebabad Nawabshah,Low-Income Residential Feeder,6.9,46.0,46.8,1550,Paid,No
+Talha Panhwar,"House #121, Lane #4, University Colony Nawabshah",KE-UCN-202409-0102,2024-09,University Colony Nawabshah,Urban Residential Feeder,3.5,114.3,116.3,3620,Unpaid,No
+Haris Bijarani,"House #46, Block #16, Manwabad Nawabshah",KE-MWN-202505-0141,2025-05,Manwabad Nawabshah,Semi-Urban Feeder,9.2,74.6,75.6,2220,Paid,No
+Yasir Bhurgri,"House #203, Road #38, Society Colony Nawabshah",KE-SCN-202402-0068,2024-02,Society Colony Nawabshah,Urban Residential Feeder,3.7,69.1,68.0,2220,Paid,No
+Uzma Sheikh,"House #146, Street #47, Gareebabad Nawabshah",KE-GBN-202405-0081,2024-05,Gareebabad Nawabshah,Low-Income Residential Feeder,11.8,33.6,62.5,1130,Unpaid,Yes
+Uzma Panhwar,"House #221, Mohalla #1, Farsi Bagh Nawabshah",KE-FBN-202508-0157,2025-08,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.5,113.8,116.8,3250,Paid,No
+Kamran Shah,"House #277, Road #38, Farsi Bagh Nawabshah",KE-FBN-202310-0048,2023-10,Farsi Bagh Nawabshah,Urban Commercial Feeder,2.1,133.2,136.2,4560,Paid,No
+Rabia Ansari,"House #63, Block #8, Manwabad Nawabshah",KE-MWN-202503-0131,2025-03,Manwabad Nawabshah,Semi-Urban Feeder,6.5,60.2,59.3,2070,Paid,No
+Aliya Abbasi,"House #413, Lane #27, Farsi Bagh Nawabshah",KE-FBN-202404-0077,2024-04,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.6,186.6,195.2,5970,Paid,No
+Umer Ali,"House #435, Mohalla #26, Isharpura Nawabshah",KE-ISN-202502-0130,2025-02,Isharpura Nawabshah,Rural Feeder,6.4,28.4,49.9,890,Paid,Yes
+Shoaib Shah,"House #8, Block #40, Manwabad Nawabshah",KE-MWN-202502-0126,2025-02,Manwabad Nawabshah,Semi-Urban Feeder,6.2,72.2,73.6,2160,Unpaid,No
+Salman Mahar,"House #107, Gali #1, Gareebabad Nawabshah",KE-GBN-202302-0010,2023-02,Gareebabad Nawabshah,Low-Income Residential Feeder,4.8,52.8,53.9,1520,Partially Paid,No
+Junaid Ansari,"House #424, Street #1, University Colony Nawabshah",KE-UCN-202501-0123,2025-01,University Colony Nawabshah,Urban Residential Feeder,3.7,75.1,78.3,2370,Paid,No
+Bilal Chandio,"House #178, Street #28, Gareebabad Nawabshah",KE-GBN-202304-0018,2023-04,Gareebabad Nawabshah,Low-Income Residential Feeder,10.3,30.1,30.2,960,Paid,No
+Rukhsana Rind,"House #113, Road #46, University Colony Nawabshah",KE-UCN-202509-0162,2025-09,University Colony Nawabshah,Urban Residential Feeder,6.5,80.8,80.0,2550,Paid,No
+Nasir Soomro,"House #175, Street #30, Manwabad Nawabshah",KE-MWN-202405-0084,2024-05,Manwabad Nawabshah,Semi-Urban Feeder,8.9,57.8,58.3,1730,Paid,No
+Nadia Khaskheli,"House #88, Chowk #31, University Colony Nawabshah",KE-UCN-202303-0015,2023-03,University Colony Nawabshah,Urban Residential Feeder,2.2,71.2,71.0,2200,Paid,No
+Zainab Jatoi,"House #218, Block #2, Society Colony Nawabshah",KE-SCN-202401-0061,2024-01,Society Colony Nawabshah,Urban Residential Feeder,1.3,146.3,144.7,4260,Paid,No
+Aliya Ali,"House #300, Road #44, Farsi Bagh Nawabshah",KE-FBN-202509-0165,2025-09,Farsi Bagh Nawabshah,Urban Commercial Feeder,3.8,69.3,71.4,2420,Paid,No
+Fatima Qureshi,"House #146, Chowk #23, Isharpura Nawabshah",KE-ISN-202502-0126,2025-02,Isharpura Nawabshah,Rural Feeder,7.1,52.7,80.0,1540,Unpaid,Yes
+Rizwan Jatoi,"House #447, Block #36, Isharpura Nawabshah",KE-ISN-202410-0107,2024-10,Isharpura Nawabshah,Rural Feeder,7.9,55.1,56.8,1710,Unpaid,No
+Sohail Pathan,"House #318, Street #33, Gareebabad Nawabshah",KE-GBN-202301-0004,2023-01,Gareebabad Nawabshah,Low-Income Residential Feeder,4.9,66.3,65.9,1950,Unpaid,No
+Noman Khan,"House #205, Block #17, Manwabad Nawabshah",KE-MWN-202404-0079,2024-04,Manwabad Nawabshah,Semi-Urban Feeder,5.4,82.7,81.4,2360,Paid,No
+Ghulam Sethar,"House #156, Street #30, Manwabad Nawabshah",KE-MWN-202504-0139,2025-04,Manwabad Nawabshah,Semi-Urban Feeder,5.8,55.9,57.5,1640,Unpaid,No
+Samina Pathan,"House #302, Road #1, Gareebabad Nawabshah",KE-GBN-202409-0104,2024-09,Gareebabad Nawabshah,Low-Income Residential Feeder,8.5,43.4,43.7,1220,Paid,No
+Rukhsana Solangi,"House #235, Mohalla #15, University Colony Nawabshah",KE-UCN-202406-0086,2024-06,University Colony Nawabshah,Urban Residential Feeder,5.5,83.4,86.7,2750,Partially Paid,No
+Aamir Jamali,"House #18, Road #40, Society Colony Nawabshah",KE-SCN-202411-0111,2024-11,Society Colony Nawabshah,Urban Residential Feeder,3.9,68.9,137.7,1960,Partially Paid,Yes
+Nida Mahar,"House #227, Street #4, Farsi Bagh Nawabshah",KE-FBN-202311-0052,2023-11,Farsi Bagh Nawabshah,Urban Commercial Feeder,1.0,80.4,82.1,2360,Paid,No
+Sana Jamali,"House #2, Chowk #7, Manwabad Nawabshah",KE-MWN-202411-0111,2024-11,Manwabad Nawabshah,Semi-Urban Feeder,5.0,84.1,82.2,2590,Paid,No
+Shahzad Sheikh,"House #27, Street #37, Manwabad Nawabshah",KE-MWN-202502-0127,2025-02,Manwabad Nawabshah,Semi-Urban Feeder,4.9,57.1,58.5,1700,Unpaid,No
+Shahzad Khan,"House #383, Chowk #35, Gareebabad Nawabshah",KE-GBN-202411-0115,2024-11,Gareebabad Nawabshah,Low-Income Residential Feeder,7.1,49.4,99.6,1560,Unpaid,Yes
