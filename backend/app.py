@@ -14,6 +14,9 @@ from backend.routes.predict import predict_bp
 app = Flask(__name__)
 CORS(app)
 
+# Expose a WSGI-compatible entrypoint for serverless platforms.
+application = app
+
 app.register_blueprint(dashboard_bp, url_prefix="/api/dashboard")
 app.register_blueprint(predict_bp, url_prefix="/api/predict")
 
