@@ -1,9 +1,8 @@
 from flask import Blueprint, jsonify, request
-from data_loader import load_data
+from backend.data_loader import load_data
 from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder
 import pandas as pd
-import numpy as np
 
 predict_bp = Blueprint("predict", __name__)
 

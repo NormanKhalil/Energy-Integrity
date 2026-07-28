@@ -3,9 +3,13 @@ import {
   BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid,
   Tooltip, Legend, ResponsiveContainer, ComposedChart, Cell,
 } from "recharts";
-import { Zap, AlertTriangle, CheckCircle, ShieldAlert, Loader } from "lucide-react";
+import { Zap, AlertTriangle, CheckCircle, ShieldAlert } from "lucide-react";
+import MetricCard from "./components/MetricCard";
+import StatusBadge from "./components/StatusBadge";
+import Spinner from "./components/Spinner";
+import { buildApiUrl } from "./lib/api";
 
-const API = "http://localhost:5000/api";
+const API = buildApiUrl("");
 
 function useFetch(url) {
   const [data, setData] = useState(null);
@@ -22,36 +26,6 @@ function useFetch(url) {
 
   return { data, error };
 }
-
-const Spinner = () => (
-  <div className="flex items-center justify-center h-full">
-    <Loader className="w-8 h-8 text-cyan-400 animate-spin" />
-  </div>
-);
-
-const KpiCard = ({ title, value, sub, icon: Icon }) => (
-  <div className="bg-slate-800 p-6 rounded-xl border border-slate-700 shadow-lg flex items-center justify-between transition-all hover:border-slate-600">
-    <div>
-      <p className="text-slate-400 text-sm font-medium mb-1">{title}</p>
-      <h3 className="text-3xl font-bold text-white">{value ?? "—"}</h3>
-      {sub && <p className="text-sm mt-2 text-rose-400">{sub}</p>}
-    </div>
-    <div className="bg-slate-700 p-4 rounded-full">
-      <Icon className="w-8 h-8 text-cyan-400" />
-    </div>
-  </div>
-);
-
-const RiskBadge = ({ level }) => {
-  const colors = { High: "bg-red-500", Medium: "bg-yellow-500", Low: "bg-green-500" };
-  return (
-    <span
-      className={`px-2 py-0.5 rounded text-xs font-bold text-white ${colors[level] ?? "bg-slate-600"}`}
-    >
-      {level}
-    </span>
-  );
-};
 
 export default function Dashboard() {
   const [year, setYear] = useState("all");
@@ -147,25 +121,25 @@ export default function Dashboard() {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
-        <KpiCard
+        <MetricCard
           title={selectedArea === "all" ? "Total Loadshedding Hrs" : `Loadshedding Hrs (${selectedArea})`}
           value={kpis ? `${kpis.total_loadshedding_hrs} hrs` : null}
           sub={selectedArea === "all" ? "All areas combined" : `Selected grid segment`}
           icon={Zap}
         />
-        <KpiCard
+        <MetricCard
           title={selectedArea === "all" ? "Worst Affected Area" : "Average Loadshedding"}
           value={selectedArea === "all" ? kpis?.worst_area : (kpis ? `${kpis.worst_area_avg_hrs} hrs` : null)}
           sub={kpis ? `${kpis.worst_area_avg_hrs} hrs avg/day` : null}
           icon={AlertTriangle}
         />
-        <KpiCard
+        <MetricCard
           title={selectedArea === "all" ? "Billing Compliance" : "Billing Compliance"}
           value={kpis ? `${kpis.billing_compliance_pct}%` : null}
           sub="Bills paid on time"
           icon={CheckCircle}
         />
-        <KpiCard
+        <MetricCard
           title={selectedArea === "all" ? "Highest Theft Area" : "Electricity Theft"}
           value={selectedArea === "all" ? kpis?.highest_theft_area : (kpis ? `${kpis.overall_theft_pct}%` : null)}
           sub={kpis ? `${kpis.overall_theft_pct}% theft cases` : null}
@@ -328,7 +302,7 @@ export default function Dashboard() {
                       <td className="py-2.5 text-right text-rose-400">{row.theftRate}%</td>
                       <td className="py-2.5 text-right text-yellow-400">+{row.avgUnitDiff_kWh} kWh</td>
                       <td className="py-2.5 text-right pr-2">
-                        {risk ? <RiskBadge level={risk.riskLevel} /> : "—"}
+                        {risk ? <StatusBadge level={risk.riskLevel} /> : "—"}
                       </td>
                     </tr>
                   );

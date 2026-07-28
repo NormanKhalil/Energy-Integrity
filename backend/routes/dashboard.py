@@ -1,6 +1,5 @@
 from flask import Blueprint, jsonify, request, Response
-from data_loader import load_data
-import numpy as np
+from backend.data_loader import load_data
 import io
 import csv
 
